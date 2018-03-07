@@ -129,6 +129,7 @@ return array(
         'core_auth_facebook'  => '\Concrete\Core\Authentication\Type\Facebook\ServiceProvider',
         'core_auth_google'    => '\Concrete\Core\Authentication\Type\Google\ServiceProvider',
         'core_auth_twitter'   => '\Concrete\Core\Authentication\Type\Twitter\ServiceProvider',
+        'core_auth_linkedin'   => '\Concrete\Core\Authentication\Type\LinkedIn\ServiceProvider',
 
         // Validator
         'core_validator'          => '\Concrete\Core\Validator\ValidatorServiceProvider',
