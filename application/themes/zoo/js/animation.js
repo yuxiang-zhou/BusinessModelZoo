@@ -6,11 +6,7 @@ $(function(){
   //   svg.setAttribute("viewBox", viewBox);
   // });
 
-  $('#btnRestart').click(function(){
-    $('svg').each(function(i,v){
-      var elm = v;
-      var newone = elm.cloneNode(true);
-      elm.parentNode.replaceChild(newone, elm);
-    });
+  $('svg').click(function(){
+    $('g').each((i, elem)=>{clone = elem.cloneNode(true); elem.parentNode.replaceChild(clone, elem);});
   });
 });
