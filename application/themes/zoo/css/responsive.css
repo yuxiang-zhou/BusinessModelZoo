@@ -1,0 +1,76 @@
+
+
+@media (max-width: 1199px) {
+	#overview-Businessmodels,
+	#adjustSame{margin: 0 10px;}
+}
+
+
+@media (max-width: 991px) {
+
+	.menu-bar-info{ font: bold 15px/15px "texta"; color: #374e59;}
+	#main-navigation{margin: 0;}
+	#logo{margin-bottom: 0;}
+	#navbar{padding: 0;}
+	
+	#shift{margin-top: -500px;}
+	#shift .text-common{display: none;}
+	#shift .text-headline h2{margin: 0;}
+	#shift .bottom a{margin-top:0;}
+	#shift .relative_z-1{padding-bottom: 80px; padding-top: 15px;}
+	
+	#teaser.businessmodels{height: 630px;}
+	#shift .col-xs-6{width: 50% !important;}
+	
+	.plus-yellow,
+	.plus-blue{display: inline-block; float: right; min-width: 125px;}
+	
+	.plus-orange,
+	.plus-green{display: inline-block; float: left; min-width: 125px;}
+}
+
+@media (max-width: 767px) {
+
+	#wrapper .nav ul{
+		visibility: visible;
+  		opacity: 1;
+  		-webkit-transform: rotateX(0deg);
+    	-moz-transform: rotateX(0deg); 
+     	transform: rotateX(0deg);
+     	
+	}
+	#main-navigation{padding-right: 0 !important;}
+	
+	#wrapper .nav li.nav-dropdown .submenu{position: static; padding: 0 0 0 30px;}
+	#wrapper .nav li.nav-dropdown .submenu li a{border: none;}
+	
+	#navbar{margin: 0 !important;}
+	#wrapper .nav{width: 100%; float: none; overflow: hidden;}
+	#logo{margin:25px 0 10px 0;}
+	#main-navigation{margin-bottom: 15px; margin-left: 32px;}
+	.navbar-toggle .icon-bar{width: 33px;}
+	.navbar-toggle{margin-right: 0; margin-top: 18px; padding: 0;}
+	button{-webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;}
+  select.width300{width: 300px;}
+  
+}
+
+@media (max-width: 500px) {
+	#overview-Businessmodels .col-xs-6{width: 100%;}
+	#teaser-icons{width: 270px !important;}
+	#teaser-icons li{margin-right: 10px !important; }
+	.width300{width: 100% !important;}
+	
+    #shift .bottom{display: none;}
+    #shift .relative_z-1{padding-bottom: 20px;}
+    #shift .number-headline,
+    #shift .text-headline h2 a{font-size: 15px !important;}
+    #teaser.businessmodels{height: 400px;}
+    #shift{margin-top: -370px;}
+    #teaser.businessmodels{height: 500px;}
+    .shrinkCF #teaser{height: 550px !important;}
+    .removePadding{padding-left: 0 !important; padding-right: 0 !important;margin: 0 -20px !important; font-size: 28px !important;}
+	
+}

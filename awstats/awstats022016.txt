@@ -1,0 +1,447 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1982                
+POS_TIME 2661                
+POS_VISITOR 6377                
+POS_DAY 6752                
+POS_DOMAIN 3314                
+POS_LOGIN 3603                
+POS_ROBOT 3758                
+POS_WORMS 3980                
+POS_EMAILSENDER 4111                
+POS_EMAILRECEIVER 4254                
+POS_SESSION 7102                
+POS_SIDER 7308                
+POS_FILETYPES 4389                
+POS_DOWNLOADS 4686                
+POS_OS 4734                
+POS_BROWSER 4861                
+POS_SCREENSIZE 5042                
+POS_UNKNOWNREFERER 5116                
+POS_UNKNOWNREFERERBROWSER 5203                
+POS_ORIGIN 5285                
+POS_SEREFERRALS 5426                
+POS_PAGEREFS 5570                
+POS_SEARCHWORDS 5781                
+POS_KEYWORDS 5933                
+POS_MISC 2324                
+POS_ERRORS 5992                
+POS_CLUSTER 3459                
+POS_SIDER_404 6068                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160301100309 6770 1740899 41054087079
+FirstTime 20160216094554
+LastTime 20160229160320
+LastUpdate 20160302013254 1 0 0 0 0
+TotalVisits 23                  
+TotalUnique 6                   
+MonthHostsKnown 4                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 17 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 6 6 81411 0 0 0
+8 0 0 0 0 0 0
+9 428 1433 8290195 0 6 22292
+10 1273 4574 21555066 0 2 12274
+11 872 3913 13113924 2 4 43457
+12 632 1791 7071568 0 3 17962
+13 691 2887 9568623 0 1 5924
+14 881 3792 11283288 0 0 0
+15 438 1991 8985027 0 2 96452
+16 746 2838 14028371 6 20 1375044
+17 677 2837 12330787 0 2 12072
+18 370 1421 7068509 0 0 0
+19 7 21 309381 0 0 0
+20 63 216 1479868 0 0 0
+21 1 1 15617 0 0 0
+22 0 0 0 0 1 6754
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+at 6916 27369 108454812
+ip 143 292 4111075
+com 22 42 1289671
+net 4 18 1326077
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+google[_+\s]web[_+\s]preview 20 1375044 20160229164311 0
+favicon 2 31183 20160229111316 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 6875 6139222 0 0
+png 2504 8385132 0 0
+woff 303 1086468 0 0
+woff2 72 695184 0 0
+php 100 5555459 0 0
+html 803 21341726 0 0
+less 2365 6578845 0 0
+js 10248 15789680 0 0
+jpg 994 2660219 0 0
+Unknown 3442 46916366 0 0
+gif 15 33334 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx11 27204 6876
+winxp 6 6
+ios_iphone 510 202
+ios_ipad 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+safari9.0 511 203
+safari9.0.3 706 308
+chrome43.0.2357.81 257 125
+chrome45.0.2454.101 42 22
+firefox42.0 26199 6421
+firefox3.6.8 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 481 482
+From1 0 0
+From2 0 0
+From3 1 1
+From4 6603 27238
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.concrete5.org/marketplace/connect/-/do_connect/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+85.13.9.122.jm-data.at 6909 27348 108145431 20160229160320
+217.138.46.210 137 286 4029664 20160229111715
+97e1ac72.skybroadband.com 22 42 1289671 20160226110050
+85.13.14.135.jm-data.at 7 21 309381 20160224193430
+86.47.80.146 6 6 81411 20160227072801
+dab-ntm1-w-3-9.dab.02.net 4 18 1326077 20160226131327
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20160216 312 824 6635753 1
+20160217 855 3370 9331373 1
+20160218 256 816 2735827 1
+20160219 7 35 133183 1
+20160222 605 1994 8361940 4
+20160224 2298 9000 33966322 3
+20160225 1154 4940 21655041 4
+20160226 389 1698 9242308 3
+20160227 6 6 81411 1
+20160228 1 1 15617 1
+20160229 1202 5037 23022860 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 12
+5mn-15mn 2
+0s-30s 4
+30s-2mn 1
+2mn-5mn 2
+15mn-30mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 178
+/application/themes/zoo/css/main.less 2365 6578845 0 9
+/ccm/assets/localization/core/js 950 11848842 0 2
+/ccm/assets/localization/jquery/ui/js 950 35150 0 1
+/ 803 21341726 16 3
+/business-models 166 7418377 2 1
+/index.php/tools/required/pages/url_slug 127 930 0 0
+/business-models/product-model 124 5063027 2 1
+/index.php 100 5555459 2 0
+/exemplars 98 4874846 0 0
+/business-models/solutions-model 94 4368314 0 1
+/index.php/ccm/system/block/render 35 104168 0 0
+/index.php/ccm/system/file/upload 6 5262 0 0
+/index.php/tools/required/dashboard/sitemap_check_in 6 0 0 0
+/index.php/dashboard/system/basics/accessibility 1 44115 0 0
+/contact 1 13362 0 0
+/ccm/system/page/check_in/1/1455715826%3A9d478658a35d02a134545dc00532bf42 1 388 0 0
+/ccm/system/page/check_in/159/1456739293%3Ad4f6e1c70389dc7f757afd279f9a5cad 1 520 0 0
+/ressources 1 13361 0 0
+/index.php/ccm/assets/localization/jquery/ui/js 16 592 0 0
+/ccm/system/page/check_in/158/1456739369%3A73ed4a054e0e51e47c68949b752430b7 1 512 0 0
+/index.php/dashboard/extend 2 1048 0 0
+/index.php/install/run_routine/elemental_blank/install_config 1 15 0 0
+/ccm/system/dialogs/page/add/compose/6/153 4 38556 0 0
+/index.php/dashboard/system/basics/timezone 1 122579 0 0
+/index.php/install/setup 1 5978 0 0
+/login/logout/1456319496%3A182ff781d2690a6607eecef13763985d 1 388 0 0
+/index.php/install 2 22310 0 0
+/index.php/dashboard/extend/connect/connect_complete 1 167 0 0
+/index.php/ccm/system/panels/dashboard 1 1998 0 0
+/index.php/dashboard/system/seo/urls/saved/1 1 48243 0 0
+/index.php/dashboard/system/optimization/cache/cache_updated 1 51401 0 0
+/index.php/dashboard/system/backup/update/check_for_updates 1 548 0 0
+/index.php/tools/required/files/replace 6 17742 0 0
+/register 1 4374 0 0
+/index.php/ccm/system/backend/editor_data 39 4797 0 0
+/index.php/ccm/system/dialogs/page/add_block 24 110244 0 0
+/index.php/install/run_routine/elemental_blank/install_blocktypes 1 15 0 0
+/index.php/dashboard/system/seo/urls 1 47621 0 0
+/index.php/install/run_routine/elemental_blank/set_site_permissions 1 15 0 0
+/index.php/dashboard/system/mail/importers/edit_importer/1 1 47145 0 0
+/index.php/dashboard/system/basics/accessibility/save 1 600 0 0
+/application/themes/zoo/fonts/utopia_regular-webfont.woff2 24 231952 0 0
+/login/logout/1455715856%3Af4014fa83a7069232c49e5213a320e49 1 388 0 0
+/index.php/ccm/assets/localization/core/js 16 200000 0 0
+/ccm/system/search/files/submit 3 14999 0 0
+/ccm/assets/localization/imageeditor/js 2 478 0 0
+/index.php/tools/required/dashboard/sitemap_data 21 34079 0 0
+/index.php/dashboard/system 2 108248 0 0
+/login/logout 4 201352 0 0
+/index.php/dashboard/pages/themes/inspect/2/activate 1 44672 0 0
+/index.php/dashboard/pages/themes/activate/2 1 43049 0 0
+/login 15 127800 0 0
+/ccm/system/page/check_in/1/1456319488%3Ac602e78f7432d3ddd117ab9c69a2c10a 1 388 0 0
+/index.php/dashboard/extend/install/download/2102 1 43758 0 0
+/index.php/install/select_language 1 7982 0 0
+/index.php/dashboard/pages 6 3096 0 0
+/index.php/install/run_routine/elemental_blank/install_page_types 1 15 0 0
+/index.php/install/run_routine/elemental_blank/install_content 1 15 0 0
+/ccm/assets/localization/redactor/js 80 228960 0 0
+/index.php/dashboard/system/registration/authentication/edit/3 1 47569 0 0
+/index.php/dashboard/system/basics/timezone/update 1 616 0 0
+/index.php/dashboard/system/seo/excluded 1 43736 0 0
+/index.php/dashboard/system/optimization/cache 1 51208 0 0
+/index.php/dashboard/pages/themes/inspect/2/install 1 44672 0 0
+/ccm/system/page/check_in/1/1456422609%3A708c3561d586ccee535d07b52b4d7120 1 388 0 0
+/index.php/tools/required/pile_manager 1 0 0 0
+/index.php/dashboard/system/basics/multilingual 1 45328 0 0
+/index.php/ccm/system/file/get_json 6 5766 0 0
+/ccm/system/panels/dashboard 13 25714 0 0
+/index.php/dashboard/system/registration/open 1 48853 0 0
+/ccm/assets/localization/dynatree/js 14 1974 0 0
+/login/login 1 2382 0 0
+/index.php/install/run_routine/elemental_blank/install_dashboard 1 15 0 0
+/index.php/ccm/assets/localization/dynatree/js 1 141 0 0
+/index.php/dashboard/system/seo/searchindex 1 45895 0 0
+/index.php/dashboard/system/permissions/tasks 1 70124 0 0
+/index.php/install/run_routine/elemental_blank/install_required_single_pages 1 15 0 0
+/logout 1 45993 0 0
+/index.php/install/run_routine/elemental_blank/install_themes 1 15 0 0
+/ccm/system/panels/page/check_in 25 28033 0 0
+/index.php/dashboard/pages/types 1 46841 0 0
+/about 2 26944 0 0
+/login/logout/1455712750%3A37bc378505631f499fe7d49fb1ef4d04 1 388 0 0
+/index.php/dashboard/pages/themes/install/zoo 1 588 0 0
+/index.php/dashboard/extend/connect/register_step1 1 43505 0 0
+/index.php/install/run_routine/elemental_blank/install_gathering 1 15 0 0
+/index.php/install/run_routine/elemental_blank/install_permissions 1 15 0 0
+/index.php/dashboard/pages/templates 1 43118 0 0
+/index.php/dashboard/system/registration/profiles 1 45410 0 0
+/business-models/matchmaking-model 81 3040630 1 0
+/ccm/system/page/check_in/152/1456333818%3A3188bcf8088271f601e2f830faeb0d46 1 448 0 0
+/index.php/dashboard/system/registration/profiles/update_profiles 1 648 0 0
+/index.php/install/run_routine/elemental_blank/install_jobs 1 15 0 0
+/index.php/dashboard/system/files/thumbnails 1 43898 0 0
+/log 1 1850 0 0
+/application/themes/zoo/fonts/fontello.woff 1 2704 0 0
+/index.php/dashboard/system/basics/timezone/timezone_saved 1 122786 0 0
+/concrete/css/fonts/fontawesome-webfont.woff 8 523616 0 0
+/index.php/install/run_routine/elemental_blank/add_users 1 15 0 0
+/index.php/dashboard/system/multilingual/copy 1 42869 0 0
+/index.php/dashboard/system/permissions/advanced 1 44045 0 0
+/index.php/dashboard/system/backup/update 2 88044 0 0
+/index.php/dashboard/extend/install/install_package/login_logout_link 1 604 0 0
+/index.php/tools/required/dashboard/get_image_data 20 4761 0 0
+/ccm/system/panels/page 2 6120 0 0
+/index.php/tools/required/reindex_pending_pages 32 0 0 0
+/index.php/dashboard/sitemap 6 3096 0 0
+/index.php/dashboard/system/registration/open/1 1 49063 0 0
+/ccm/system/panels/page/check_in/submit 25 4043 0 0
+/index.php/install/configure 2 6799 0 0
+/index.php/dashboard/system/multilingual/translate_interface 1 43137 0 0
+/index.php/install/run_routine/elemental_blank/install_attributes 1 15 0 0
+/index.php/dashboard/extend/connect/community_connect_success 1 43456 0 0
+/ccm/system/dialogs/block/edit/submit 8 1488 0 0
+/application/themes/zoo/fonts/texta-light-webfont.woff 67 163436 0 1
+/index.php/dashboard/system/files/permissions 1 58522 0 0
+/index.php/dashboard/system/basics/social 1 43503 0 0
+/index.php/install/run_routine/elemental_blank/install_image_editor 1 15 0 0
+/index.php/dashboard/system/optimization/cache/update_cache 1 624 0 0
+/index.php/dashboard/pages/themes 8 369652 0 0
+/index.php/install/run_routine/elemental_blank/import_files 1 15 0 0
+/index.php/ccm/system/dialogs/file/search 7 106372 0 0
+/index.php/dashboard/system/registration/open/update_registration_type 1 572 0 0
+/index.php/dashboard/system/basics/editor/submit 1 572 0 0
+/ccm/system/panels/add 30 1203564 0 0
+/index.php/install/test_url/20/20 1 15 0 0
+/ccm/system/dialogs/page/add_block/submit 24 4668 0 0
+/index.php/install/run_routine/elemental_blank/add_home_page 1 15 0 0
+/index.php/dashboard/pages/themes/inspect/2 3 136067 0 0
+/application/themes/zoo/fonts/utopia_regular-webfont.woff 68 164320 0 1
+/index.php/ccm/assets/localization/redactor/js 15 42930 0 0
+/index.php/dashboard/pages/themes/inspect/activate_files/2 3 136202 0 0
+/index.php/dashboard/system/basics/editor/saved 1 46055 0 0
+/ccm/system/dialogs/page/add/compose/6/1 5 47560 0 0
+/index.php/dashboard/sitemap/full 6 263918 0 0
+/index.php/dashboard/files 2 1032 0 0
+/index.php/dashboard/system/basics/editor 1 45853 0 0
+/index.php/dashboard/system/permissions/users 1 57185 0 0
+/login/logout/1455713292%3A5f7bb42d982ab99cb2739bb51e083b8e 1 388 0 0
+/ccm/assets/localization/select2/js 29 870 0 0
+/index.php/dashboard/system/basics/icons 2 95810 0 0
+/ccm/system/dialogs/page/design/submit 6 956 0 0
+/application/themes/zoo/fonts/texta-black-webfont.woff2 24 220080 0 1
+/index.php/tools/required/files/importers/single 6 5916 0 0
+/index.php/dashboard/pages/templates/add 1 49175 0 0
+/index.php/dashboard/extend/install/package_installed/1 1 43579 0 0
+/index.php/dashboard/system/permissions/site 1 45271 0 0
+/index.php/ccm/system/dialogs/block/edit 9 35501 0 0
+/index.php/dashboard/system/basics/accessibility/saved 1 44335 0 0
+/index.php/dashboard/system/registration/authentication 1 50872 0 0
+/index.php/dashboard/files/search 2 120767 0 0
+/index.php/dashboard/system/seo/bulk 1 53192 0 0
+/index.php/install/run_routine/elemental_blank/install_database 1 15 0 0
+/index.php/dashboard/home 6 24145 0 1
+/index.php/ccm/system/dialogs/page/add 13 4605 0 0
+/application/themes/zoo/fonts/texta-light-webfont.woff2 24 243152 0 0
+/index.php/ccm/system/dialogs/file/upload_complete 3 28649 0 0
+/index.php/ccm/system/page/get_json 13 1669 0 0
+/index.php/dashboard/pages/themes/activate_confirm/2/1455615769%3Ae812fd7803067c70513d3df109979513 1 592 0 0
+/application/themes/zoo/fonts/texta-black-webfont.woff 67 149576 0 0
+/ccm/system/dialogs/page/add/compose/submit 13 1940 0 0
+/ccm/system/dialogs/page/add/compose/6/152 4 38056 0 0
+/index.php/ccm/assets/localization/select2/js 2 60 0 0
+/index.php/dashboard/system/multilingual/page_report 1 43309 0 0
+/ccm/system/page/check_in/1/1456323062%3A0f4dc667751b8dd884fe502c7355b258 1 388 0 0
+/login/authenticate/concrete 11 12718 0 0
+/index.php/install/run_routine/elemental_blank/make_directories 1 15 0 0
+/index.php/install/run_routine/elemental_blank/finish 1 15 0 0
+/index.php/dashboard/system/seo/urls/save_urls 1 560 0 0
+/index.php/dashboard/system/mail/method 1 47484 0 0
+/application/themes/zoo/fonts/icons/headerfont.woff 92 82816 0 1
+/index.php/dashboard/system/conversations/settings 1 49510 0 0
+/index.php/dashboard/system/registration/profiles/profiles_enabled 1 46884 0 0
+/index.php/dashboard/system/registration/postlogin 1 45819 0 0
+/index.php/dashboard/extend/install 2 86483 0 0
+/business-models/multi-sided-model 77 3677561 0 0
+/index.php/ccm/system/dialogs/page/design 6 10170 0 0
+/index.php/dashboard/system/mail/importers 1 44256 0 0
+END_SIDER

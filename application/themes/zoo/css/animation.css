@@ -1,0 +1,189 @@
+svg {
+  font-family: 'Montserrat';
+}
+
+g
+{
+  opacity:1;
+}
+
+/*SVG1*/
+g#idFirm {
+  animation: dance0 8s 1;
+}
+
+g#idARight {
+  animation: dance3 8s 1;
+}
+
+g#idALeft {
+  animation: dance2 8s 1;
+}
+
+g#idCustomer {
+  animation: dance1 8s 1;
+}
+
+@keyframes dance0 {
+  0%,20% {
+    opacity:0;
+  }
+  35%,100% {
+    opacity:1;
+  }
+}
+
+@keyframes dance1 {
+  0%,35% {
+    opacity:0;
+  }
+  50%,100% {
+    opacity:1;
+  }
+}
+
+@keyframes dance2 {
+  0%,50% {
+    opacity:0;
+  }
+  65%,100% {
+    opacity:1;
+  }
+}
+
+@keyframes dance3 {
+  0%,65% {
+    opacity:0;
+  }
+  80%,100% {
+    opacity:1;
+  }
+}
+
+
+/*SVG 2-4*/
+
+g#frame2_1, g.cf7_1 {
+  animation: rate7_1 14s 1;
+}
+
+@keyframes rate7_1 {
+  0%,15% {
+    opacity:0;
+  }
+  25%,100% {
+    opacity:1;
+  }
+}
+
+g#frame2_2, g.cf7_2 {
+  animation: rate7_2 14s 1;
+}
+
+@keyframes rate7_2 {
+  0%,25% {
+    opacity:0;
+  }
+  35%,100% {
+    opacity:1;
+  }
+}
+
+g#frame2_3, g.cf7_3 {
+  animation: rate7_3 14s 1;
+}
+
+@keyframes rate7_3 {
+  0%,35% {
+    opacity:0;
+  }
+  45%,100% {
+    opacity:1;
+  }
+}
+
+g#frame2_4, g.cf7_4 {
+  animation: rate7_4 14s 1;
+}
+
+@keyframes rate7_4 {
+  0%,45% {
+    opacity:0;
+  }
+  55%,100% {
+    opacity:1;
+  }
+}
+
+g#frame2_5, g.cf7_5 {
+  animation: rate7_5 14s 1;
+}
+
+@keyframes rate7_5 {
+  0%,55% {
+    opacity:0;
+  }
+  65%,100% {
+    opacity:1;
+  }
+}
+
+g#frame2_6, g.cf7_6 {
+  animation: rate7_6 14s 1;
+}
+
+@keyframes rate7_6 {
+  0%,65% {
+    opacity:0;
+  }
+  75%,100% {
+    opacity:1;
+  }
+}
+
+g#frame2_7, g.cf7_7 {
+  animation: rate7_7 14s 1;
+}
+
+@keyframes rate7_7 {
+  0%,75% {
+    opacity:0;
+  }
+  85%,100% {
+    opacity:1;
+  }
+}
+
+/*SVG General*/
+
+g.af7_1 {
+  animation: animation_fade linear forwards 4s 2s;
+}
+
+g.af7_2 {
+  animation: animation_fade linear forwards 4s 4s;
+}
+g.af7_3 {
+  animation: animation_fade linear forwards 4s 6s;
+}
+g.af7_4 {
+  animation: animation_fade linear forwards 4s 8s;
+}
+g.af7_5 {
+  animation: animation_fade linear forwards 4s 10s;
+}
+g.af7_6 {
+  animation: animation_fade linear forwards 4s 12s;
+}
+g.af7_7 {
+  animation: animation_fade linear forwards 4s 14s;
+}
+
+@keyframes animation_fade {
+  0%,25% {
+    opacity:0;
+  }
+  25%,100% {
+    opacity:1;
+  }
+}

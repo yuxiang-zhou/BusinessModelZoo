@@ -1,0 +1,2182 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1982                
+POS_TIME 2670                
+POS_VISITOR 18083               
+POS_DAY 73120               
+POS_DOMAIN 3647                
+POS_LOGIN 4886                
+POS_ROBOT 5041                
+POS_WORMS 6990                
+POS_EMAILSENDER 7121                
+POS_EMAILRECEIVER 7264                
+POS_SESSION 74059               
+POS_SIDER 74275               
+POS_FILETYPES 7399                
+POS_DOWNLOADS 7760                
+POS_OS 7808                
+POS_BROWSER 8330                
+POS_SCREENSIZE 11031               
+POS_UNKNOWNREFERER 11105               
+POS_UNKNOWNREFERERBROWSER 11812               
+POS_ORIGIN 12274               
+POS_SEREFERRALS 12427               
+POS_PAGEREFS 12641               
+POS_SEARCHWORDS 17082               
+POS_KEYWORDS 17344               
+POS_MISC 2332                
+POS_ERRORS 17510               
+POS_CLUSTER 4742                
+POS_SIDER_404 17646               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160701000235 16633 4390798 10432521675602
+FirstTime 20160601004741
+LastTime 20160630235629
+LastUpdate 20160701014345 803 0 802 0 0
+TotalVisits 1585                
+TotalUnique 930                 
+MonthHostsKnown 647                 
+MonthHostsUnknown 376                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 704 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 215 551 23467082 96 141 1464226
+1 248 630 21170386 66 146 1006874
+2 166 418 17095213 157 227 1269236
+3 291 795 28942406 63 120 704286
+4 300 650 24132624 130 204 846981
+5 177 347 10995460 97 158 1026831
+6 221 550 19595429 173 230 983581
+7 247 704 27917846 149 246 2095669
+8 322 778 25578190 80 151 2026647
+9 561 1268 41683762 180 290 2773757
+10 534 1374 48214559 227 347 1998713
+11 753 1785 55628256 234 330 1717441
+12 572 1386 48058591 156 258 1231207
+13 609 1506 47100717 84 166 730716
+14 659 1706 59008901 84 162 840248
+15 751 1653 47892775 83 188 1362869
+16 805 1841 59720361 149 260 2219343
+17 727 1713 56813955 155 288 2219262
+18 720 1607 47313295 242 352 1787021
+19 617 1603 51300551 165 309 4898848
+20 532 1262 39703795 99 181 1686744
+21 385 866 26268482 96 152 1565129
+22 353 922 34541964 123 234 1520370
+23 378 883 34265160 69 138 1966699
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 60
+ip 3937 9183 300181338
+net 1741 4137 145710643
+it 1671 3809 119017632
+com 1214 3264 129024655
+de 323 673 15740810
+uk 241 586 14997938
+ch 237 594 12980715
+mx 220 635 27963502
+ua 157 171 2349287
+nl 123 340 9454327
+pt 22 55 2175486
+il 19 61 3100312
+tr 36 112 4476679
+eg 8 8 23258
+ph 6 20 1026039
+es 13 41 2075094
+my 66 140 3792082
+no 1 1 8559
+club 97 97 1446427
+ru 85 346 11167581
+fr 20 67 3932231
+ro 1 1 4134
+ma 19 66 2318048
+in 112 324 9470375
+dk 1 1 8559
+london 30 50 1330293
+co 55 170 7543712
+hk 44 67 1937125
+th 5 13 479452
+br 23 75 3611697
+tech 2 2 8264
+org 9 9 32269
+me 1 1 18152
+fi 13 41 1653333
+edu 100 253 8501116
+ir 6 20 1026039
+be 38 91 3142017
+cl 23 63 2315188
+jp 6 20 1026039
+gr 22 46 1169684
+ninja 6 16 566546
+tw 23 75 2539365
+to 1 1 4132
+au 118 338 10430699
+eu 41 101 3656233
+at 38 107 2629467
+vn 1 3 23115
+hu 2 15 969295
+za 19 62 2928862
+pl 31 98 3093917
+ca 6 20 1026039
+ly 2 8 1688660
+cm 6 20 1026093
+ar 30 82 3034247
+arpa 1 1 4132
+ng 2 7 90573
+nz 28 62 1431131
+se 17 47 1701396
+ae 6 20 1026041
+mg 18 62 2299726
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 48
+bingbot 892 3582259 20160630224059 35
+googlebot 711 4940979 20160630210845 41
+mj12bot 555 3354618 20160630201751 156
+seznambot 346 667204 20160630221920 160
+yandex 263 1120472 20160630222450 56
+spbot 194 659146 20160620180959 2
+baiduspider 189 1561478 20160630202059 6
+slurp 180 468094 20160630183709 48
+ahrefsbot 174 494841 20160629193241 23
+ia_archiver 112 1505066 20160620182437 10
+microsoft.*discovery 5 52388 20160608215028 0
+commons\-httpclient 2 0 20160620192547 0
+no_user_agent 24 205451 20160627140758 0
+spider 8 43785 20160623133000 0
+microsoft\-webdav\-miniredir 20 353447 20160608113346 0
+blexbot 2 4292 20160622202607 1
+grapeshot 1 4134 20160620140407 0
+bingpreview 38 1593744 20160624140407 0
+wotbox 88 302681 20160626120755 1
+mail\.ru 16 856674 20160626111845 8
+ips\-agent 11 290094 20160619095546 1
+curl 1 18264 20160621044437 0
+^java\/[0-9] 1 18152 20160620190407 0
+facebook 64 12402157 20160628160534 0
+rogerbot 3 4289 20160621074645 1
+linkdex\.com 3 10117 20160625145714 1
+surveybot 4 9257 20160623213934 2
+semrushbot 31 33926 20160630231405 16
+twitterbot 34 320769 20160624170121 16
+cfnetwork 22 20328 20160627135154 0
+siteexplorer\.info 16 82385 20160602203933 1
+ltx71 1 157 20160626170630 1
+crawl 99 335578 20160627100336 1
+ruby\/ 5 10490 20160625081218 0
+googlebot\-image 18 20943 20160629032757 0
+metauri 2 18152 20160620190511 0
+feedfetcher\-google 1 4132 20160607142711 0
+unknown 108 230417 20160630120503 108
+robot 2 5791 20160615170702 0
+google[_+\s]web[_+\s]preview 20 1041004 20160602095828 0
+python 2 30119 20160616200159 0
+cliqzbot 2 4289 20160607155828 1
+archive\.org_bot 3 1482 20160627114223 3
+favicon 52 213353 20160630182410 0
+bot[\s_+:,\.\;\/\\-] 17 182852 20160630173554 0
+msiecrawler 5 55224 20160624133720 0
+netcraft 1 18264 20160611131029 0
+sogou 27 88092 20160626230640 12
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+eot 209 2179519 0 0
+css 4150 29191895 0 0
+png 3597 489333961 0 0
+ttf 16 255367 0 0
+woff 1485 17450630 0 0
+woff2 1652 26650478 0 0
+php 155 1038804 0 0
+html 2019 14994648 0 0
+less 1109 7650990 0 0
+xml 2 4188 0 0
+js 6967 103998535 0 0
+jpg 934 179469969 0 0
+Unknown 4496 24171972 0 0
+gif 7 18804 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 31
+linuxsuse 1 1
+linuxandroid 1382 445
+macosx6 41 13
+winlong 137 85
+macosx11 4842 1779
+winxp 618 403
+ios_iphone 1347 478
+winphone 78 35
+win2000 70 69
+win95 20 20
+winunknown 18 18
+win2003 133 131
+win8 441 213
+macosx9 592 247
+ios_ipad 622 239
+macosx7 21 8
+unix 4 4
+winnt 149 149
+java 4 4
+macosx5 6 6
+linuxubuntu 206 86
+win98 9 9
+linux 140 65
+win7 5754 2599
+winme 12 12
+macosx 3 1
+macosx10 2986 1180
+Unknown 61 21
+win10 4187 1729
+win8.1 2497 934
+macosx8 417 160
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 137
+firefox28.0 10 10
+chrome50.0.2661.89 508 164
+firefox44.0 2 2
+chrome31.0.1650.57 17 3
+safari9.1.2 21 7
+chrome31.0.1650.63 45 9
+chrome46.0.2480.0 20 6
+msie8.0 259 106
+chrome11.0.696.34 2 2
+safari6.2.8 129 48
+msie7.0 154 137
+chrome50.0.2661.86 12 2
+opera6.01 12 12
+chrome37.0.2049.0 3 3
+chrome13.0.782.24 1 1
+opera9.01 4 4
+firefox38.0 186 75
+chrome51.0.2704.103 2824 1086
+netscape0.6 9 9
+firefox33.0 2 2
+chrome36.0.1985.143 8 2
+firefox25.0 51 9
+chrome26.0.1410.64 2 2
+netscape5.0 6 4
+chrome32.0.1700.77 107 41
+opera5.12 1 1
+chrome28.0.1464.0 1 1
+opera8.50 9 9
+chrome41.0.2228.0 21 21
+safari5.1.9 20 6
+safari 397 136
+safari9.0.2 197 70
+safari7.0 38 10
+chrome34.0.1847.76 25 7
+firefox5.0 3 3
+chrome24.0.1309.0 2 2
+android 105 39
+chrome48.0.2564.116 63 25
+chrome28.0.1500.95 13 3
+chrome36.0.1985.125 16 6
+firefox24.0 1 1
+chrome33.0.0.0 3 0
+netscape4.76 13 13
+iphone 79 24
+netscape0.91 7 7
+chrome51.0.2704.84 2780 986
+msie5.0 5 5
+msie9.0 198 167
+opera7.54 3 3
+safari5.0.5 1 1
+opera38.0.2220.31 102 43
+safari5.1.3 1 1
+safari9.0.3 504 221
+safari8.0.5 48 17
+chrome49.0.2623.87 148 51
+safari9.0.1 381 164
+safari9.1 642 221
+opera8.01 30 30
+chrome51.0.2704.79 895 352
+msie5.5 47 46
+netscape4.79 3 3
+chrome38.0.2125.102 2 0
+chrome16.0.912.75 1 1
+opera10.00 1 1
+chrome35.0.1916.153 2 2
+chrome51.0.2704.106 84 33
+firefox22.0 1 1
+chrome39.0.2171.99 1 1
+firefox3.0.13 1 1
+msie6.0 312 311
+chrome40.0.2214.115 6 6
+chrome39.0.2171.95 9 3
+firefox4.0 1 1
+safari4.0.5 24 4
+firefox34.0 52 52
+chrome51.0.2704.81 610 191
+chrome50.0.2661.94 41 13
+konqueror3.2 1 1
+firefox43.0 31 17
+safari9.1.1 2043 774
+chrome50.0.2661.102 5172 2085
+chrome37.0.2062.120 8 8
+firefox40.1 23 23
+chrome49.0.2623.112 436 158
+opera9.0 9 9
+opera12.16 31 7
+opera7.11 3 3
+firefox48.0 22 7
+firefox42.0 126 44
+chrome10.0.626.0 1 1
+opera7.0 1 1
+firefox21.0 1 1
+firefox29.0 13 13
+firefox3.5.2 1 1
+firefox2.0.0.6 6 6
+firefox12.0 1 1
+chrome49.0.2623.75 8 1
+chrome51.0.2704.63 184 68
+firefox47.0 753 280
+firefox45.0 122 41
+mozilla 65 27
+chrome47.0.2526.106 4 4
+netscape6.0 1 0
+chrome46.0.2486.0 222 85
+chrome48.0.2564.103 1 1
+firefox3.6.3 2 2
+chrome44.0.2403.133 129 44
+firefox19.0 1 1
+firefox10.0.2 14 3
+firefox35.0 42 22
+firefox15.0.1 6 6
+opera9.00 9 9
+safari8.0.7 21 7
+opera7.01 4 4
+firefox31.0 1 1
+firefox6.0.2 28 4
+chrome45.0.2454.93 13 13
+chrome47.0.2526.111 3 3
+msie2.0 9 9
+safari8.0 194 99
+chrome30.0.1599.66 1 1
+Unknown 20 15
+firefox11.0 22 0
+chrome37.0.2062.94 1 1
+netscape4.61 3 3
+safari8.0.8 51 15
+firefox17.0 1 1
+msie6.01 1 1
+opera8.00 10 10
+firefox46.0 1583 750
+chrome49.0.2623.108 206 86
+safari8.0.4 1 1
+msie11.0 1296 647
+safari9.0 1332 519
+msie10.0 66 42
+opera36.0.2130.32 94 94
+opera11.50 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Play42 20160605210045
+WhatsApp/2.16.95_A 20160627132900
+Typhoeus_-_https://github.com/typhoeus/typhoeus 20160609092310
+}__test|O:21:\ 20160615063718
+Mozilla/5.0_(compatible;_Embedly/0.2;_snap;__http://support.embed.ly/) 20160621091245
+Mozilla/6.0 20160617171135
+Opera/9.80_(Android;_Opera_Mini/15.0.2125/37.8625;_U;_en)_Presto/2.12.423_Version/12.16 20160625054554
+Go-http-client/1.1 20160618135805
+Mozilla/5.0_(Android_6.0.1;_Mobile;_rv:47.0)_Gecko/47.0_Firefox/47.0 20160616190743
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20160621091240
+WhatsApp/2.16.133_A 20160627134627
+Agent 20160610033034
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Play42 20160605210045
+WhatsApp/2.16.95_A 20160627132900
+Typhoeus_-_https://github.com/typhoeus/typhoeus 20160609092310
+}__test|O:21:\ 20160615063718
+Google-HTTP-Java-Client/1.17.0-rc_(gzip) 20160621073804
+Go-http-client/1.1 20160618135805
+Microsoft_Office_Word_2013 20160601143114
+Microsoft_Office_Word_2014 20160614012309
+WhatsApp/2.16.133_A 20160627134627
+Agent 20160610033034
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1502 1673
+From1 11 11
+From2 416 560
+From3 595 597
+From4 8619 23957
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 357 481
+baidu 1 1
+live 1 1
+bing 23 43
+yandex 23 23
+yahoo 11 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 137
+https://cf.dropboxstatic.com 22 22
+http://dengi-pod-zalog-nedvizhimosti.ru 19 19
+http://www.csswinner.com/details/businessmodel-zoo/10358 16 16
+https://ebin.cc 16 16
+http://vykup-avto-krasnodar.ru 12 12
+http://hyipmanager.in 12 12
+http://finteks.ru 11 11
+http://nimfa.pro 10 10
+http://kvectim.ru 10 10
+http://zastenchivosti.net 9 9
+http://touropia.ru 7 7
+http://www.cass.city.ac.uk/research-and-faculty/centres/centive/business-models 7 7
+http://izoll.ru 3 3
+http://wallpapersdesk.info 9 9
+http://freenode.info 2 2
+http://www.csswinner.com/search/%20business 1 1
+http://www.pornoklad.net 2 2
+http://znaniyapolza.ru 3 3
+http://janettabridal.com 3 3
+http://inzn.ru 6 6
+http://www.bookmaker-bet.com 3 3
+http://www.ideoworld.org 1 1
+http://sexsaoy.com 2 2
+http://gsmtlf.ru 3 3
+http://www.csswinner.com/search/smo 1 1
+http://guestwifi.thelondonclinic.com/login.html 2 2
+http://moodle.city.ac.uk/course/view.php 1 1
+http://wallpapers-best.com 8 8
+http://spravkavspb.ru 3 3
+http://astrakhan.xrus.org 2 2
+http://kupit-adenu.ru 1 1
+http://mirtorrent.net 3 3
+http://shopvilleroyboch.com.ua 3 3
+http://www.csswinner.com/category/Education/16 4 4
+http://woman-orgasm.ru 3 3
+http://vladimir.xrus.org 3 3
+http://www.csswinner.com/nominees/13 1 1
+http://kredit-pod-zalog-krasnodar.ru 3 3
+http://ladykrossovki.ru 3 3
+http://zaim-pod-zalog-krasnodar.ru 3 3
+http://kirov.xrus.org 1 1
+http://xn-----6kccaibs5cb8afhjrfmix2n.xn--p1ai 3 3
+http://vykupavto-krasnodar.ru 8 8
+http://e-collantes.com 3 3
+http://zdesformula.ru 6 6
+http://letolove.ru 5 5
+http://kruzakivrazbor.ru 4 4
+http://udensapgade.lv 3 3
+http://ziesta.ru 4 4
+https://www.facebook.com 1 1
+http://www.foxinsocks.ru 6 6
+http://storinka.com.ua 2 2
+http://www.styro.ru 3 3
+http://xn----7sbbahebfbcddeqjohba5bl3ajhliejfi4cfxf3a35a.xn--p1ai 1 1
+http://havepussy.com 1 1
+http://www.csswinner.com/nominees/12 2 2
+http://igrovyeavtomaty777.ru 3 3
+http://vgoloveboli.net 6 6
+http://pravoholding.ru 5 5
+http://www.vesnatehno.ru 3 3
+http://oils.afora.ru 6 6
+http://sad-torg.com.ua 6 6
+http://den-noch24.ru 6 6
+http://tl.rulate.ru 3 3
+http://buy-cheap-pills-order-online.com 5 5
+http://www.rospromtest.ru/content.php 3 3
+http://sexsaoy.com 3 3
+http://azlex.uz 2 2
+http://most-kerch.org 4 4
+https://td-33.ru 4 4
+https://t.co/V84bYuaN5E 7 7
+http://www.positive2b.ru 3 3
+http://sygraem.com 4 4
+http://voloomoney.com 2 2
+http://www.positive2b.ru 6 6
+http://fm-upgrade.ru 3 3
+http://call-of-duty.info 2 2
+http://burger-imperia.com 8 8
+http://my-big-family.com 6 6
+http://ideibiznesa2015.ru 1 1
+http://www.muz-baza.net 6 6
+https://www.linkedin.com 1 1
+http://tires.afora.ru 3 3
+http://mmog-play.ru 7 7
+http://localhost:9000/vaqum/urlsForAdmin/category/10/327 1 1
+http://ingress-store.com 2 2
+http://gastronom.com.ua 2 2
+http://www.vesnatehno.ru 1 1
+http://www.csswinner.com/nominees/14 1 1
+http://yoshkarola.xrus.org 2 2
+http://vladivostok.xrus.org 4 4
+http://tadalafil-sildenafil.com 5 5
+http://kinderok.com 5 5
+http://vashsvet.com 7 7
+http://istock-mebel.ru 3 3
+http://dnepr-avtospar.com.ua 3 3
+https://biznesschat.net 2 2
+http://flooringinstallation-edmonton.com 3 3
+http://tmm-kurs.ru 3 3
+http://www.csswinner.com/search/business 2 2
+http://www.csswinner.com/tag/flat/8/page/2 1 1
+http://money-every-day.com 3 3
+http://pron.pro 2 2
+http://xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai 3 3
+http://mail14a.webmail.libero.it/cp/MailMessageBody.jsp 2 2
+http://biznesluxe.ru 9 9
+http://dimkino.ru 4 4
+http://creditmoney.com.ua 3 3
+http://e-collantes.com 3 3
+http://letous.ru 5 5
+http://uytmaster.ru 6 6
+http://www.mosrif.ru/produktsiya 8 8
+http://to.afora.ru 5 5
+http://kaliningrad.xrus.org 3 3
+https://mrwhite.biz 4 4
+http://accessories.afora.ru 3 3
+http://www.alveris.ru 7 7
+http://kostroma.xrus.org 3 3
+http://intervsem.ru 3 3
+http://silvermature.net 3 3
+http://zvetki.ru 3 3
+http://saitevpatorii.com 3 3
+http://https-legalrc.biz 9 9
+http://elvel.com.ua 3 3
+http://office-windows.ru 5 5
+http://www.varikozdok.ru 4 4
+http://royal-investments.net 3 3
+http://homelygarden.com 3 3
+http://xn--80adiozefkkgf4j9ac.xn--p1ai 9 9
+http://runstocks.com 3 3
+http://www.csswinner.com/tag/icons/10 1 1
+http://hd720kino.ru 1 1
+http://www.o-trubah.com 8 8
+http://www.printfriendly.com/print 0 2
+http://dnepr-avtospar.com.ua 2 2
+http://www.allmetalworking.ru 6 6
+http://djonwatch.ru 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+business+model+zoo 22
+zoo+models 2
+content 1
+zoo.com+models 1
+businessmodelzooalpha+home 1
+businessmodelzoo 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 9
+zoo 24
+model 22
+business 22
+models 3
+businessmodelzooalpha 1
+content 1
+zoo.com 1
+businessmodelzoo 1
+home 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 23 4876
+206 84 2188954
+400 2 614
+404 87 19227
+301 3 756
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/.well-known/assetlinks.json 7 -
+/.well-known/apple-app-site-association 19 -
+/robots.txt 31 -
+/apple-app-site-association 30 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1023
+138.40.66.161 217 378 6720546 20160627102520
+138.40.231.200 206 328 3976145 20160630153250
+nat-polocitta-wifi-unitnx.net.icts.unitn.it 191 397 12402132 20160627095215
+net-93-65-94-177.cust.vodafonedsl.it 102 216 5477056 20160604165314
+138.40.67.231 100 264 9474229 20160628173209
+50209.simplecloud.club 97 97 1446427 20160609210227
+nat-unitnx-polocitta.net.icts.unitn.it 96 149 3342179 20160610155937
+227.153.63.188.dynamic.wline.res.cust.swisscom.ch 93 277 4631844 20160620200212
+http-v.fe.bosch.de 89 219 3935825 20160622144208
+antony.doc.ic.ac.uk 87 207 3290913 20160613204453
+027baccb.bb.sky.com 7 21 1048236 20160607000117
+iburst-41-56-217-5.iburst.co.za 6 20 1026039 20160609103948
+baiduspider-220-181-108-104.crawl.baidu.com 1 2 46081 20160611071858
+nat-service.aws.kontera.com 60 60 308619 20160626193335
+ip.178-70-226-84.avangarddsl.ru 8 29 730988 20160620221641
+host29-24-static.241-95-b.business.telecomitalia.it 36 98 3470364 20160624182819
+c-82-209-155-120.cust.bredband2.com 6 20 1041006 20160628131158
+host177-105-dynamic.51-79-r.retail.telecomitalia.it 10 30 1171567 20160607120612
+121.54.32.131 0 4 64631 
+151.62.188.24 25 25 136456 20160605175518
+sol-fttb.82.125.118.46.sovam.net.ua 60 60 415152 20160614074523
+static.12.98.9.176.clients.your-server.de 1 1 18152 20160624115542
+nat1-1x-wired.unitn.it 37 92 3434839 20160628181129
+62.212.73.141 1 1 4134 20160623192816
+abts-kk-static-ilp-225.181.181.122.airtel.in 8 23 640440 20160614090538
+dsl-189-146-7-254-dyn.prod-infinitum.com.mx 47 116 3256647 20160618194136
+host201-109-dynamic.44-79-r.retail.telecomitalia.it 8 27 1131870 20160606131521
+108.171.135.184 6 20 630685 20160609022207
+host212-71-dynamic.19-87-r.retail.telecomitalia.it 7 22 1062375 20160601200130
+109.144.209.132 4 7 25238 20160617120830
+ec2-54-183-219-145.us-west-1.compute.amazonaws.com 1 1 8671 20160621144835
+37.227.145.150 21 21 134217 20160626190242
+105.154.177.181 7 21 1029400 20160607004311
+138.220.57.97 33 65 1329038 20160601150954
+yaakov-usb.esc.nd.edu 22 25 173976 20160607142535
+204.79.180.132 1 1 4134 20160606143013
+1.23.18.194 6 20 1026095 20160628123526
+85.103.28.67.dynamic.ttnet.com.tr 23 68 2785413 20160622132040
+62.18.6.79 1 1 4132 20160621194701
+74.125.57.6 6 20 630685 20160602150426
+41.189.162.2 1 3 377972 20160630193254
+151.62.139.101 6 13 936649 20160627084344
+02ded583.bb.sky.com 29 71 1860558 20160619114127
+host21-59-dynamic.48-82-r.retail.telecomitalia.it 9 25 1145201 20160605163030
+107.191.48.164.vultr.com 1 1 0 20160601064619
+223.pool85-56-8.dynamic.orange.es 6 20 1026039 20160601203328
+40.121.87.2 1 1 4134 20160630222440
+vpn-staff-146-50-69-97.vpn.uva.nl 2 2 8268 20160611171554
+2.51.38.71 7 21 1030175 20160625120416
+dsl-189-132-83-177-dyn.prod-infinitum.com.mx 6 15 932611 20160623222117
+150-70-188-180.trendmicro.com 0 3 48616 
+nidoqueen.compilatio.net 1 1 10962 20160601164826
+23.247.148.60.rdns.micfo.com 6 20 1026041 20160626141420
+154.118.34.14 9 19 265508 20160606000001
+178-137-90-153-broadband.kyivstar.net 64 64 576440 20160614090826
+host198-250-dynamic.237-95-r.retail.telecomitalia.it 11 20 160976 20160603180012
+85.255.232.40 8 8 17612 20160607025611
+138.40.209.23 11 27 1082848 20160622171929
+google-proxy-66-102-6-245.google.com 0 1 247999 
+190-20-251-181.baf.movistar.cl 3 11 117756 20160604015816
+cpe-72-231-190-59.nycap.res.rr.com 6 20 1026039 20160603020324
+119.141.140.147 22 63 2797923 20160602171135
+cpc18-mfld15-2-0-cust430.13-1.cable.virginm.net 8 26 1092499 20160619191548
+204.79.180.75 0 2 3653 
+b39a8d6b.virtua.com.br 6 20 1026039 20160614022848
+host57-111-dynamic.40-79-r.retail.telecomitalia.it 1 1 4132 20160613173931
+121.54.44.94 12 40 2052078 20160613171913
+151.62.139.214 5 6 38313 20160606085125
+209.red-83-32-104.dynamicip.rima-tde.net 6 21 1027735 20160625163710
+ns3009462.ip-91-121-74.eu 2 2 22148 20160622004713
+79.103.78.117.dsl.dyn.forthnet.gr 22 46 1169684 20160605210735
+217.169.54.66 2 9 448835 20160623121855
+host40-43-dynamic.50-82-r.retail.telecomitalia.it 16 23 1032558 20160605113606
+213.254.241.4 9 9 114280 20160625233649
+rs000828.fastrootserver.de 7 24 1074352 20160613122455
+static.213-239-205-118.clients.your-server.de 2 2 45186 20160604100723
+proxy219.sap-ag.de 8 24 1096291 20160607152027
+static.39.176.251.148.clients.your-server.de 1 1 28288 20160606173044
+host.blogsitebuilder.org 9 9 32269 20160628125025
+151.62.100.146 36 78 2374566 20160607201804
+vpn-unisg-130-82-68-85.unisg.ch 16 36 1118333 20160619130742
+190-20-246-16.baf.movistar.cl 2 3 43566 20160608013324
+151.66.147.47 24 42 679371 20160622172023
+node-jqp.pool-180-180.dynamic.totbb.net 1 1 8912 20160617022802
+c-08d0e455.1111-8-64736c10.cust.bredbandsbolaget.se 10 27 1108568 20160606134930
+31.55.23.67 4 4 7670 20160616235150
+2.49.166.95 9 24 1073794 20160621132333
+host86-178-94-2.range86-178.btcentralplus.com 7 21 1048236 20160602163435
+99-120-2-191.lightspeed.frokca.sbcglobal.net 12 35 1958648 20160602201254
+pool-71-112-205-20.pitbpa.fios.verizon.net 6 20 1026039 20160601180357
+31.218.152.148 7 21 1048236 20160624174258
+220.181.51.80 1 1 4132 20160620163318
+sol-fttb.54.77.163.188.sovam.net.ua 5 5 62541 20160609054054
+baiduspider-220-181-108-99.crawl.baidu.com 0 1 122267 
+70.39.157.197 4 4 72944 20160627183255
+n11211967198.netvigator.com 7 22 1050541 20160606145547
+115.124.85.178 8 29 1125520 20160608023650
+95.144.111.71 7 21 1048234 20160617102543
+37.176.187.228 15 23 960073 20160606203442
+host81-133-110-213.in-addr.btopenworld.com 7 21 1048234 20160602152005
+159.203.42.143 1 1 18152 20160609142220
+213.55.105.70 7 22 1050541 20160615155719
+cpc5-basl9-2-0-cust200.basl.cable.virginm.net 6 21 1027735 20160629234807
+host187-26-dynamic.21-79-r.retail.telecomitalia.it 11 11 68734 20160603184409
+220.181.51.82 1 1 4132 20160603034216
+94.161.25.116 5 5 19991 20160624132854
+i114-181-96-122.s04.a012.ap.plala.or.jp 6 20 1026039 20160601174614
+173.208.130.67 1 1 18152 20160622051742
+default-rdns.callplus.co.nz 28 62 1431131 20160625215020
+142.54.167.98 1 1 4132 20160611191108
+111-243-106-187.dynamic.hinet.net 7 21 1029400 20160616040512
+159.50.252.39 14 29 1066127 20160602173331
+190.235.214.115 9 27 1119510 20160610034130
+118.212.122.229 50 52 780934 20160604091856
+host-62-24-181-135.as13285.net 2 12 432908 20160629001705
+212.183.128.142 11 26 620469 20160606204229
+ip-31-205-84-164.ask4internet.com 12 38 1197846 20160612153813
+151.62.159.126 14 39 1212729 20160601094324
+cpc90872-king11-2-0-cust484.19-1.cable.virginm.net 6 20 1026039 20160603223646
+host-62-24-181-134.as13285.net 0 4 206233 
+150-70-173-47.trendmicro.com 0 2 12000 
+baiduspider-220-181-108-92.crawl.baidu.com 0 1 97362 
+150-70-188-177.trendmicro.com 0 1 11703 
+host47-104-dynamic.25-79-r.retail.telecomitalia.it 7 7 40459 20160607183651
+101.167.226.89 6 20 1098449 20160624073309
+client.yota.ru 6 21 1027733 20160605083020
+23-255-206-72.mci.googlefiber.net 7 17 568953 20160617214442
+host-89-241-134-233.as13285.net 6 20 1026039 20160622014018
+85.255.232.241 6 20 1041006 20160625010031
+185.87.73.149 6 6 144273 20160610104525
+151.62.108.239 13 44 1221386 20160607182736
+5.90.37.201 20 47 1300173 20160608085731
+static.198.153.76.144.clients.your-server.de 1 1 8559 20160618155655
+23.96.208.137 1 1 4132 20160620190412
+host147-14-dynamic.182-80-r.retail.telecomitalia.it 11 30 1158872 20160611222129
+host-78-147-55-69.as13285.net 12 29 1110398 20160623003116
+112.196.37.230 6 20 1026093 20160609071020
+anqun5143.kryptservers.com 2 2 36528 20160615063718
+customer-189-216-62-198.cablevision.net.mx 6 20 1026039 20160601041735
+123-240-102-147.cctv.dynamic.tbcnet.net.tw 16 54 1491131 20160620191916
+a22-05-08.opera-mini.net 4 18 984619 20160625054554
+google-proxy-66-102-6-173.google.com 0 1 247999 
+96-19-23-34.cpe.cableone.net 10 27 1122127 20160607175222
+google-proxy-66-249-85-218.google.com 0 1 370651 
+tx-184-7-124-253.dhcp.embarqhsd.net 0 1 370651 
+41.242.136.14 7 21 1029144 20160603132832
+host86-134-44-53.range86-134.btcentralplus.com 1 1 4132 20160620134034
+41.193.194.237 0 1 29740 
+151.62.96.48 26 53 1771144 20160625054540
+151.62.155.65 27 44 1217379 20160605122609
+cpc87431-haye23-2-0-cust225.17-4.cable.virginm.net 7 21 1048236 20160626003823
+ec2-54-193-133-102.us-west-1.compute.amazonaws.com 1 1 4132 20160605210039
+116.100.54.231 2 2 8264 20160602093707
+host36-60-static.1-79-b.business.telecomitalia.it 13 41 1295420 20160603163757
+195-195-81-212.arts.ac.uk 6 13 282464 20160629163008
+217-162-21-212.static.cablecom.ch 50 95 1689499 20160614162241
+host12-157-dynamic.52-79-r.retail.telecomitalia.it 9 25 1145205 20160623154740
+rigby04.embed.ly 0 2 618650 
+ec2-52-16-66-216.eu-west-1.compute.amazonaws.com 1 1 18152 20160621073816
+82-132-229-178.dab.02.net 8 33 1211864 20160614155136
+149.254.235.55 0 1 370651 
+99-46-180-66.lightspeed.sntcca.sbcglobal.net 12 27 1103287 20160604232434
+151.62.85.153 6 11 121988 20160604143900
+71-14-95-94.dhcp.stls.mo.charter.com 6 20 1026095 20160630024536
+35-39-30-181.fibertel.com.ar 4 4 44277 20160622023543
+host-78-144-76-127.as13285.net 6 18 105715 20160608224149
+195-195-81-210.arts.ac.uk 6 20 1026095 20160624112838
+6.239.79.188.dynamic.jazztel.es 7 21 1049055 20160621222058
+smtp1.dorigoni.com 63 89 1318885 20160603112747
+host97-248-dynamic.24-79-r.retail.telecomitalia.it 1 1 2220 20160605154849
+182.232.139.70 23 56 2117841 20160617071837
+02d8d8ba.bb.sky.com 7 21 1048236 20160624174205
+baiduspider-220-181-108-115.crawl.baidu.com 0 1 7798 
+eduroam-ipv4-2-0015.triple-a.uni-kl.de 13 39 1201292 20160628131129
+41.57.217.46 4 4 7670 20160610013956
+113.65.236.118 7 21 1048234 20160617195615
+175.122.114.87.dyn.plus.net 6 20 1041006 20160618214901
+182.178.250.208 7 21 1029454 20160608110122
+d54c471c4.access.telenet.be 8 23 1067908 20160607223937
+151.62.52.16 36 88 3350342 20160607120900
+112.143.12.146.dynamic-range.ttt.co.th 3 11 471186 20160608033712
+94.118.121.138 2 13 499750 20160629123133
+ns301789.ip-94-23-55.eu 1 1 11074 20160614192752
+rigby05.embed.ly 0 1 370651 
+93-34-83-132.ip48.fastwebnet.it 14 21 1013893 20160602173128
+121.54.44.95 6 24 1413024 20160613094324
+rigby00.embed.ly 0 1 247999 
+google-proxy-66-249-88-51.google.com 0 2 495998 
+dsl-201-127-26-245-dyn.prod-infinitum.com.mx 11 30 1359437 20160610170036
+static.88-198-22-8.clients.your-server.de 1 1 18264 20160604090735
+203.191.132.1 21 45 401786 20160607091011
+88.84.189.199 6 20 1026041 20160627113226
+124.205.83.74 7 21 1048234 20160622052841
+1.22.83.16 7 21 1030175 20160630080109
+cpc91338-watf11-2-0-cust353.15-2.cable.virginm.net 70 191 3612274 20160627215813
+host-195-142-178-31.reverse.superonline.net 15 50 1371873 20160612161439
+bba784278.alshamil.net.ae 6 20 1026041 20160627183719
+c-73-44-94-63.hsd1.il.comcast.net 9 28 1334238 20160630052528
+128.177.161.157.ipyx-072396-930-zyo.zip.zayo.com 7 27 1539041 20160604203524
+host233-12-dynamic.24-79-r.retail.telecomitalia.it 11 29 1169199 20160605170925
+188.29.165.68.threembb.co.uk 19 45 1222153 20160610003820
+adsl-107-141-192-81.adsl2.iam.net.ma 6 20 1026093 20160601095818
+host102-48-dynamic.13-87-r.retail.telecomitalia.it 17 22 218822 20160607215413
+77.42.123.138 33 39 172558 20160607112411
+dsl-189-152-172-211-dyn.prod-infinitum.com.mx 23 75 3533451 20160626223542
+tor-exit.insane.us.to 1 1 4132 20160604085641
+5ac46a4c.bb.sky.com 6 20 1026039 20160606012352
+2-224-236-122.ip172.fastwebnet.it 9 28 1939093 20160624221151
+net84-253-172-191.mclink.it 21 67 1946889 20160607081533
+89-212-9-250.static.t-2.net 23 75 1435639 20160609213442
+local.sintrasviluppo.it 0 1 29740 
+38.100.21.63 9 11 433004 20160620034635
+197.237.67.138.wananchi.com 13 41 2056210 20160621170547
+77-173-58-216.ip.telfort.nl 32 81 2392349 20160603105557
+220.181.51.81 2 2 8266 20160622180828
+5-157-127-13.v4.ngi.it 1 5 848291 20160626220517
+60.53.212.139 6 20 1026041 20160626191208
+94-226-175-62.access.telenet.be 6 16 566373 20160627094706
+46.228.244.90 19 66 2161496 20160604194326
+91.253.81.222 31 31 146620 20160626181055
+eduroam-ipv4-4-0058.triple-a.uni-kl.de 36 80 1586406 20160625181106
+ec2-52-22-4-232.compute-1.amazonaws.com 1 1 4132 20160621073803
+ec2-54-159-59-204.compute-1.amazonaws.com 11 11 228208 20160606112931
+138.40.67.233 26 72 1896721 20160625153645
+89-74-237-251.dynamic.chello.pl 7 21 1048236 20160623200337
+host-92-6-45-73.as43234.net 10 32 1116759 20160610115201
+70.35.195.121 59 59 504981 20160622205142
+202.164.154.11 6 20 1026093 20160616142142
+143.207.189.80.dyn.plus.net 7 21 1030171 20160605005911
+bb-181-98.018.net.il 6 20 1026039 20160605231918
+host-89-241-76-126.as13285.net 6 20 1026041 20160628231948
+host111-16-dynamic.16-79-r.retail.telecomitalia.it 6 7 42160 20160603171750
+dynamic-ip-181550857.cable.net.co 8 26 1106922 20160607164407
+123.125.67.207 1 1 4132 20160609045915
+121.121.57.104 7 21 1048236 20160627135317
+google-proxy-64-233-173-93.google.com 24 62 2993074 20160627140320
+rigby03.embed.ly 1 3 447228 20160621091240
+194.230.155.206 11 42 1271449 20160615175719
+79-74-189-21.dynamic.dsl.as9105.com 6 20 1041004 20160621032030
+213.254.241.6 6 6 109584 20160621134309
+ip-176-77-113-2.bb.netbynet.ru 3 14 510017 20160604212104
+h-130-176.a2.corp.bahnhof.no 1 1 8559 20160601111958
+my83-216-95-240.cust.relish.net 7 21 1048234 20160618233852
+121.54.44.88 6 12 102651 20160614103032
+usdtc1.deloitte.com 8 27 1168176 20160608231736
+ec2-54-219-200-44.us-west-1.compute.amazonaws.com 0 3 11874 
+dsl-187-234-139-5-dyn.prod-infinitum.com.mx 7 21 1048234 20160609232737
+host81-159-214-58.range81-159.btcentralplus.com 14 38 1172576 20160622125620
+esc301416.esc.nd.edu 16 51 1385860 20160607140550
+li1197-99.members.linode.com 2 2 17342 20160610073333
+31-221-45-82.cust-31.exponential-e.net 7 21 1048236 20160624134957
+113.red-2-139-90.dynamicip.rima-tde.net 7 21 1048234 20160606231558
+23.247.148.4.rdns.micfo.com 6 20 1026039 20160617153412
+130.43.158.41 56 152 6778023 20160628211259
+proxy04.tc1.isp.ifl.net 6 20 1026041 20160623152100
+h86-62-117-180.ln.rinet.ru 1 1 18152 20160605030522
+165.225.80.64 15 36 1145203 20160606175727
+27.254.3.114 7 15 177150 20160602030255
+104.207.141.232.vultr.com 1 1 0 20160623173750
+ks1.mooloop.com 2 2 4132 20160620190421
+95.147.27.202 6 20 614685 20160607205554
+cpc8-nmal20-2-0-cust504.19-2.cable.virginm.net 10 22 624919 20160607030238
+02dc89bc.bb.sky.com 6 21 1027733 20160621101710
+dsl-187-214-106-5-dyn.prod-infinitum.com.mx 6 15 932609 20160621044747
+204.79.180.107 0 1 824 
+80.40.134.103 1 2 163248 20160617200330
+221.151.186.115 1 1 4132 20160614035249
+113.210.193.130 1 2 5828 20160627134627
+dsl-189-146-9-43-dyn.prod-infinitum.com.mx 3 13 136329 20160630213357
+bzq-183-168-31-202.red.bezeqint.net 7 22 1050541 20160615134214
+mail.newline.tech 2 2 8264 20160618073129
+baiduspider-220-181-108-93.crawl.baidu.com 1 2 71976 20160620233734
+tdi-201-121.tm.net.my 9 24 1059748 20160627135155
+broadband-46-242-52-42.nationalcablenetworks.ru 3 13 131194 20160630183826
+156.135.11.29 5 5 72506 20160603151509
+104.156.231.254.vultr.com 3 3 40076 20160616002318
+5acf8783.bb.sky.com 8 22 1052366 20160601004743
+138.40.67.194 3 7 54518 20160619220903
+bzq-79-178-19-34.red.bezeqint.net 6 19 1007159 20160614195952
+host109-53-dynamic.20-79-r.retail.telecomitalia.it 5 6 49976 20160606091437
+192.114.23.211 9 25 1129602 20160602105852
+customer-189-216-57-251.cablevision.net.mx 16 51 1421607 20160606192430
+nat2-stud-sb.unitn.it 4 6 55252 20160606041529
+054376ab.skybroadband.com 13 53 2246344 20160610170207
+119.red-88-12-248.dynamicip.rima-tde.net 17 45 2054781 20160605000606
+34-145-4-80.static.virginm.net 21 50 1670362 20160620155435
+95.218.159.155 6 20 1041625 20160609090622
+85.255.234.172 15 42 1211788 20160628095936
+50-246-250-110-static.hfc.comcastbusiness.net 0 1 370651 
+108-251-241-107.lightspeed.cicril.sbcglobal.net 8 18 588627 20160606050437
+194.150.168.79 1 1 4134 20160623035851
+186.3.225.88 24 64 2348248 20160609070056
+80.215.230.38 6 21 1067804 20160628223339
+cpc16-camd13-2-0-cust223.hari.cable.virginm.net 15 50 1384237 20160620190958
+b0fe40f4.bb.sky.com 8 21 639324 20160625102314
+121.54.32.146 6 19 570690 20160618110746
+054383f8.skybroadband.com 7 21 1048236 20160625110456
+malta1611.startdedicated.de 54 54 203383 20160601180711
+198.27.85.233 6 6 108912 20160621234826
+nat1-cp-wifi.unitn.it 49 123 2755395 20160607164247
+213.55.105.67 5 16 533721 20160618123409
+27.63.50.177 6 20 1026041 20160628105850
+195-195-81-193.arts.ac.uk 15 46 1110722 20160606134736
+89.202.130.94 0 1 29740 
+41.242.137.52 6 15 180964 20160620183351
+138.40.67.225 52 139 3800185 20160630123711
+ppp85-140-0-153.pppoe.mtu-net.ru 6 21 1027733 20160618051716
+180.151.208.42.reverse.spectranet.in 12 35 1958648 20160617110330
+exit1.ipredator.se 1 1 4132 20160604144736
+178-137-83-34-broadband.kyivstar.net 42 42 655776 20160629184412
+host206-127-dynamic.50-82-r.retail.telecomitalia.it 31 55 1368238 20160601180849
+google-proxy-66-249-88-220.google.com 2 6 154908 20160602165322
+host-196.219.189.10-static.tedata.net 14 27 34887 20160606084357
+a95-95-75-115.cpe.netcabo.pt 13 32 1138849 20160603203831
+esc301226.esc.nd.edu 30 75 1785529 20160603231523
+197.225.48.86 7 25 1107545 20160609193345
+baiduspider-220-181-108-121.crawl.baidu.com 0 1 7798 
+cpebc1401e1d183-cmbc1401e1d180.cpe.net.cable.rogers.com 6 20 1026093 20160609232012
+5ed4098d.cm-7-5a.dynamic.ziggo.nl 14 35 1192922 20160615204638
+23.247.148.178.rdns.micfo.com 3 4 40153 20160623201939
+41.242.140.136 8 22 1033534 20160612161211
+117.221.79.156 6 20 1026039 20160603091508
+ec2-50-18-94-121.us-west-1.compute.amazonaws.com 4 4 0 20160621073804
+87.109.44.4 0 1 97362 
+168.1.73.80.triolan.net 1 1 4132 20160605153036
+c211-30-221-145.thorn2.nsw.optusnet.com.au 6 20 1026039 20160604031759
+190.81.203.26 6 20 1025218 20160621192417
+abts-kk-static-ilp-174.181.181.122.airtel.in 35 99 1355577 20160610035312
+google-proxy-66-249-85-215.google.com 1 1 4132 20160607142601
+5.149.254.109 3 3 25677 20160616140703
+145.130.60.159 1 1 11630 20160630170345
+40.78.146.128 1 1 18152 20160606133301
+host207-107-dynamic.54-79-r.retail.telecomitalia.it 39 97 2169474 20160608184224
+host-41.233.123.254.tedata.net 6 20 1379230 20160619021333
+vps4694-cloud.dns26.com 1 1 4132 20160601040929
+91.253.33.248 7 7 32985 20160625174026
+google-proxy-66-102-6-165.google.com 0 2 495998 
+host86-137-50-181.range86-137.btcentralplus.com 7 20 635187 20160629121224
+cpc99892-brnt2-2-0-cust16.4-2.cable.virginm.net 27 67 1924176 20160602083950
+google-proxy-64-233-173-83.google.com 13 54 2403838 20160627140320
+183.171.169.224 0 1 221548 
+ws86-227-252-122.rcil.gov.in 0 1 29740 
+217.138.46.210 45 128 5385527 20160629192843
+31.72.53.238 2 12 957686 20160623203749
+4.79.123.1 1 1 18264 20160602224305
+178-137-164-226-broadband.kyivstar.net 31 31 562712 20160620232841
+119.147.146.189 2 6 95644 20160622034416
+dynamic-ip-190158195247.cable.net.co 6 20 1026039 20160614032210
+5ada2f95.bb.sky.com 1 1 4132 20160602231524
+93.168.152.132 6 21 1059884 20160610033119
+ip5b42e1f4.dynamic.kabel-deutschland.de 37 63 1550681 20160617153539
+82.158.32.46.dyn.user.ono.com 6 21 1027733 20160616005207
+bus-0548-l.biz.uwa.edu.au 78 211 3775631 20160630033759
+77-58-105-69.dclient.hispeed.ch 10 12 54327 20160619181410
+118.69.3.135 6 20 1026039 20160613045546
+121.54.32.101 1 2 7773 20160621073159
+204.79.180.192 0 1 20117 
+134-249-54-248-broadband.kyivstar.net 44 44 736027 20160622062422
+204.79.180.177 0 1 620 
+nat1-aule.unitn.it 22 73 2479279 20160624164156
+151.66.177.7 10 42 1512823 20160606194335
+138.40.209.21 19 52 100145 20160601123017
+host-105.202.113.44.etisalat.com.eg 4 4 11629 20160602211841
+121.54.32.103 1 3 379786 20160615122303
+160.83.42.134 17 57 1266452 20160628133333
+93-50-51-198.ip151.fastwebnet.it 8 23 1048501 20160608000819
+118.69.182.71 3 11 117132 20160609064105
+109.112.11.192 6 6 30634 20160603164216
+178-137-167-51-broadband.kyivstar.net 6 6 2496 20160601175409
+eduroam-ipv4-1272.triple-a.uni-kl.de 7 22 965558 20160628130542
+host166-54-dynamic.48-82-r.retail.telecomitalia.it 21 59 1512236 20160603173828
+cip09.wiwi.uni-kl.de 8 24 1084525 20160615213423
+pyr75-4-78-192-244-2.fbxo.proxad.net 8 25 640494 20160608155435
+0133902527.0.fullrate.ninja 6 16 566546 20160613192807
+188.57.48.250 7 19 603539 20160628225932
+host93-228-dynamic.48-82-r.retail.telecomitalia.it 11 32 1105512 20160602200019
+220.181.51.76 1 1 4132 20160616145528
+154.96.235.250 10 30 1174090 20160624034001
+82-132-240-65.dab.02.net 10 38 1626661 20160610134835
+89.32.179.164 1 1 18264 20160629134948
+ip-2-201-2-1.web.vodafone.de 10 26 177013 20160627063207
+ip-31-205-84-167.ask4internet.com 24 74 2384321 20160625170850
+ec2-52-49-79-6.eu-west-1.compute.amazonaws.com 1 1 0 20160620190453
+70-100-42-223.br1.sho.az.frontiernet.net 9 27 1114274 20160630215630
+ec2-52-19-163-13.eu-west-1.compute.amazonaws.com 1 1 18152 20160621073816
+tmo-098-4.customers.d1-online.com 7 17 573776 20160614185759
+5acb2c0a.bb.sky.com 6 20 1026039 20160601113908
+91.253.82.11 5 7 18898 20160626084136
+static41-27-250-249-250.adsl41-16.iam.net.ma 13 46 1291955 20160602121157
+59.166.120.146.serverel.net 1 1 10962 20160621110214
+104.45.18.178 1 1 18152 20160606133300
+s010678e3b5c1d9c9.cg.shawcable.net 7 22 1062375 20160604021949
+189.223.42.248.dsl.dyn.telnor.net 6 20 1026039 20160618100114
+87.245.45.255 7 21 1030171 20160606213949
+5.101.219.185 1 1 18264 20160613095949
+82-171-252-208.ip.telfort.nl 3 10 11630 20160630162408
+178-83-104-78.dynamic.hispeed.ch 38 102 2693688 20160605122403
+81-66-62-130.rev.numericable.fr 1 5 848288 20160619143958
+189-13-71-120.user.veloxzone.com.br 1 14 962065 20160618031207
+124-169-118-53.dyn.iinet.net.au 7 21 1048234 20160605231725
+23.247.148.46.rdns.micfo.com 6 21 1247587 20160611111959
+lfbn-1-1371-110.w86-253.abo.wanadoo.fr 6 20 1026039 20160603103941
+151.62.92.253 70 133 3476687 20160625230129
+tor2.asmer.com.ua 1 1 4132 20160605114359
+109.175.151.232 16 44 2105746 20160619222416
+2-235-224-244.ip230.fastwebnet.it 8 27 1131872 20160608011037
+proxy7.det.wa.edu.au 6 20 1026041 20160627060306
+c-98-249-98-215.hsd1.nm.comcast.net 6 20 1041004 20160616153033
+host86-134-8-113.range86-134.btcentralplus.com 6 20 1026039 20160615155120
+105.155.81.203 6 19 618368 20160612213502
+static.kpn.net 7 21 1048236 20160620113231
+86-122-228-97.rdsnet.ro 1 1 4134 20160612134538
+82.45.144.226 0 1 13410 
+host81-130-203-253.in-addr.btopenworld.com 7 22 1062375 20160615105453
+197.237.16.128.wananchi.com 6 20 1026039 20160609230535
+ip98-163-219-58.no.no.cox.net 0 1 29740 
+195-154-146-225.rev.poneytelecom.eu 2 2 8268 20160617053820
+94.118.88.206 6 20 1026041 20160629123523
+190.242.36.170 15 33 1198940 20160628001922
+151.62.30.26 6 20 590390 20160605220915
+197.251.131.221 6 20 1026039 20160608160840
+5.170.195.18 8 23 673829 20160606180009
+151.62.1.50 13 31 1123452 20160606112144
+156.135.11.28 9 24 515621 20160617091223
+google-proxy-66-249-88-215.google.com 3 9 431014 20160602165322
+154.72.166.28 10 14 121597 20160601203745
+herndon-45.lastpass.com 1 1 18152 20160608222606
+c-ge300-0-0-11-3352.er0-terez.net.telekom.hu 2 15 969295 20160615141706
+02dc7cc4.bb.sky.com 15 38 1172954 20160629161204
+abts-tn-static-194.212.165.122.airtelbroadband.in 14 48 1359325 20160609123634
+131.170.5.3 2 11 128951 20160601073033
+www.etislat.com.ng 2 7 90573 20160605221625
+204.79.180.176 0 1 148 
+ppp-58-11-124-194.revip2.asianet.co.th 1 1 4134 20160624083059
+host-117.89-185-111.static.totalbb.net.tw 7 21 1048234 20160614031642
+151.62.146.58 13 29 1154451 20160624173907
+eduroamstud-130-82-244-227.unisg.ch 6 17 184507 20160621173925
+138.40.67.195 7 22 1044374 20160619205023
+host129-0-56-65.mtn.cm 6 20 1026093 20160617140512
+93-34-82-220.ip48.fastwebnet.it 71 148 4234573 20160606000700
+nat-eduroam-polocitta.net.icts.unitn.it 32 75 2351437 20160627125847
+99-150-255-103.lightspeed.sndgca.sbcglobal.net 9 25 1142103 20160616040154
+host-195-142-178-156.reverse.superonline.net 19 47 1496546 20160626093235
+mx1.tdc.org.hk 16 23 359644 20160601050913
+49.0.122.2 9 16 981410 20160602030255
+70.39.157.192 2 2 36528 20160614131426
+5x3x154x248.dynamic.kazan.ertelecom.ru 3 12 130272 20160604102017
+5.53.153.56 5 13 703831 20160602140719
+host5-81-164-46.range5-81.btcentralplus.com 8 26 1111677 20160620163750
+70.39.157.198 5 5 91208 20160630105225
+ec2-54-67-98-49.us-west-1.compute.amazonaws.com 1 1 55 20160620012005
+162.243.83.82 2 2 36416 20160625041703
+5.90.34.21 15 41 1283703 20160605155700
+154.72.166.61 12 42 520594 20160601190206
+ec2-54-173-198-35.compute-1.amazonaws.com 1 1 18152 20160623132630
+d978df17.cm-3-1d.dynamic.ziggo.nl 6 20 1026039 20160607040614
+218.104.221.138 15 37 443616 20160613054524
+197.255.63.90 30 71 1516878 20160615192606
+no-reverse-defined.coventry.gov.uk 7 21 1048234 20160621123729
+93-34-238-220.ip52.fastwebnet.it 23 49 1306186 20160607163330
+192.241.161.199 2 2 17118 20160606003633
+190-96-255-14.telebucaramanga.net.co 2 15 969295 20160605012755
+128-193-154-151.ptpg.oregonstate.edu 6 20 1026039 20160610020740
+204.79.180.235 0 1 20117 
+host184-61-dynamic.244-95-r.retail.telecomitalia.it 23 47 1242989 20160603115950
+static.215.11.4.46.clients.your-server.de 1 1 18264 20160610075137
+baiduspider-220-181-108-110.crawl.baidu.com 1 1 34869 20160620233744
+speedybacon2500.rathhansen.com 1 1 4132 20160622051950
+104.207.143.252.vultr.com 1 1 0 20160629143751
+64.231.78.38 0 1 370651 
+dsl-189-234-79-155-dyn.prod-infinitum.com.mx 18 53 2178420 20160608044954
+204.79.180.48 1 1 7230 20160606143015
+toland.directlazy.com 1 1 8913 20160623032047
+42-2-3-087.static.netvigator.com 7 21 1030171 20160610110835
+83.240.237.174 1 1 4132 20160616055624
+171.66.215.4 12 46 1351332 20160609015024
+104.209.188.207 1 1 18152 20160606133300
+c-73-200-67-178.hsd1.dc.comcast.net 6 20 1026093 20160606035730
+mobile-166-137-139-028.mycingular.net 3 3 51360 20160612035945
+175.139.134.104 0 1 54807 
+cpc73820-dals21-2-0-cust964.20-2.cable.virginm.net 7 21 1048234 20160622000851
+pool-173-64-125-9.bltmmd.fios.verizon.net 7 25 1107545 20160601210042
+107-202-183-74.lightspeed.mssnks.sbcglobal.net 23 60 1505322 20160618040054
+62.17.146.151 13 40 2040157 20160623114815
+google-proxy-66-249-85-221.google.com 0 2 469547 
+96-41-32-14.dhcp.mtpk.ca.charter.com 11 35 1234120 20160609064248
+kdi2239519.lnk.telstra.net 33 60 1295292 20160618043444
+5adb06eb.bb.sky.com 14 36 1266466 20160606210159
+49.239.79.83.dynamic.wline.res.cust.swisscom.ch 9 24 1112997 20160604225955
+c-73-167-139-168.hsd1.vt.comcast.net 6 20 1026039 20160615010159
+93-34-233-161.ip52.fastwebnet.it 10 15 76160 20160608203633
+tmo-098-220.customers.d1-online.com 11 37 1203837 20160608181026
+google-proxy-66-249-88-210.google.com 1 4 33067 20160602165322
+host-195-142-178-250.reverse.superonline.net 19 54 1636970 20160616074623
+37.176.219.171 31 43 215696 20160603114418
+138.40.65.217 7 20 610690 20160601112110
+akh-128-186.tm.net.my 6 20 1026039 20160615035311
+google-proxy-66-249-88-40.google.com 0 4 991996 
+ip51cdc650.speed.planet.nl 16 56 1483736 20160621194151
+190.20.240.255 3 8 67861 20160614012723
+c-50-137-66-249.hsd1.ct.comcast.net 0 1 247999 
+host86-146-171-241.range86-146.btcentralplus.com 9 25 676454 20160606132312
+pa5.pstnly.net 2 2 8264 20160609092310
+ip-31-205-84-162.ask4internet.com 65 183 6416448 20160613091657
+sol-fttb.129.127.119.46.sovam.net.ua 72 72 793850 20160629054512
+124.107.125.87.pldt.net 12 31 1130994 20160609121704
+pc-26-18-161-190.cm.vtr.net 9 28 1117938 20160606064659
+5acf0c63.bb.sky.com 10 27 1096057 20160626120845
+74.91.28.19 1 1 4134 20160630180041
+p18n10.trendiction.de 1 1 4132 20160621144553
+202.14.101.140 17 53 1373694 20160627055908
+pool-108-8-45-137.slsbmd.east.verizon.net 17 35 1227544 20160620000619
+host86-187-75-213.range86-187.btcentralplus.com 34 101 3606924 20160616191044
+154.72.166.6 4 5 43749 20160601200936
+84-241-43-194.shatel.ir 6 20 1026039 20160608092227
+141.0.147.225.bcube.co.uk 6 20 1026039 20160606093036
+37.76.227.142 12 40 2052078 20160607210713
+183.127.3.34 1 1 2094 20160607203819
+93-40-212-113.ip40.fastwebnet.it 22 69 1025444 20160613173608
+46.18.27.14 12 30 1173331 20160606151300
+broadband-77-37-222-215.nationalcablenetworks.ru 3 17 980483 20160618184250
+89-197-36-132.virtual1.co.uk 0 1 3958 
+121.54.44.92 3 16 985886 20160613144937
+5.151.0.48 7 21 1048236 20160611163107
+194.65.37.71 8 24 1086877 20160615122229
+059148036090.ctinets.com 7 21 1048234 20160615091750
+mar02-1-78-227-91-1.fbx.proxad.net 14 35 1228984 20160602090706
+li764-82.members.linode.com 6 19 588696 20160615070129
+204.79.180.3 0 1 2596 
+net77-43-119-90.mclink.it 13 34 780242 20160608084124
+host92-3-dynamic.9-87-r.retail.telecomitalia.it 14 36 1216719 20160601153420
+162.242.218.228 3 3 86384 20160626122748
+164.78.252.244 0 2 4782 
+178-137-87-242-broadband.kyivstar.net 5 5 62541 20160609015829
+211.176.231.104 2 2 8264 20160610055127
+host5-81-67-90.range5-81.btcentralplus.com 6 29 1142289 20160627012526
+101.199.108.120 6 16 198540 20160605234258
+37.105.230.27 0 1 29740 
+37.227.184.186 14 29 140027 20160620182432
+cpc73658-dals20-2-0-cust531.20-2.cable.virginm.net 11 38 1240643 20160619100714
+5.90.13.234 2 2 0 20160627174114
+dynamic-ip-18153016253.cable.net.co 6 20 1026039 20160616235020
+213.205.194.174 6 21 1027735 20160629225715
+80.239.106.194 6 20 1041628 20160623105846
+168.235.205.191 6 20 1041004 20160615192253
+107.14.54.0 6 20 1026039 20160601043238
+109.246.12.210 38 89 2486080 20160625011158
+100.158.120.146.serverel.net 1 1 8559 20160621110213
+197.220.169.131 33 96 2550601 20160608124910
+93-34-85-198.ip48.fastwebnet.it 17 40 1254800 20160626224904
+152.74.54.66 46 136 6118779 20160613204346
+12.185.199.2 6 19 588697 20160627151349
+pool-96-255-238-179.washdc.fios.verizon.net 6 20 1026039 20160620070639
+41.57.217.31 11 40 819690 20160608132449
+46.185.68.84 54 54 714168 20160621235230
+59.red-88-0-254.dynamicip.rima-tde.net 1 2 4737 20160607194754
+162.243.38.16 7 22 1050541 20160604132151
+123.252.204.97 7 21 1029129 20160620073918
+150.129.47.7 36 36 526022 20160601114210
+cpe-186-19-98-71.telecentro-reversos.com.ar 8 26 1075371 20160611041938
+host149-104-dynamic.14-87-r.retail.telecomitalia.it 10 26 1150724 20160604143906
+eduroam-ipv4-3-0460.triple-a.uni-kl.de 8 23 1053902 20160621114108
+j14.networcs.net 0 2 592199 
+138.40.65.219 14 40 1221380 20160616121711
+27.147.243.55 0 1 29740 
+host86-132-248-140.range86-132.btcentralplus.com 17 43 1277969 20160626122450
+host7-109-dynamic.0-87-r.retail.telecomitalia.it 7 7 33419 20160602133540
+46.161.9.8 51 51 108832 20160622044258
+240.red-83-49-2.dynamicip.rima-tde.net 6 20 1026039 20160607001202
+host39-225-static.61-79-b.business.telecomitalia.it 13 31 1179927 20160603134842
+p5083cafb.dip0.t-ipconnect.de 0 1 1694 
+ip-31-205-153-129.ask4internet.com 32 93 3464688 20160611232440
+cpc15-camd13-2-0-cust162.hari.cable.virginm.net 38 100 2501439 20160610202328
+mail.vinove.com 6 20 1026093 20160609070234
+5ad83306.bb.sky.com 11 28 1138066 20160608013115
+host127-128-dynamic.51-82-r.retail.telecomitalia.it 14 41 1270344 20160607191403
+host109-248-dynamic.45-79-r.retail.telecomitalia.it 9 25 1091066 20160603161535
+cpc1-finc18-2-0-cust10.4-2.cable.virginm.net 7 22 1044426 20160627214756
+179.7.87.178 13 32 1120636 20160620232730
+net-188-216-212-140.cust.vodafonedsl.it 3 17 977389 20160629121428
+baiduspider-220-181-108-76.crawl.baidu.com 0 1 40847 
+39.33.101.110 6 21 1027733 20160609142222
+104.41.205.252 0 2 17118 
+117.212.50.73 0 1 370651 
+101.167.226.86 2 2 23366 20160624073309
+23.247.148.88.rdns.micfo.com 6 20 1026039 20160618141846
+ec2-54-174-73-27.compute-1.amazonaws.com 1 1 106753 20160621112804
+host86-136-50-42.range86-136.btcentralplus.com 27 62 1965430 20160619152131
+host225-107-dynamic.248-95-r.retail.telecomitalia.it 12 12 64750 20160601161539
+ec2-52-90-153-85.compute-1.amazonaws.com 1 1 4132 20160620202255
+61.135.190.223 2 4 62970 20160620224456
+150-70-173-59.trendmicro.com 0 1 137983 
+145.255.170.63 6 20 1026039 20160604151303
+broadband-37.204-56-120.nationalcablenetworks.ru 3 13 505835 20160630143630
+151.62.95.148 13 39 1219611 20160607145516
+host35-64-dynamic.55-82-r.retail.telecomitalia.it 8 27 1131872 20160605114133
+178-137-93-129-broadband.kyivstar.net 42 42 762384 20160629151854
+dsl-189-132-65-216-dyn.prod-infinitum.com.mx 18 40 2842647 20160615151720
+39.42.69.212 6 20 1041625 20160606085544
+94x180x148x231.dynamic.kzn.ertelecom.ru 3 13 131191 20160621034645
+baiduspider-220-181-108-82.crawl.baidu.com 0 1 7798 
+75-62-22-124.lightspeed.dllstx.sbcglobal.net 6 20 1026041 20160623173318
+ec2-52-2-159-58.compute-1.amazonaws.com 2 2 28182 20160621112807
+broadband-178-140-184-235.nationalcablenetworks.ru 3 13 505835 20160630143631
+190.236.52.156 7 22 1062375 20160602085835
+124.205.205.1 8 22 1051595 20160602005515
+02df7e48.bb.sky.com 6 20 1026039 20160605185645
+sol-fttb.23.112.119.46.sovam.net.ua 4 4 43829 20160628070315
+149.12.1.215 10 30 1189002 20160629032601
+45.63.67.142.vultr.com 1 1 0 20160617133750
+86.54.50.60.cbj05-home.tm.net.my 51 96 1706295 20160629184955
+202.161.57.178 15 49 1350638 20160607055846
+164.78.248.200 4 9 563128 20160607054210
+103.213.192.5 8 22 1031861 20160603063203
+5ad77b18.bb.sky.com 7 20 591858 20160630011036
+outusers5.fbk.eu 34 94 3593389 20160617104243
+95.82.40.16 18 55 1458295 20160610203748
+109.112.130.37 14 14 90837 20160604194957
+cpc1-finc17-2-0-cust3208.4-2.cable.virginm.net 15 40 1206407 20160610143715
+ip5b42e076.dynamic.kabel-deutschland.de 26 39 576256 20160614164157
+150-70-173-44.trendmicro.com 0 1 11212 
+host48-105-dynamic.54-79-r.retail.telecomitalia.it 17 40 1204436 20160606182201
+89-157-12-74.rev.numericable.fr 6 20 1026039 20160606170329
+ool-4351d53b.dyn.optonline.net 1 1 4134 20160625082207
+125.35.148.146.bc.googleusercontent.com 1 1 4132 20160609155434
+2.93.159.66 6 27 322461 20160614194558
+c-69-143-123-108.hsd1.va.comcast.net 13 42 2070408 20160612183445
+global-5-15.nat-1.net.cam.ac.uk 13 40 1228997 20160608181318
+host105-44-dynamic.52-82-r.retail.telecomitalia.it 3 3 16556 20160625101606
+cpe-75-179-8-73.neo.res.rr.com 7 21 1045136 20160603015649
+static-ip-1815101872.cable.net.co 6 16 181883 20160622011525
+41.205.69.233 40 86 2428145 20160614163008
+138.40.67.227 82 244 7370452 20160625151403
+70.39.157.194 1 1 10960 20160607025612
+ec2-54-160-10-217.compute-1.amazonaws.com 1 1 18152 20160617072757
+14-200-231-103.static.tpgi.com.au 14 44 2468084 20160614142525
+190-20-253-96.baf.movistar.cl 7 21 1048234 20160602034416
+4.79.123.0 1 1 18264 20160627183255
+baiduspider-220-181-108-113.crawl.baidu.com 0 1 122267 
+na.ewired.co.za 6 19 588697 20160627155342
+host-195-142-178-104.reverse.superonline.net 36 94 3050421 20160623091428
+ip107-229.mynet.kiev.ua 6 20 1026039 20160609115323
+204.79.180.51 0 1 33845 
+wcfw.tdc.org.hk 28 44 1577481 20160601050109
+151.62.55.6 19 62 2663036 20160602160819
+37.157.38.66 25 61 1438676 20160621150138
+broadband-37.204-107-179.nationalcablenetworks.ru 3 11 126968 20160614181636
+138.40.67.206 17 45 2105776 20160628184351
+91.252.157.60 6 8 186015 20160606112700
+206.ip-167-114-228.eu 1 1 18264 20160628005246
+unspecified.mtw.ru 1 1 18264 20160630161829
+c-73-247-241-18.hsd1.il.comcast.net 11 37 1411109 20160629132839
+121.54.44.93 3 4 40153 20160613144911
+111-243-106-212.dynamic.hinet.net 1 6 848436 20160616141227
+178-137-84-39-broadband.kyivstar.net 44 44 549936 20160630181530
+108-234-34-170.lightspeed.cicril.sbcglobal.net 31 82 2332136 20160621041823
+41.189.160.37 1 3 377972 20160628143145
+65.19.167.131 1 1 4132 20160615004943
+baiduspider-220-181-108-88.crawl.baidu.com 0 1 97362 
+195.37.208.142 16 47 1315583 20160621160823
+3.ip-167-114-250.eu 1 1 3090 20160618135805
+204.79.180.165 0 1 9845 
+130.43.158.1 23 64 2786813 20160613131753
+dsl-189-132-89-60-dyn.prod-infinitum.com.mx 20 62 3086391 20160630200316
+tgn.188.46.59.dts.mg 18 62 2299726 20160621145955
+93-34-239-191.ip52.fastwebnet.it 1 1 4132 20160618011354
+ec2-54-173-67-129.compute-1.amazonaws.com 1 1 4134 20160626145329
+lmontsouris-656-1-227-109.w80-14.abo.wanadoo.fr 1 1 4132 20160613002042
+23.247.148.42.rdns.micfo.com 6 12 462914 20160613010715
+121.54.32.138 6 19 570690 20160617100024
+5.90.6.63 13 30 1115202 20160627121021
+104.238.32.14 7 21 1048234 20160606035746
+217.156.220.58 7 25 672861 20160618113317
+82.178.217.38 0 1 247999 
+210.195.5.25 1 1 4134 20160627210533
+182.185.252.131 1 2 18330 20160608165312
+151.62.131.4 5 9 19141 20160602172818
+207.82.112.181.static.pichincha.andinanet.net 11 30 1166771 20160614214354
+ip-57.pool-231.ms-dpc04.cpx.ru 3 14 510019 20160630143631
+host116-254-dynamic.25-79-r.retail.telecomitalia.it 21 48 1313573 20160621092402
+114-44-210-131.dynamic.hinet.net 1 1 4134 20160604225108
+85.103.39.193.dynamic.ttnet.com.tr 7 24 665227 20160603131834
+abts-kk-static-ilp-207.181.181.122.airtel.in 21 47 1324757 20160609130814
+164.78.252.200 2 9 458129 20160607054210
+84.216.219.189 7 21 1048236 20160623131124
+123.136.107.206 3 12 498786 20160628192217
+host246-35-dynamic.45-213-r.retail.telecomitalia.it 6 20 1026041 20160626031110
+128-193-154-85.ptpg.oregonstate.edu 7 21 1048234 20160607014219
+37.227.32.249 7 20 236107 20160611092053
+80.40.134.104 0 3 149421 
+37-115-187-45-broadband.kyivstar.net 35 35 582016 20160621123825
+178-137-87-136-broadband.kyivstar.net 3 3 1248 20160601230605
+93-34-86-119.ip49.fastwebnet.it 23 69 3282412 20160607152339
+193.205.210.83 14 33 1152572 20160610171410
+broadband-46-242-78-44.nationalcablenetworks.ru 3 17 980483 20160604172443
+5.101.65.141 1 1 18152 20160615171247
+static.vdc.vn 1 3 23115 20160609064105
+abts-north-dynamic-139.58.64.182.airtelbroadband.in 6 20 1026095 20160627093958
+186.24-253-62.static.virginmediabusiness.co.uk 7 21 1030171 20160613175139
+213.254.241.7 5 5 91208 20160627183256
+cpc99626-brnt2-2-0-cust969.4-2.cable.virginm.net 1 1 4134 20160625174626
+pc-3-180-120-200.cm.vtr.net 21 74 4015425 20160620215118
+93-34-84-161.ip48.fastwebnet.it 12 37 1558205 20160625154424
+46.60.253.169 5 15 894499 20160622110139
+46.229.170.197 2 2 36304 20160617080657
+nd-129-74-238-125.nat.nd.edu 6 20 1026039 20160603200802
+154-119-65-226.hosting.syrex.co.za 0 1 247999 
+cpc91244-cmbg18-2-0-cust193.5-4.cable.virginm.net 81 190 5584681 20160629152009
+202.49.0.2 45 82 2329487 20160630235629
+secured-by.zenmate.com 11 41 1269562 20160630064558
+165.225.80.56 13 26 1004952 20160613180134
+global-5-13.nat-1.net.cam.ac.uk 40 70 1506608 20160623125953
+41.242.136.27 1 1 3361 20160616184936
+123.125.67.208 1 1 4132 20160619054510
+c-24-61-131-45.hsd1.ma.comcast.net 6 20 1026039 20160607221408
+ec2-52-6-107-11.compute-1.amazonaws.com 1 1 10962 20160621112807
+106.67.112.200 0 2 469547 
+ip5b42f85d.dynamic.kabel-deutschland.de 1 1 4134 20160623104613
+ip-176-195-216-91.bb.netbynet.ru 3 13 131191 20160618163923
+70.39.157.199 3 3 29876 20160617195144
+151.62.53.27 5 5 31524 20160607221937
+static-201-163-39-85.alestra.net.mx 5 16 992007 20160613170049
+31.65.152.68 6 21 1027735 20160630180817
+112.196.130.13 6 21 1027733 20160619063702
+charlotte.nutechsolutions.com 6 20 1026039 20160621155704
+host-173-199-68-109.as13.london 30 50 1330293 20160616140320
+host240-219-dynamic.44-79-r.retail.telecomitalia.it 18 51 2254440 20160624191227
+cpc76906-dals22-2-0-cust322.20-2.cable.virginm.net 12 40 2052188 20160628122357
+85.255.234.77 2 2 4523 20160602044523
+ec2-54-176-137-163.us-west-1.compute.amazonaws.com 1 1 0 20160621084232
+85.255.232.63 2 2 5880 20160607103748
+101.167.226.84 0 1 20117 
+138.40.67.207 2 2 8264 20160621161141
+host-41.235.133.243.tedata.net 7 21 1028441 20160603090949
+121.54.44.90 6 20 1026039 20160613104926
+unallocated-static.rogers.com 6 20 1026093 20160616201836
+175.140.179.238 12 40 2067519 20160627142740
+firewall-router.ser.netvision.net.il 6 20 1026039 20160613101321
+23.247.148.90.rdns.micfo.com 11 30 1114172 20160628114141
+210.16.77.122 8 23 1090031 20160616074916
+178-137-19-16-broadband.kyivstar.net 61 61 557456 20160614134429
+151.66.168.185 14 40 1250853 20160622115633
+215.9.150.83.ftth.as8758.net 6 20 1026093 20160621064319
+189.202.61.51.cable.dyn.cableonline.com.mx 6 20 1026039 20160602201911
+cpc82495-ruth9-2-0-cust957.14-1.cable.virginm.net 0 1 370651 
+h66-244-206-99.bigpipeinc.com 11 33 1180325 20160622031629
+91.252.28.180 19 40 375951 20160620140118
+44.52.155.90.in-addr.arpa 1 1 4132 20160622114856
+150-70-173-7.trendmicro.com 0 1 37107 
+static.200.219.209.134.datacenter1.com.br 4 4 44277 20160627143058
+197.190.197.166 8 24 1049424 20160607085916
+85.255.232.181 4 5 5055 20160611094809
+broadband-46-242-119-203.nationalcablenetworks.ru 3 17 980485 20160630080614
+121.54.32.140 6 19 570690 20160617083557
+dsl-189-132-111-22-dyn.prod-infinitum.com.mx 1 1 2890 20160621045609
+abts-north-dynamic-013.75.161.122.airtelbroadband.in 9 26 1099908 20160619223949
+41.212.16.217.wananchi.com 6 20 1026095 20160603084009
+cpc91224-cmbg18-2-0-cust51.5-4.cable.virginm.net 7 21 1048234 20160611130349
+151.62.74.188 12 14 138427 20160603181938
+196.207.153.109 32 62 1371613 20160602103807
+02da47f7.bb.sky.com 2 6 70955 20160622233048
+45.32.130.173.vultr.com 3 3 40076 20160628052002
+dynamic-ip-181498274.cable.net.co 6 21 1027733 20160612092246
+119.147.146.193 1 3 47822 20160607034143
+host30-104-dynamic.14-87-r.retail.telecomitalia.it 20 52 547721 20160607115220
+91.141.1.53.wireless.dyn.drei.com 7 25 650556 20160616131649
+220.181.51.77 2 2 8264 20160613023424
+196-210-183-42.dynamic.isadsl.co.za 7 22 1066127 20160613193219
+c-98-250-143-115.hsd1.mi.comcast.net 16 42 1623634 20160621124851
+nat2-cp-wifi.unitn.it 30 80 2612608 20160625192840
+83.150.30.68 61 144 4820235 20160627110842
+111-248-142-60.dynamic.hinet.net 1 1 4134 20160615231108
+176.160.33.38 37 82 2432775 20160621140112
+154.72.166.55 29 68 1782044 20160601152022
+95.218.30.147 18 60 3078117 20160611041942
+ip4dab0709.direct-adsl.nl 28 79 1964793 20160611092401
+cpe0c473d2a9821-cm0c473d2a9820.cpe.net.cable.rogers.com 6 20 1026039 20160612063228
+host-78-146-225-221.as13285.net 2 15 969295 20160620220612
+192.114.91.246 9 24 1072999 20160606105045
+baiduspider-220-181-108-78.crawl.baidu.com 0 1 37107 
+41.242.137.60 4 6 58256 20160603133940
+munin.poop.dk 1 1 8559 20160620042710
+113.210.189.118 6 20 1026041 20160624071126
+host35-94-dynamic.54-79-r.retail.telecomitalia.it 3 3 12396 20160620173504
+baiduspider-220-181-108-83.crawl.baidu.com 0 1 97362 
+aemx135.neoplus.adsl.tpnet.pl 17 52 1375706 20160610114632
+41.242.136.1 19 42 1192294 20160613173315
+ec2-54-172-185-184.compute-1.amazonaws.com 1 1 11727 20160621112808
+172.58.73.234 0 1 370651 
+mu-039069.dhcp.missouri.edu 7 21 1029400 20160601230411
+177.237.1.51.cable.dyn.cableonline.com.mx 3 7 83988 20160602202130
+204.79.180.198 0 3 7688 
+ip-176-195-245-202.bb.netbynet.ru 7 17 204699 20160615191934
+dsl-187-214-105-76-dyn.prod-infinitum.com.mx 6 20 1026039 20160610040301
+rigby01.embed.ly 1 1 4132 20160605210039
+62.141.88.70 6 20 1026039 20160614132730
+5.90.197.129 1 1 4132 20160608195124
+ec2-52-7-128-139.compute-1.amazonaws.com 1 1 4132 20160621073805
+abayonne-651-1-261-201.w90-11.abo.wanadoo.fr 6 21 1027733 20160604141153
+ec2-54-82-36-43.compute-1.amazonaws.com 1 1 18152 20160605055923
+58.181.216.55 4 10 577048 20160608033712
+0543fd6d.skybroadband.com 26 74 2470479 20160620025446
+29.red-88-20-59.staticip.rima-tde.net 6 20 1041004 20160606141543
+95.219.101.194 6 20 1026039 20160613031129
+c-73-168-30-10.hsd1.il.comcast.net 15 36 1242734 20160613061408
+124.106.137.53 6 20 1026039 20160612105727
+48.117.37.188.rev.vodafone.pt 9 23 1036637 20160608021838
+pool-173-54-199-188.nwrknj.fios.verizon.net 13 35 1256092 20160608182650
+host26-65-dynamic.181-80-r.retail.telecomitalia.it 1 1 4132 20160610120346
+37.227.97.144 6 21 1027733 20160617123902
+151.62.56.25 16 22 135481 20160602085500
+201-162-84-29.viareal.com.br 6 16 551581 20160609182244
+baiduspider-220-181-108-120.crawl.baidu.com 0 1 40847 
+190.40.215.26 9 28 1881197 20160602182234
+150-70-173-51.trendmicro.com 0 1 97362 
+ec2-54-200-168-233.us-west-2.compute.amazonaws.com 1 1 4132 20160616043014
+mailuk.nextjump.com 6 20 1026039 20160607142817
+41.209.88.94 8 23 1047528 20160610153131
+host-92-29-76-251.as13285.net 1 1 4132 20160607024519
+host15-8-dynamic.8-87-r.retail.telecomitalia.it 9 14 511101 20160606142759
+nat1-studentato-sanbapolis.net.icts.unitn.it 27 70 1577113 20160605143840
+95.144.188.166 12 40 2067099 20160617185052
+host-105.202.40.141.etisalat.com.eg 4 4 11629 20160604124226
+no-dns-yet-assigned.orbital.net 13 37 1143273 20160609101152
+bau42-wi-ag-intman-ipv4-0008.wiwi.uni-kl.de 7 22 1049139 20160608113255
+static.151.80.76.144.clients.your-server.de 1 1 18264 20160604090526
+cpc78525-basf13-2-0-cust11.12-3.cable.virginm.net 6 21 1027733 20160604202651
+83-218-147-60.spitfireuk.net 87 166 4915267 20160628190936
+host186-107-dynamic.236-95-r.retail.telecomitalia.it 27 70 1263841 20160603161838
+c-71-203-168-240.hsd1.fl.comcast.net 7 21 1048234 20160602212014
+101.199.108.119 6 16 196848 20160605234337
+50-255-33-33-static.hfc.comcastbusiness.net 6 20 1041004 20160621230824
+filterbypass.me 1 1 18152 20160625122008
+204.79.180.210 1 1 4134 20160614144226
+86.98.7.135 6 20 1026039 20160606122203
+baiduspider-220-181-108-80.crawl.baidu.com 0 1 2238 
+h2.95.133.40.static.ip.windstream.net 13 48 1780666 20160607074349
+101.167.226.85 1 14 700949 20160624073307
+93-34-82-249.ip48.fastwebnet.it 50 124 5256432 20160613102151
+37-229-252-195-broadband.kyivstar.net 26 26 471952 20160630164359
+host232-8-dynamic.51-79-r.retail.telecomitalia.it 8 23 903204 20160605191140
+host251-189-dynamic.50-79-r.retail.telecomitalia.it 14 32 1221606 20160601224929
+41.83.15.15 6 20 1026039 20160606183605
+baiduspider-220-181-108-90.crawl.baidu.com 0 2 168986 
+5ac79045.bb.sky.com 7 17 573775 20160626182257
+ec2-107-21-25-26.compute-1.amazonaws.com 1 1 4134 20160627170135
+138.40.67.229 13 38 775425 20160618145326
+torrelay1.tomhek.net 1 1 4134 20160626035701
+93-43-5-160.ip89.fastwebnet.it 11 29 1169253 20160601183608
+host81-151-92-221.range81-151.btcentralplus.com 6 20 1026041 20160628212342
+93-34-233-104.ip52.fastwebnet.it 52 76 2231516 20160607233112
+gbedcz03fwb-global1.mmc.com 6 19 619057 20160608115604
+akloun8.fvds.ru 1 1 18152 20160615163452
+85-76-22-195-nat.elisa-mobile.fi 7 20 625598 20160620191600
+5.90.41.224 12 33 1726947 20160604191400
+host86-137-95-182.range86-137.btcentralplus.com 11 37 1238405 20160624123056
+ip68-13-34-18.om.om.cox.net 0 1 370651 
+154.72.166.64 1 1 5269 20160601204445
+115.164.222.56 6 20 1041006 20160627134747
+nd-129-74-117-240.nat.nd.edu 6 20 1026039 20160603221909
+host109-149-24-240.range109-149.btcentralplus.com 35 98 4416608 20160627093537
+host253-17-dynamic.0-87-r.retail.telecomitalia.it 1 2 60631 20160601162027
+41.202.219.76 10 28 50756 20160604185528
+ec2-54-158-196-84.compute-1.amazonaws.com 1 1 18152 20160608032346
+d54c44829.access.telenet.be 24 51 1259737 20160625155903
+baiduspider-220-181-108-123.crawl.baidu.com 0 2 146147 
+187-35-46-53.dsl.telesp.net.br 6 21 1027735 20160627233259
+220.181.51.79 2 2 8264 20160621175853
+103.52.253.143 6 20 1026093 20160607095958
+host48-107-dynamic.54-79-r.retail.telecomitalia.it 13 35 1226533 20160606165926
+203.104.145.40 0 1 247999 
+61.135.190.104 0 4 41970 
+220.181.132.217 1 1 23696 20160605234242
+91.253.163.135 8 8 44704 20160624081256
+4.79.123.2 2 2 36528 20160623021217
+128-75-253-33.broadband.corbina.ru 6 32 744049 20160604212100
+02dc7dd5.bb.sky.com 19 45 1263884 20160628183357
+175.141.64.2 6 20 1026041 20160625113406
+213.254.241.5 12 12 219168 20160630163337
+117.3.71.231 1 2 12973 20160609064105
+91.252.212.64 6 19 618368 20160610222337
+151.62.165.179 11 25 1041446 20160602151348
+23.247.148.244.rdns.micfo.com 6 20 1026039 20160619160415
+138.40.67.226 1 1 4132 20160602120313
+host109-145-59-51.range109-145.btcentralplus.com 7 21 1048236 20160630143100
+nat-polocitta-wifi-eduroam.net.icts.unitn.it 24 67 3141552 20160630172309
+fw8-http.novartis.com 0 1 29740 
+151.62.92.101 4 4 26495 20160607225041
+host128-194-dynamic.14-87-r.retail.telecomitalia.it 18 21 134142 20160607141600
+static.83.71.76.144.clients.your-server.de 1 1 8559 20160617003654
+ec2-54-177-29-14.us-west-1.compute.amazonaws.com 1 2 252131 20160605210039
+115.252.8.2 17 55 2696128 20160628072105
+203.106.155.210 6 20 1026039 20160602024902
+150-70-188-176.trendmicro.com 0 2 235345 
+2-55-148-137.orange.net.il 7 21 1048234 20160606073723
+5e053b80.bb.sky.com 8 26 1110912 20160607185756
+31-179-23-150.dynamic.chello.pl 7 25 669975 20160603151023
+101.167.226.87 1 1 4132 20160609032358
+pf1.ext.hb.se 6 19 588696 20160607142222
+70.39.157.195 2 2 36528 20160616150506
+dsl-189-132-44-82-dyn.prod-infinitum.com.mx 6 20 1026039 20160618204436
+net-37-117-62-193.cust.vodafonedsl.it 6 20 1026039 20160622123546
+190-20-218-241.baf.movistar.cl 2 3 33400 20160603020656
+host86-181-23-233.range86-181.btcentralplus.com 7 21 1048236 20160626180554
+82-132-229-146.dab.02.net 10 42 1324893 20160623102116
+cpe-124-188-104-62.lbcz1.ken.bigpond.net.au 7 22 1086670 20160602080351
+113.193.144.176 6 20 1026095 20160629162459
+204.79.180.186 1 1 7230 20160614144229
+cpc89008-gill18-2-0-cust784.20-1.cable.virginm.net 6 21 1027735 20160628172253
+168.167.34.253 33 61 1352496 20160621120400
+host-92-0-177-67.as43234.net 18 46 1243631 20160617200414
+204.79.180.154 0 1 33845 
+static-ip-18156168143.cable.net.co 21 52 2205801 20160607063435
+70.39.157.196 1 1 18264 20160614103924
+77-56-69-201.dclient.hispeed.ch 7 23 1457321 20160608125913
+host86-184-29-50.range86-184.btcentralplus.com 6 20 1026039 20160621184747
+75-149-221-170-illinois.hfc.comcastbusiness.net 1 1 18152 20160601234750
+ip-176-77-113-116.bb.netbynet.ru 3 13 132236 20160604102013
+qualityassurance.siteimprove.com 11 11 45467 20160628191420
+95-24-151-168.broadband.corbina.ru 3 17 980485 20160629165103
+nat2-studentato-sanbapolis.net.icts.unitn.it 9 25 1128830 20160606032235
+93-34-82-9.ip48.fastwebnet.it 9 25 1167809 20160630162723
+dsl-207-112-17-42.static.tor.primus.ca 6 20 1026039 20160606223539
+91.253.159.221 26 57 1289326 20160615190939
+310.2016.com 8 8 13114 20160615091612
+google-proxy-66-102-6-209.google.com 0 5 1239995 
+host125-232-dynamic.8-87-r.retail.telecomitalia.it 19 42 249414 20160606223552
+78.177.96.211.dynamic.ttnet.com.tr 6 20 1026039 20160622021242
+n11923633156.netvigator.com 9 25 1108361 20160608163106
+egress29.cws.sco.cisco.com 1 1 4134 20160614220046
+204.79.180.182 0 1 41763 
+sol-fttb.215.121.118.46.sovam.net.ua 9 9 3744 20160602160525
+85.13.9.122.jm-data.at 38 107 2629467 20160628125737
+host-62-24-252-133.as13285.net 21 55 2813661 20160623003144
+91.253.75.67 3 3 24052 20160625095322
+ostrich.whogohost.com 2 2 17118 20160606021752
+204.79.180.33 0 1 824 
+94.118.109.145 6 20 1026041 20160629120617
+baiduspider-220-181-108-112.crawl.baidu.com 1 2 37107 20160611071847
+ec2-52-4-116-131.compute-1.amazonaws.com 1 1 9902 20160621112806
+localhost 4 11 485976 20160609064431
+host215-109-dynamic.50-79-r.retail.telecomitalia.it 6 12 22421 20160604151957
+151.62.93.224 17 43 1270026 20160605090847
+host89-246-dynamic.237-95-r.retail.telecomitalia.it 1 1 20493 20160607224742
+google-proxy-64-233-173-88.google.com 13 54 2394067 20160627134428
+138.220.149.51 7 21 1029400 20160602180201
+host86-171-220-232.range86-171.btcentralplus.com 32 78 2937155 20160606100330
+95-25-21-200.broadband.corbina.ru 3 13 506713 20160604212103
+google-proxy-66-102-6-205.google.com 0 2 495998 
+16-182-169-181.fibertel.com.ar 18 52 1914599 20160605054514
+cpc91866-lewi18-2-0-cust180.2-4.cable.virginm.net 11 35 1209888 20160606221307
+google-proxy-66-102-6-169.google.com 0 2 495998 
+pool-74-101-221-19.nycmny.fios.verizon.net 30 82 1997919 20160608220324
+93-34-233-247.ip52.fastwebnet.it 1 1 4132 20160602163204
+ec2-54-175-191-57.compute-1.amazonaws.com 1 1 18152 20160627152012
+2.24.153.95 6 21 1027733 20160602224239
+sd4406d90.adsl.online.nl 13 31 286780 20160617131300
+95-24-62-249.broadband.corbina.ru 3 12 130272 20160614181636
+c-67-188-80-216.hsd1.ca.comcast.net 6 20 1026039 20160609072402
+dsl-189-152-23-54-dyn.prod-infinitum.com.mx 6 20 1026039 20160613164846
+p10n10.trendiction.de 1 1 4132 20160620190408
+global-184-95.nat-1.net.cam.ac.uk 15 40 956210 20160615123536
+204.79.180.180 0 1 3033 
+70.39.157.193 7 7 102932 20160630231140
+181.64.227.176 13 49 1390812 20160622211257
+121.54.32.166 6 21 1027733 20160607185240
+194.98.70.138 0 1 370651 
+41.242.137.62 2 2 6404 20160614171215
+37.227.109.127 4 4 13769 20160625212549
+ip-64-134-24-209.public.wayport.net 4 18 996874 20160612035929
+204.79.180.127 0 1 9845 
+123.125.67.146 1 1 4132 20160609060555
+c-67-180-225-253.hsd1.ca.comcast.net 7 21 1048234 20160607234607
+107-197-250-113.lightspeed.miamfl.sbcglobal.net 2 15 969295 20160604034809
+101.167.226.88 3 6 290463 20160624073309
+23.108.15.185.rdns.as15003.net 1 1 4132 20160608115407
+client-181-42-0-89.imovil.entelpcs.cl 9 25 1072232 20160603192855
+217-162-21-213.static.cablecom.ch 8 8 38199 20160614093151
+host-78-149-17-215.as13285.net 16 45 1283842 20160603074255
+204.79.180.172 0 1 41763 
+host116-106-dynamic.17-79-r.retail.telecomitalia.it 3 9 946827 20160608085033
+204.79.180.239 0 1 4944 
+36-225-112-95.dynamic-ip.hinet.net 0 1 370651 
+ec2-107-21-50-160.compute-1.amazonaws.com 1 1 4134 20160624050316
+cpe-98-26-72-83.nc.res.rr.com 10 28 1165892 20160601025401
+pa4.pstnly.net 1 1 4132 20160608210637
+59.88.161.55 6 20 1026093 20160609074031
+global-5-141.nat-2.net.cam.ac.uk 20 42 1265374 20160630174255
+my46-237-131-42.cust.ukbroadband.com 10 26 1106261 20160606180250
+net-188-218-118-136.cust.vodafonedsl.it 9 28 1089692 20160607220936
+5.168.12.210 8 22 1084422 20160608085422
+mx-ll-49.49.242-51.dynamic.3bb.co.th 1 1 4132 20160611171831
+baiduspider-220-181-108-111.crawl.baidu.com 0 3 413949 
+185.27.125.190 5 19 1008692 20160617121603
+524a428d.cm-4-3b.dynamic.ziggo.nl 9 26 1087810 20160601164908
+5.169.13.155 1 1 4134 20160624093435
+host109-145-112-113.range109-145.btcentralplus.com 19 42 1187552 20160606132306
+static.207.94.9.5.clients.your-server.de 1 1 8559 20160618155640
+85-76-102-166-nat.elisa-mobile.fi 6 21 1027735 20160622212404
+115.111.212.82.static-pune.vsnl.net.in 7 25 675885 20160621083912
+dsl-189-132-62-252-dyn.prod-infinitum.com.mx 6 20 1026039 20160621191043
+5e071d56.bb.sky.com 16 52 1403081 20160626133756
+baiduspider-220-181-108-163.crawl.baidu.com 0 2 39345 
+host120-40-dynamic.56-82-r.retail.telecomitalia.it 35 55 828953 20160605163549
+197.220.169.144 7 23 981367 20160615110603
+121.96.78.237.bti.net.ph 6 20 1026039 20160620114330
+ec2-54-176-128-153.us-west-1.compute.amazonaws.com 1 1 0 20160620191657
+43.252.197.120 9 23 1035939 20160608141136
+112.10.91.67 1 1 4132 20160606095125
+c-67-190-85-36.hsd1.co.comcast.net 8 22 1030171 20160614012320
+ranc12.emlbase.com 4 4 72608 20160604022958
+ip-176-193-82-183.bb.netbynet.ru 1 1 4132 20160619164821
+host86-157-242-163.range86-157.btcentralplus.com 4 4 24840 20160616162307
+107.72.164.112 10 29 1546995 20160604012435
+host86-134-234-97.range86-134.btcentralplus.com 7 25 670911 20160612224059
+24.134-247-81.adsl-dyn.isp.belgacom.be 0 1 247999 
+138.40.67.228 21 51 2215380 20160621161611
+121.54.32.142 1 1 5177 20160619160333
+111.90.177.43 6 20 1031433 20160606191008
+200.41.103.145 6 20 1026039 20160603195751
+132.254.101.169 6 19 588696 20160617182922
+173-230-161-22.cable.teksavvy.com 2 12 957684 20160612173743
+host145-158-dynamic.12-79-r.retail.telecomitalia.it 10 28 1181424 20160620175328
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20160601 774 1685 48426386 77
+20160602 518 1297 45629076 72
+20160603 582 1342 42347274 69
+20160604 422 997 32868886 59
+20160605 471 1090 36600464 60
+20160606 709 1689 55729806 96
+20160607 784 1874 63662070 103
+20160608 524 1395 46392682 74
+20160609 426 1001 34500172 50
+20160610 270 721 22927649 40
+20160611 140 357 13425327 29
+20160612 180 455 17951952 30
+20160613 432 1123 36595550 57
+20160614 261 626 21425458 54
+20160615 254 636 23955346 46
+20160616 196 476 18651588 41
+20160617 283 694 25159032 49
+20160618 159 425 14227942 31
+20160619 191 435 15835597 31
+20160620 491 1239 34290340 66
+20160621 325 839 31857630 67
+20160622 581 1162 29180471 44
+20160623 211 559 24382462 44
+20160624 220 585 24181090 33
+20160625 314 723 23033246 53
+20160626 299 666 20634644 32
+20160627 374 967 36721467 56
+20160628 291 715 25423540 49
+20160629 136 357 14874945 35
+20160630 325 668 15517668 38
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 36
+5mn-15mn 120
+15mn-30mn 64
+2mn-5mn 83
+30s-2mn 149
+0s-30s 1078
+30mn-1h 55
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 426
+/ 1777 14279184 1171 455
+/application/themes/zoo/css/main.less 1109 7650990 24 60
+/application/themes/zoo/fonts/icons/headerfont.woff 779 2369248 4 150
+/application/themes/zoo/fonts/texta-light-webfont.woff2 551 9316893 2 92
+/application/themes/zoo/fonts/utopia_regular-webfont.woff2 551 8907665 2 11
+/application/themes/zoo/fonts/texta-black-webfont.woff2 550 8425920 1 57
+/business-models/multi-sided-model 364 2272818 30 83
+/exemplars 329 4732806 43 42
+/business-models/matchmaking-model 304 2178896 36 51
+/login/authenticate/concrete 293 261195 0 2
+/index.php/ccm/system/block/render 8 8782 0 0
+/wordpress/ 26 224214 3 3
+/login/logout/1464772036%3A1c25f8898f52e5040325d2c92ec983ef 1 194 0 0
+/login/forward/281 1 11727 0 0
+/diffusion/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/playgen 9 43816 1 3
+/exemplars/hailo 6 28263 0 1
+/contact/ 25 9600 9 9
+/exemplars/masternaut 2 8297 0 0
+/login/forward/266 2 14770 0 0
+/newsletter/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/MichaelCanthony/download.php 1 2094 0 0
+/click/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/plugins/db-backup/download.php 1 2094 0 0
+/store/index.php 1 18152 0 0
+/login/forward/248 2 14770 0 0
+/wp-content/themes/felis/download.php 1 2094 0 0
+/ccm/system/page/check_in/157/1464870746%3A1cedf35f67cdb6f83438ffad1635e366 1 214 0 0
+/login/forward/209 14 60326 1 2
+/login/forward/229 3 17814 0 0
+/index.php/ccm/system/dialogs/block/design 1 3122 0 0
+/exemplars/horizon-discovery 2 9671 0 0
+/login/callback/concrete/v/i4CG3ljaUGAj 1 420 0 0
+/ccm/system/dialogs/block/cache 1 1107 0 0
+/exemplars/madecom 35 208114 1 8
+/login/forward/270 2 14771 0 0
+/exemplars/myoptique 3 12948 0 1
+/index.php/dashboard/system/files/storage 3 21311 0 0
+/login/forward/251 1 11727 0 0
+/login/callback/concrete/v/WVe9uTNNjYrq 1 420 0 0
+/login/forward/286 2 14769 0 0
+/subscribe/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/index.php/login/authenticate/concrete 1 3107 1 0
+/login/forward/230 8 33036 0 1
+/login/callback/concrete/v/sqVBX9XEcPRs 1 420 0 0
+/my/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/index.php/dashboard/files/sets 5 35929 0 0
+/subscriber/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/FR0_theme/down.php 1 2094 0 0
+/exemplars/graze 3 17919 0 2
+/wp-content/themes/yakimabait/download.php 1 2094 0 0
+/administrator/ 2 17118 0 2
+/ccm/system/search/files/submit 6 2648 0 0
+/index.php/tools/required/dashboard/sitemap_data 7 3037 0 0
+/login/forward/242 1 11727 0 0
+/wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php 1 2094 0 0
+/ccm/system/page/check_in/193/1466606866%3A7f170f6f2c919de7723175a44d9c7bdd 1 219 0 0
+/wp-login.php 5 42907 5 3
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 2094 0 0
+/login 102 365861 6 4
+/exemplars/boxcom 5 24622 0 1
+/ems/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/matchesfashion 2 9007 0 1
+/enews/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/252 6 26945 0 1
+/login/logout/1465230119%3Ad38f2c6d31a8cce6e4aa6ccd08368305 1 194 0 0
+/login/forward/210 8 33032 0 1
+/support/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/transferwise 10 48014 0 4
+/login/forward/256 2 14772 0 0
+/em/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/276 2 14771 0 0
+/ccm/system/page/create/7 2 576 0 0
+/mails/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/callback/concrete/v/0SRyOE3yxeUq 1 420 0 0
+/wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php 1 2094 0 0
+/faqs/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/zoopla 5 21267 0 0
+/wp-content/themes/infocus/lib/scripts/dl-skin.php 1 2094 0 0
+/iem/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/226 19 67559 0 1
+/ccm/system/panels/details/page/composer/autosave 9 1323 0 0
+/login/callback/concrete/v/ZxhbuypH6TkO 1 420 0 0
+/login/callback/concrete/email_validated 36 126136 1 4
+/wp-content/themes/fusion/lib/scripts/dl-skin.php 1 2094 0 0
+/mm/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/235 4 20860 0 0
+/login/callback/concrete/change_password/suBOuc45wEc14vqy8gRZ6tS14FgY4FQUeHXsjbOURp9186ioxNB6mDtF70FLiSqo 2 3233 0 0
+/login/forward/217 4 21205 0 0
+/wp-content/themes/Newspapertimes_1/download.php 1 2094 0 0
+/exemplars/orderdynamics 1 4774 0 0
+/exemplars/shazam 36 189796 1 14
+/login/concrete/password_changed 3 7781 0 0
+/business-models/ 1 201 0 0
+/login/forward/222 1 11727 0 0
+/exemplars/zipcar 13 64132 2 5
+/login/callback/concrete/v/h1oYAjz3xD7q 1 420 0 0
+/exemplars/mimecast 1 4481 0 0
+/login/forward/237 2 14771 0 0
+/system/admin/de/dialog/callback.snipshot.php 1 8559 0 1
+/email/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/about 90 347702 16 1
+/exemplars/waze 17 85752 1 6
+/wp-content/themes/churchope/lib/downloadlink.php 1 2094 0 0
+/exemplars/worldstores 1 4975 0 0
+/exemplars/housetrip 3 10890 0 0
+/login/logout/1464938927%3A40f6830143b1e68d6040562ab91ce2e2 1 194 0 0
+/exemplars/algomi 7 40148 0 0
+/index.php/login/forward/193 4 12186 3 0
+/comm/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/epic/includes/download.php 1 2094 0 0
+/marketer/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/callback/concrete/v/qbeN2YVWg1js 1 420 0 0
+/exemplars/ao-world 2 9299 0 0
+/exemplars/mobile-decisioning-mode 8 38160 1 4
+/exemplars/skyscanner 36 161551 1 8
+/business-models 207 780119 23 27
+/subscribers/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/busuu 12 55850 1 1
+/sendstudio/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/feedback 1 8559 1 1
+/ccm/system/panels/details/page/composer/discard 1 123 0 0
+/business-models/product-model 221 2316844 21 27
+/login/forward/279 2 14771 0 0
+/index.php/tools/required/reindex_pending_pages 1 20 0 0
+/ccm/system/panels/page 8 4565 0 0
+/ccm/system/page/create/6 1 282 0 0
+/sendstudionx/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/secretescapes 3 11286 0 1
+/index.php/dashboard/sitemap 1 226 0 0
+/login/forward/282 9 36071 0 1
+/login/forward/225 8 33376 0 2
+/ccm/system/panels/page/check_in/submit 3 443 0 0
+/login/callback/concrete/change_password/i0rosHZfg28bGUqXRzMgfta1pJFeU3fxsoxcJyDQD2BpmZS4894bYY1zkQfcQJOT 2 3241 0 0
+/login/logout/1465292971%3Aea7c67c78bcf368345b421ce5156f37a 1 194 0 0
+/login/forward/221 3 17816 0 0
+/login/logout/1465291232%3A1b4c0a740302824f979c1f5f9781101e 1 200 0 0
+/wp-content/themes/markant/download.php 1 2094 0 0
+/login/forward/238 2 14771 0 0
+/exemplars/etoro 5 23221 0 1
+/manage/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/awake/lib/scripts/dl-skin.php 1 2094 0 0
+/exemplars/naked-wines 35 211663 2 12
+/index.php/dashboard/system/files/permissions 1 8188 0 0
+/about/portfolio/ 135 56160 46 46
+/edm/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/lumi 6 24269 0 1
+/wp-content/themes/infocus2/lib/scripts/dl-skin.php 1 2094 0 0
+/wp-content/plugins/plugin-newsletter/preview.php 1 2094 0 0
+/index.php/ccm/system/backend/intelligent_search 1 22 0 0
+/login/callback/concrete/v/0jqeBUCH9zUD 1 420 0 0
+/login/forward/243 2 14769 0 0
+/wp-content/themes/dejavu/lib/scripts/dl-skin.php 1 2094 0 0
+/ss/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/achica 3 13987 1 0
+/application/themes/zoo/fonts/texta-black-webfont.eot 50 660799 1 4
+/ccm/system/page/check_in/154/1466606712%3A40fdd3b9573bedb096ca0413ddfe0a7d 1 206 0 0
+/exemplars/product-model 61 805127 3 11
+/exemplars/RK=0/RS=MZ51lfPMn02q90cmdXQJ_giomGA- 2 17342 1 1
+/login/forward/275 3 17815 0 0
+/ccm/assets/localization/core/js 163 712953 0 27
+/login/forward/250 2 14771 0 0
+/km/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/application/themes/zoo/fonts/glyphicons-halflings-regular.eot 8 16753 0 7
+/index.php/dashboard/sitemap/full 1 7157 0 0
+/index.php/dashboard/system/files/storage/select_type 1 7548 0 0
+/index.php/dashboard/files 8 1795 0 0
+/mailer/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/callback/concrete/v/Zl9P8SvYUDoE 4 2409 1 0
+/ccm/assets/localization/select2/js 101 5010 0 3
+/login/callback/concrete/v/4fLtSBwYNXUq 2 840 1 0
+/login/forward/246 2 14770 0 0
+/link/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/interspire/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/world-bank 2 10641 0 0
+/kmts/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/index.php/ccm/system/backend/get_remote_help 1 352 0 0
+/links/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/medicanimal 1 5064 0 1
+/wp-content/themes/NativeChurch/download/download.php 1 2094 0 0
+/login/callback/concrete/v/OpVPaH82Rr2D 1 420 0 0
+/index.php/ccm/system/dialogs/block/edit 7 9216 0 0
+/blog/ 23 198537 0 0
+/index.php/login/forward/193/trackback/ 4 928 0 3
+/login/callback/concrete/v/sgAnnGTBvxAU 1 420 0 0
+/wp/ 23 198537 0 21
+/login/forward/273 2 14768 0 0
+/int/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/elegance/lib/scripts/dl-skin.php 1 2094 0 0
+/exemplars/huddle 4 17662 0 2
+/register/register_success_validate/0 38 87756 0 1
+/send/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars'A=0 1 2094 1 1
+/mailmarketer/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/callback/concrete/v/I93PC07R4rZX 1 420 0 0
+/login/callback/concrete/v/z9O4aoG8asii 1 420 0 0
+/login/forward/233 3 17813 0 1
+/index.php/dashboard/home 5 6886 0 0
+/exemplars/just-eat 18 74163 0 0
+/login/logout/1464852366%3A1b9cd94d142696dd38d1230265ab4768 1 194 0 0
+/application/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/255 4 20857 0 0
+/resources/business-model-portfolio 86 282076 10 9
+/knowledgemanager/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/unruly 7 31955 1 0
+/login/forward/260 3 17817 0 0
+/login/logout/1466010555%3A531a145e48b89483b33ac6ec2fb9bc23 1 194 0 0
+/login/forward/259 6 26952 0 0
+/login/forward/197 1 3043 1 1
+/wp-content/themes/antioch/lib/scripts/download.php 1 2094 0 0
+/application/themes/zoo/fonts/utopia_regular-webfont.ttf 3 61245 0 0
+/wp-content/plugins/wp-filemanager/incl/libfile.php 1 2094 0 0
+/exemplars/mediatonic-product-model 1 4833 0 0
+/skb/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/265 2 14770 0 1
+/login/callback/concrete/v/foKo3IeiHRzE 1 420 0 0
+/login/forward/214 13 48597 1 1
+/login/forward/219 7 29991 0 1
+/exemplars/worldremit 1 4385 0 0
+/login/callback/concrete/v/oimR31uRfiK5 1 420 0 0
+/about/about-us 2 17118 2 2
+/articles/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/echelon/lib/scripts/dl-skin.php 1 2094 0 0
+/exemplars/unruly-1 5 24680 0 2
+/resources/business-model-innovation 64 232841 5 7
+/m/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/284 2 14771 0 0
+/application/config/database.php 4 80 1 2
+/login/forward/278 29 97642 2 4
+/ecs/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/photoboxs-personalized-digital-printing 1 4966 0 0
+/login/forward/220 20 69545 0 1
+/login/callback/concrete/change_password/HecJw7mcB5n6ycbZeo58u6wxKxElN921SnXYxLWvupBBEu3Iiay2saUmz8EGshhe 3 14192 2 1
+/login/forward/239 2 14770 0 0
+/contact 63 307155 11 19
+/exemplars/we-r-interactive 10 53092 0 2
+/login/callback/concrete/v/1EZsG0DmKgvL 1 420 0 0
+/login/logout/1465335069%3A30a969312042a40f79bee6c487dc2ff6 1 194 0 0
+/exemplars/ratesetter 8 41385 0 2
+/exemplars/adzuna 14 59383 0 1
+/exemplars/notonthehighstreetcom 5 22581 0 1
+/shop/index.php 1 18152 0 0
+/login/callback/concrete/v/2WRP4B9cWGMH 2 840 0 0
+/login/forward/283 3 17819 0 0
+/ccm/system/panels/sitemap 5 3897 0 0
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php 1 2094 0 0
+/index.php/dashboard/users 4 892 0 0
+/login/forward/240 3 17816 0 0
+/resources 74 260452 3 8
+/application/themes/zoo/fonts/icons/headerfont.eot 50 91018 3 9
+/exemplars/matchmaking-model 63 602816 5 3
+/sent/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/index.php/dashboard/system/files/filetypes 1 7274 0 0
+/exemplars/omnifone 1 4212 0 0
+/register 45 123123 1 0
+/wp-content/themes/method/lib/scripts/dl-skin.php 1 2094 0 0
+/exemplars/acturis 2 9008 0 0
+/mail/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/list/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/index.php/ccm/system/backend/editor_data 7 686 0 0
+/wp-content/plugins/dukapress/lib/dp_image.php 1 2094 0 0
+/wp-content/themes/construct/lib/scripts/dl-skin.php 1 2094 0 1
+/login/callback/concrete/invalid_token 15 40512 0 1
+/login/concrete/password_sent 5 13514 1 1
+/wp-content/themes/SMWF/inc/download.php 1 2094 0 0
+/exemplars/funding-circle 12 70697 1 3
+/login/forward/211 3 17814 1 0
+/application/themes/zoo/fonts/texta-light-webfont.ttf 4 93912 0 0
+/wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php 1 2094 0 0
+/register/do_register 42 21319 1 1
+/ccm/system/panels/details/page/permissions 1 2944 0 1
+/login/forward/274 1 11727 0 0
+/ccm/assets/localization/imageeditor/js 9 1341 0 0
+/login/forward/234 3 17814 0 0
+/index.php/dashboard/system 3 22685 0 0
+/login/callback/concrete/v/ePcyVpe4znVC 1 1165 1 0
+/application/themes/zoo/fonts/icons/headerfont.ttf 5 14450 1 1
+/ccm/assets/localization/jquery/ui/js 163 9251 0 4
+/online/index.php 1 18152 0 1
+/login/forward/268 3 17812 0 0
+/wp-content/plugins/pica-photo-gallery/picadownload.php 1 2094 0 0
+/supports/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/tess/download.php 1 2094 0 0
+/login/forward/253 4 21210 1 0
+/login/concrete/forgot_password 5 21909 0 1
+/exemplars/green-man-gaming 5 21584 0 0
+/ccm/assets/localization/redactor/js 34 36788 0 1
+/login/callback/concrete/v/Fz0ytt8oeiCk 3 2009 1 0
+/exemplars/moo 1 5827 0 1
+/index.php/dashboard/users/search 4 37642 0 0
+/login/callback/concrete/v/AbD9EYTnI5sm 1 422 0 0
+/wp-content/themes/lote27/download.php 1 2094 0 0
+/login/forward/224 3 17815 0 2
+/mailing/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/go-cardless 2 7978 0 0
+/exemplars/datasift 3 16365 0 0
+/login/forward/261 3 17818 0 0
+/wp-admin/admin-ajax.php 3 6282 0 0
+/login/forward/247 1 11727 0 0
+/login/forward/228 6 27650 0 0
+/login/forward/254 3 17814 0 0
+/wp-content/themes/ypo-theme/download.php 1 2094 0 0
+/ccm/system/panels/dashboard 10 5263 0 0
+/faq/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/ccm/assets/localization/dynatree/js 9 909 0 0
+/login/forward/272 1 11727 0 0
+/marketing/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/account_deactivated 13 40404 1 2
+/login/forward/215 7 29998 0 0
+/ccm/system/page/check_in/154/1466606732%3A06ae9cbc67ecd9daa97a24d8eac16029 1 206 0 0
+/login/callback/concrete/forgot_password 4 1644 0 0
+/ccm/system/panels/page/check_in 4 2848 0 0
+/exemplars/amazon-instant-video 4 16834 0 3
+/wp-content/themes/authentic/includes/download.php 1 2094 0 0
+/ccm/system/panels/details/page/location 2 3675 0 0
+/exemplars/sports-interactive 2 11130 0 0
+/exemplars/solutions-model 37 267017 1 2
+/login/forward/212 2 14769 0 0
+/administrator/index.php 3 12396 0 3
+/wp-content/themes/myriad/lib/scripts/dl-skin.php 1 2094 0 0
+/login/forward/258 2 14770 0 0
+/ccm/system/page/create/9 2 579 0 0
+/login/forward/232 6 26948 0 2
+/login/callback/concrete/v/E4UNpYHy8JFD 1 420 0 0
+/e-marketing/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/wp-content/themes/acento/includes/view-pdf.php 1 2094 0 0
+/login/callback/concrete/v/l9sE5cVKyW9x 1 420 0 0
+/emails/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/index.php/ccm/system/marketplace/search 1 22 0 1
+/wp-content/themes/modular/lib/scripts/dl-skin.php 1 2094 0 0
+/login/callback/concrete/v/ULZwqrL6TSR5 1 420 0 0
+/login/forward/218 1 11727 0 0
+/news/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/activekb/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/justgiving 5 22720 0 0
+/index.php/dashboard/system/files/thumbnails 1 7097 1 0
+/ccm/system/search/users/submit 3 74761 0 1
+/login/forward/280 3 17815 0 1
+/exemplars/tesla-motors 17 108877 0 9
+/login/forward/269 3 17810 0 1
+/concrete/css/fonts/fontawesome-webfont.woff 6 392716 0 0
+/kb/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/about/zoo-bm-categories 1 8559 1 1
+/application/themes/zoo/fonts/texta-light-webfont.eot 50 722371 0 2
+/ccm/system/panels/details/page/composer 6 13619 0 0
+/login/forward/236 5 23897 0 0
+/login/callback/concrete 10 30436 1 2
+/login/logout/1465297971%3A8f36b852d67ddcdd2c23eb2322415c3a 1 194 0 0
+/browserconfig.xml 2 4188 0 1
+/login/forward/245 3 17812 0 1
+/admin/de/dialog/callback.snipshot.php 1 8559 1 0
+/ccm/system/dialogs/block/edit/submit 5 803 0 0
+/application/themes/zoo/fonts/texta-light-webfont.woff 231 5180592 1 40
+/login/callback/concrete/v/KhqM7388muAr 3 1989 3 0
+/login/callback/concrete/v/DXuqkwNFZG4e 1 420 0 0
+/exemplars/onefinestay 2 7082 0 0
+/login/forward/249 5 23898 0 0
+/index.php/tools/required/files/import 2 1983 0 0
+/wp-content/themes/jarida/download.php 1 2094 0 0
+/emailmarketer/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/263 4 20861 0 0
+/application/files/5014/5794/0812/favicon.ico%22%20type=%22image/x-icon%22/ 1 8055 0 0
+/login/forward/267 1 11727 0 0
+/wp-content/themes/trinity/lib/scripts/download.php 1 2094 0 0
+/application/themes/zoo/fonts/utopia_regular-webfont.eot 50 632600 1 1
+/application/ 1 20 1 0
+/newsletters/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/241 6 26942 0 0
+/login/callback/concrete/v/JrNO6k4coqu8 1 420 0 0
+/login/callback/concrete/v/GuwN1sRtBhXj 1 420 0 0
+/wp-content/plugins/filedownload/download.php/ 1 2094 0 0
+/application/themes/zoo/fonts/utopia_regular-webfont.woff 236 4713672 1 16
+/login/forward/216 1 11727 0 0
+/exemplars/scoota 2 9427 0 1
+/exemplars/chemist-direct 1 5135 0 0
+/login/forward/285 2 14771 0 0
+/login/callback/concrete/v/7l4TGuz8T4zH 1 420 0 0
+/business-models/solutions-model 226 1332213 29 38
+/login/callback/concrete/v/NzvAUJV352sO 1 420 0 0
+/login/forward/231 5 23903 0 0
+/exemplars/lyst 6 21073 1 2
+/exemplars/aas-pay-how-you-drive-insurance 8 39947 0 3
+/ime/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/performance-horizon 1 4372 0 0
+/login/forward/277 41 143540 1 5
+/wp-content/themes/urbancity/lib/scripts/download.php 1 2094 0 0
+/demo/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/forward/257 2 14772 0 0
+/wp-content/themes/corporate_works/downloader.php 1 2094 0 0
+/login/forward/262 2 14770 0 0
+/login/forward/213 8 33378 0 0
+/exemplars/onefinestay-1 2 7114 0 0
+/wp-content/themes/TheLoft/download.php 1 2094 0 0
+/exemplars/farfetch 9 38139 1 1
+/login/callback/concrete/v/lQwNiCQ8ItNB 1 420 0 0
+/login/forward/227 15 54687 1 0
+/index.php/dashboard/files/search 9 83082 0 0
+/login/forward/244 4 20863 0 0
+/wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php 1 2094 0 0
+/login/callback/concrete/v/DIRRnNQWyGe8 1 420 0 0
+/exemplars/lmax-exchange 4 15832 0 2
+/wp-content/force-download.php 1 2094 0 0
+/wp-content/themes/linenity/functions/download.php 1 2094 0 0
+/login/callback/concrete/v/MIEQAMxvCM1K 4 1680 1 0
+/login/forward/271 2 14769 0 0
+/exemplars/netflix 12 57333 2 3
+/concrete/css/fonts/fontawesome-webfont.eot 1 55978 0 0
+/application/themes/zoo/fonts/texta-black-webfont.woff 233 4794402 0 25
+/kbase/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/callback/concrete/v/g0f5CHrYYmS5 1 420 0 0
+/login/forward/223 3 18512 1 0
+/exemplars/nomad-digital 3 14932 0 1
+/lists/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/exemplars/hulus-free-demand-videos 17 84747 0 3
+/ccm/system/page/check_in/1/1467293497%3Af65abc054c0a084b5b85c0eb9f4b52ec 1 200 0 0
+/exemplars/venntro-media-group 1 4727 0 0
+/exemplars/airbnb 28 136368 0 10
+/login/callback/concrete/v/xutOAk2fEEhp 1 420 0 0
+/wp-content/themes/persuasion/lib/scripts/dl-skin.php 1 2094 0 0
+/exemplars/multi-sided-model 100 687301 5 8
+/index.php 32 321378 4 0
+/exemplars/mediatonic-service-model 3 12159 0 1
+/application/themes/zoo/fonts/texta-black-webfont.ttf 4 85760 1 0
+/login/callback/concrete/v/bhj9QN2w0j4L 2 840 0 0
+/mailinglist/admin/de/dialog/callback.snipshot.php 1 8559 0 0
+/login/callback/concrete/v/RxKL6Ly33rQR 1 420 0 0
+END_SIDER

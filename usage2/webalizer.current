@@ -1,0 +1,3745 @@
+# Webalizer V2.23-08 Incremental Data - 03/06/2018 03:35:42
+2018 3 6 3 35 42
+7145 7092 649 384 184 226 161590103 3294 850 0
+32 25 436 1 6
+1436 1424 32538198 168 737 172
+1064 1045 25113217 139 407 155
+1252 1246 19556078 133 841 119
+695 691 16923449 124 282 162
+2462 2450 63757035 191 878 217
+236 236 3702126 32 149 27
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+405 405 7987296 180
+167 167 2477201 126
+130 129 1675038 68
+141 140 2104044 100
+258 258 1380381 245
+257 257 3162817 227
+163 156 2595734 139
+91 83 2315081 33
+134 128 1894758 51
+130 128 2652655 39
+347 344 9408276 89
+418 408 10740447 199
+659 658 15756896 203
+499 499 11610571 268
+630 627 16247362 291
+260 258 8022425 61
+381 380 12589198 88
+374 373 10492492 127
+388 388 9465041 130
+204 202 5802485 87
+188 188 5594017 58
+317 312 5531618 177
+191 191 4083639 104
+413 413 8000631 204
+0
+0
+0
+7092
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+10
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/exemplars/repknight
+0 1 0 5016 1 0
+/login/forward/255
+0 10 0 70041 1 2
+/application/themes/zoo/css/main.less
+0 171 0 1249654 0 0
+/exemplars/datasift
+0 2 0 11366 0 0
+/wp-content/plugins/dzs-videogallery/admin/admin_global.js
+0 1 0 9349 0 0
+/application/files/1614/9315/7911/icon_tri.png
+0 1 0 0 0 0
+/public_html.tar.gz
+0 1 0 0 0 0
+/login/forward/234
+0 13 0 80091 1 1
+/concrete/css/account.css
+0 17 0 9282 0 0
+/application/themes/zoo/img/businessmodelzoo-logo.png
+0 142 0 51520489 0 0
+/exemplars/Naked-wines
+0 12 0 43761 2 0
+/login/forward/262
+0 12 0 86128 2 2
+/exemplars/Klarna
+0 14 0 48565 0 0
+/login/callback/concrete/v/7XbPTjD8BSxx
+0 1 0 420 0 0
+/exemplars/DataSift
+0 15 0 65779 5 3
+/backup.zip
+0 1 0 0 0 0
+/exemplars/Horizon-Discovery
+0 11 0 41389 1 0
+/application/files/cache/a810ae1415618d3eedc952ad361b7a8e.jpg
+1 4 0 52880 0 0
+/sitemap.xml
+0 1 0 2387 0 0
+/login/forward/261
+0 13 0 89435 5 3
+/wp-content/plugins/mailpress/mp-includes/js/mp_thickbox.js
+0 1 0 9349 0 0
+/application/themes/zoo/addons/hyphenator/patterns/en-gb.js
+0 7 0 190974 0 0
+/backup.tar.gz
+0 1 0 0 0 0
+/application/themes/zoo/img/dropdown.png
+0 40 0 6360 0 0
+/login/forward/260
+0 12 0 67450 1 2
+/application/themes/zoo/css/animation.css
+0 152 0 72782 0 0
+/login/forward/331
+0 11 0 101114 3 2
+/application/themes/zoo/fonts/texta-light-webfont.woff2
+0 110 0 1908317 0 0
+/login/forward/233
+0 8 0 54220 0 0
+/login/forward/278
+0 8 0 72904 2 1
+/register
+0 26 0 124820 6 2
+/login/forward/277
+0 10 0 79513 3 3
+/application/themes/zoo/addons/matchHeight/jquery.matchHeight.js
+0 122 0 404706 0 0
+/login/forward/257
+0 9 0 57522 0 0
+/business-models/api/xmlrpc/
+0 4 0 1904 2 0
+/blog/xmlrpc.php
+0 1 0 9349 0 0
+/login/callback/concrete/v/yDxhL4hxt7uA
+0 1 0 423 0 0
+/exemplars/farfetch
+0 1 0 4700 0 0
+/exemplars/acturis
+0 1 0 4716 0 0
+/concrete/css/jquery-ui.css
+0 4 0 31540 0 0
+/exemplars/Housetrip
+0 10 0 38874 1 1
+/businessmodelzoo-com.zip
+0 1 0 0 0 0
+/resources/business-model-video
+0 25 0 121800 5 3
+/1.tar.gz
+0 1 0 0 0 0
+/register/do_register
+0 11 0 7803 0 0
+/businessmodelzoo.com.rar
+0 1 0 0 0 0
+/login/forward/240
+0 9 0 85150 3 3
+/login/forward/224
+0 9 0 75945 2 2
+/login/forward/
+0 1 0 206 0 0
+/exemplars/Farfetch
+0 12 0 58518 2 2
+/business-models/matchmaking-model
+0 56 0 1022122 11 3
+/login/forward/315
+0 8 0 54212 1 1
+/login/forward/275
+0 7 0 50910 1 0
+/exemplars/Calastone
+0 17 0 70668 1 0
+/exemplars/Shazam
+0 10 0 38866 1 0
+/ads.txt
+0 12 0 28644 0 0
+/exemplars/Mimecast
+0 13 0 60911 1 1
+/exemplars/mediatonic-service-model
+0 1 0 4266 0 0
+/exemplars/Oscar-Health
+0 19 0 75598 2 1
+/application/themes/zoo/fonts/utopia_regular-webfont.eot
+0 4 0 81680 0 0
+/wp-content/plugins/cardoza-facebook-like-box/admin_cardozafacebook.css
+0 1 0 9349 0 0
+/public_html.zip
+0 1 0 0 0 0
+/modules/fieldvmegamenu/config.xml
+0 1 0 9349 0 0
+/exemplars/algomi
+0 2 0 13080 0 0
+/exemplars/Stripe
+0 14 0 48566 1 0
+/exemplars/Kabbage
+0 16 0 53454 1 0
+/concrete/js/app.js
+0 4 0 163692 0 0
+/application/themes/zoo/fonts/texta-black-webfont.woff
+0 8 0 168912 0 0
+/wordpress/wp-admin/
+0 1 0 9349 1 0
+/exemplars/Notonthehighstreetcom
+0 10 0 39022 0 0
+/login/forward/279
+0 8 0 54216 2 1
+/business-models/matchmaking-model/api/xmlrpc
+0 4 0 37860 0 0
+/wp-content/plugins/real3d-flipbook/js/share.min.js
+0 1 0 9349 0 0
+/login/forward/228
+0 8 0 63432 3 3
+/login/forward/227
+0 10 0 79256 3 2
+/exemplars/Qubit
+0 10 0 38832 2 0
+/exemplars
+0 67 0 1141568 9 0
+/exemplars/funding-circle
+0 16 0 59242 3 2
+/login/forward/253
+0 6 0 47604 0 0
+/api/xmlrpc/
+0 4 0 37860 0 0
+/exemplars/Photobox
+0 12 0 56507 1 0
+/concrete/js/events.js
+0 39 0 27612 0 0
+/concrete/js/underscore.js
+0 38 0 187074 0 0
+/about
+0 28 0 188560 6 3
+/exemplars/lending-club
+0 12 0 43796 1 0
+/exemplars/Medicanimal
+0 13 0 46189 3 0
+/resources/business-model-portfolio
+0 28 0 178459 4 1
+/application/files/8714/9312/2359/ff_log_rd.png
+0 93 0 1233628 0 0
+/exemplars/scoota
+0 2 0 9856 0 0
+/login/forward/273
+0 10 0 79509 1 2
+/login/forward/323
+0 8 0 72766 1 1
+/business-models/solutions-model
+0 60 0 592753 12 5
+/businessmodelzoo_com.tar.gz
+0 1 0 0 0 0
+/application/themes/zoo/termsandconditions.php
+0 1 0 2392 0 0
+/exemplars/Transferwise
+0 15 0 73098 2 1
+/exemplars/huddle
+0 2 0 7062 1 0
+/login/forward/210
+0 10 0 60826 1 0
+/concrete/js/backstretch.js
+0 36 0 59868 0 0
+/login/forward/265
+0 7 0 69595 2 2
+/businessmodelzoocom.zip
+0 1 0 0 0 0
+/login/forward/281
+0 6 0 47610 1 1
+/exemplars/lumi
+0 4 0 15260 1 1
+/application/files/7314/5642/2638/infographic2.png
+0 96 0 20825512 0 0
+/exemplars/vice-media
+0 1 0 6034 0 0
+/login/forward/219
+0 1 0 3302 1 0
+/login/forward/280
+0 10 0 60825 3 1
+/wp-content/plugins/advanced-ajax-page-loader/reload_code.js
+0 1 0 9349 0 0
+/exemplars/Just-Eat
+0 13 0 60963 1 1
+/concrete/blocks/image/js/hover.js
+0 117 0 18210 0 0
+/exemplars/Repknight
+0 14 0 63365 4 1
+/concrete/js/file-manager.js
+0 4 0 14560 0 0
+/js/admin.js
+0 1 0 9465 0 0
+/modules/pk_vertflexmenu/config.xml
+0 1 0 9349 0 0
+/login/forward/333
+0 6 0 47602 0 0
+/exemplars/playgen
+0 2 0 10815 0 0
+/exemplars/Secretsales
+0 11 0 41314 1 0
+/wp-admin/
+0 2 0 9349 2 0
+/businessmodelzoo-com.rar
+0 1 0 0 0 0
+/exemplars/
+0 14 0 61291 1 1
+/login/forward/328
+0 7 0 50917 1 0
+/login/forward/232
+0 11 0 82554 3 3
+/exemplars/chegg
+0 2 0 12902 0 0
+/application/themes/zoo/js/modernizer.js
+0 143 0 733388 0 0
+/public.zip
+0 1 0 0 0 0
+/concrete/js/select2.js
+0 4 0 72160 0 0
+/exemplars/hulus-free-demand-videos
+0 1 0 2458 1 0
+/login/callback/concrete/v/e51ASSP9NDXf
+0 1 0 423 0 0
+/login/callback/concrete
+0 3 0 9912 0 0
+/login/forward/221
+0 6 0 47601 0 0
+/exemplars/Skyscanner
+0 13 0 60979 3 3
+/businessmodelzoo_com.rar
+0 1 0 0 0 0
+/businessmodelzoo.tar.gz
+0 1 0 0 0 0
+/business-models
+0 46 0 222850 6 2
+/components/com_sexycontactform/assets/js/
+0 1 0 9349 1 0
+/business-models/multi-sided-model
+0 47 0 763042 11 5
+/login/callback/concrete/invalid_token
+0 6 0 17642 1 0
+/login/forward/222
+0 7 0 60256 0 0
+/exemplars/Myoptique
+0 12 0 43732 2 1
+/exemplars/matchmaking-model
+0 35 0 322147 6 4
+/blog/wp-admin/
+0 1 0 9349 1 0
+/modules/pk_flexmenu/config.xml
+0 1 0 9349 0 0
+/login/callback/concrete/
+0 1 0 212 0 0
+/exemplars/Madecom
+0 12 0 58475 0 0
+/favicon.ico
+0 6 0 28362 0 0
+/application/files/5114/9687/1309/portfolio2.jpg
+1 120 0 13363700 0 0
+/concrete/js/jquery-fileupload.js
+0 4 0 54544 0 0
+/businessmodelzoo.com.zip
+0 1 0 0 0 0
+/login/forward/230
+0 14 0 64723 2 1
+/exemplars/Huddle
+0 13 0 60643 3 2
+/exemplars/Etoro
+0 16 0 75470 4 0
+/concrete/css/frontend/captcha.css
+0 13 0 1716 0 0
+/application/themes/zoo/fonts/texta-light-webfont.eot
+0 4 0 94092 0 0
+/application/themes/zoo/js/animation.js
+0 56 0 13552 0 0
+/wp-content/plugins/accesspress-anonymous-post-pro/js/admin-extra.js
+0 1 0 9349 0 0
+/exemplars/moo
+0 2 0 12073 0 0
+/login/forward/226
+0 14 0 83414 1 1
+/exemplars/justfab
+0 1 0 6108 0 0
+/exemplars/eventbrite
+0 1 0 6423 0 0
+/login/forward/332
+0 6 0 38265 1 1
+/exemplars/Chemist-Direct
+0 15 0 58484 3 1
+/login/forward/213
+0 14 0 74074 4 2
+/login/forward/216
+0 6 0 56816 1 0
+/login/forward/217
+0 7 0 50907 0 0
+/application/themes/zoo/fonts/icons/headerfont.eot
+0 4 0 11784 0 0
+/browserconfig.xml
+0 2 0 5160 0 0
+/login/forward/321
+0 10 0 79519 1 2
+/exemplars/Lumi
+0 11 0 41255 2 1
+/businessmodelzoo_com.zip
+0 1 0 0 0 0
+/login/forward/237
+0 10 0 60829 1 0
+/exemplars/Ao-world
+0 12 0 58473 0 0
+/login/forward/249
+0 9 0 75940 3 3
+/exemplars/Bla-Bla-Car
+0 12 0 58547 3 1
+/login/forward/256
+0 11 0 64132 0 1
+/login/forward/283
+0 9 0 85160 3 2
+/1.tar
+0 1 0 0 0 0
+/exemplars/Ratesetter
+0 17 0 70436 3 2
+/application/files/cache/66364d14728828a79f6bc505699d913f.jpg
+1 5 0 34980 0 0
+/login/forward/282
+0 8 0 54223 2 1
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/asset/js/admin.js
+0 1 0 9349 0 0
+/login/forward/243
+0 12 0 76655 1 1
+/exemplars/Justgiving
+0 13 0 46210 2 0
+/exemplars/netflix
+0 3 0 13435 0 1
+/business-models. 
+0 1 0 9465 0 0
+/ccm/assets/localization/select2/js
+0 6 0 300 0 0
+/concrete/js/jquery-ui.js
+0 4 0 205980 0 0
+/application/files/4014/5794/0761/android-icon-144x144.png
+0 2 0 10840 0 0
+/exemplars/LMAX-exchang
+0 10 0 37809 0 0
+/exemplars/zoopla
+0 2 0 12130 2 1
+/login/forward/212
+0 10 0 60832 1 1
+/application/themes/zoo/js/bootstrap.min.js
+0 145 0 1591097 0 0
+/login/forward/268
+0 8 0 54216 1 0
+/exemplars/Graze
+0 11 0 41257 2 1
+/login/callback/concrete/v/mNM0Cce7gLUb
+0 1 0 423 0 0
+/login/forward/239
+0 10 0 79251 4 3
+/login/forward/286
+0 11 0 64141 0 2
+/application/themes/zoo/js/jquery.min.js
+0 141 0 4928851 0 0
+/login/forward/338
+0 7 0 69465 0 2
+/login/callback/concrete/v/Q2SwNSE40eVM
+0 1 0 420 1 0
+/login/forward/336
+0 5 0 44298 0 0
+/application/themes/zoo/css/reset.css
+0 147 0 91766 0 0
+/login/forward/314
+0 5 0 44298 0 0
+/exemplars/calastone
+0 1 0 5022 0 0
+/login/forward/194
+0 1 0 3310 1 0
+/wp-content/plugins/woocommerce-catalog-enquiry/assets/frontend/css/frontend.css
+0 1 0 9349 0 0
+/login/forward/263
+0 10 0 60821 0 0
+/login/forward/318
+0 8 0 54223 3 0
+/exemplars/Matchesfashion
+0 16 0 83082 1 1
+/exemplars/hulu
+0 10 0 51965 0 0
+/login
+0 40 0 178796 6 1
+/exemplars/graze
+0 7 0 35813 1 0
+/web.zip
+0 1 0 0 0 0
+/exemplars/Nomad-digital
+0 11 0 41339 2 1
+/login/forward/274
+0 7 0 69597 0 2
+/login/forward/285
+0 7 0 50903 1 0
+/concrete/css/app.css
+0 20 0 707060 0 0
+/application/files/4314/5642/2649/infographic_one.jpg
+1 1 0 247999 0 0
+/login/callback/concrete/v/jkyYUkl3ho47
+0 1 0 423 0 0
+/concrete/css/file-manager.css
+0 4 0 4320 0 0
+/login/forward/218
+0 7 0 60256 1 1
+/exemplars/Venntro-Media-Group
+0 12 0 43856 2 2
+/latest-news/lorem-ipsum-dolor
+0 1 0 2392 1 0
+/exemplars/Unruly
+0 11 0 41296 1 0
+/exemplars/Hailo
+0 14 0 78103 3 3
+/wp-login.php
+0 95 0 888967 0 0
+/application/files/cache/6697d396ec5df02c4ebcda760edf148e.jpg
+1 4 0 27968 0 0
+/exemplars/Orderdynamics
+0 11 0 41337 1 0
+/login/forward/266
+0 13 0 98648 5 5
+/login/forward/269
+0 9 0 76208 3 3
+/business-models/api/xmlrpc
+0 4 0 37860 0 0
+/login/forward/254
+0 10 0 60827 0 2
+/exemplars/MODE
+0 12 0 42593 0 0
+/exemplars/solutions-model
+0 28 0 221516 0 0
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css
+0 2 0 18698 0 0
+/application/files/cache/bd9b3721863b054f77ce450871d2db0e.jpg
+1 4 0 60852 0 0
+/exemplars/achica
+0 2 0 8494 1 0
+/exemplars/Small-World-Financial-Services
+0 15 0 58738 2 0
+/register/register_success_validate/0
+0 10 0 25990 0 0
+/resources/business-model-innovation
+0 31 0 139350 7 4
+/application/files/1214/5794/0770/apple-icon-57x57.png
+0 31 0 52514 0 0
+/application/themes/zoo/fonts/texta-black-webfont.woff2
+0 110 0 1729200 0 0
+/exemplars/Sofi
+0 14 0 47367 1 0
+/exemplars/credit-karma
+0 1 0 2437 1 0
+/contact
+0 41 0 224466 11 5
+/exemplars/madecom
+0 5 0 20103 3 1
+/resources
+0 32 0 128531 6 4
+/application/files/cache/128e2548c096ca8e369a381396012491.jpg
+1 5 0 67050 0 0
+/test/wp-admin/
+0 1 0 9349 1 0
+/business-models/matchmaking-model/api/xmlrpc/
+0 4 0 2192 2 1
+/exemplars/transferwise
+0 2 0 7447 1 0
+/exemplars/Lyst
+0 11 0 55784 2 2
+/login/forward/327
+0 10 0 70166 1 1
+/exemplars/amazon-instant-video
+0 2 0 4886 2 1
+/wp-content/plugins/php-event-calendar/js/file-uploader/app.js
+0 1 0 9349 0 0
+/login/forward/317
+0 13 0 79969 2 0
+/login/account_deactivated
+0 3 0 10120 0 0
+/login/callback/concrete/v/gjJGDtRC01fB
+0 1 0 420 0 0
+/exemplars/we-r-interactive
+0 1 0 5524 0 0
+/login/forward/276
+0 9 0 57527 1 1
+/exemplars/snapchat
+0 1 0 5711 0 0
+/login/forward/242
+0 8 0 63565 2 1
+/login/forward/236
+0 10 0 88592 3 3
+/concrete/js/bootstrap/tooltip.js
+0 4 0 8944 0 0
+/businessmodelzoo.sql
+0 1 0 0 0 0
+/login/callback/
+0 1 0 207 0 0
+/exemplars/worldremit
+0 1 0 2437 1 0
+/exemplars/shazam
+0 1 0 5246 0 0
+/application/files/2314/9192/9707/cas_epsrc_logos.png
+0 38 0 657286 0 0
+/login/callback/concrete/v/rN6ZOlQvIuje
+0 4 0 2409 1 0
+/apple-touch-icon-152x152-precomposed.png
+0 1 0 2387 0 0
+/exemplars/Acturis
+0 17 0 55857 3 1
+/application/themes/zoo/css/normalize.css
+0 149 0 386804 0 0
+/login/forward/250
+0 8 0 54218 1 1
+/login/forward/214
+0 7 0 50908 0 0
+/application/themes/zoo/fonts/icons/headerfont.woff
+0 115 0 360112 0 0
+/login/forward/245
+0 10 0 79247 3 2
+/exemplars/ratesetter
+0 1 0 2434 1 0
+/login/forward/225
+0 6 0 56818 1 1
+/login/forward/319
+0 6 0 47608 0 0
+/exemplars/Zoopla
+0 14 0 63112 3 1
+/login/forward/272
+0 8 0 54222 2 0
+/concrete/css/select2.css
+0 4 0 17336 0 0
+/businessmodelzoo.zip
+0 1 0 0 0 0
+/exemplars/SwiftKey
+0 12 0 43733 2 0
+/login/forward/271
+0 6 0 56815 1 1
+/exemplars/Performance-Horizon
+0 14 0 63514 4 1
+/
+0 581 0 24222225 415 119
+/application/themes/zoo/css/bootstrap.min.css
+0 150 0 3119700 0 0
+/exemplars/mode
+0 1 0 2387 1 1
+/login/callback/concrete/forgot_password
+0 1 0 3041 0 0
+/login/forward/244
+0 13 0 70760 1 0
+/application/themes/zoo/addons/hyphenator/Hyphenator.js
+0 40 0 1255960 0 0
+/login/forward
+0 1 0 3304 0 0
+/exemplars/Worldremit
+0 13 0 46178 1 1
+/old/wp-admin/
+0 1 0 9349 1 0
+/exemplars/tesla-motors
+0 1 0 6643 0 0
+/exemplars/Onefinestay
+0 15 0 80400 4 4
+/exemplars/Moo
+0 14 0 48527 4 0
+/exemplars/video
+0 7 0 1954 2 0
+/1.zip
+0 1 0 0 0 0
+/login/forward/215
+0 10 0 70177 1 1
+/exemplars/swiftkey
+0 2 0 6864 0 0
+/login/forward/247
+0 6 0 47600 0 0
+/exemplars/Worldstores
+0 12 0 43748 2 0
+/concrete/js/bootstrap/dropdown.js
+0 16 0 14720 0 0
+/exemplars/Boxcom
+0 13 0 68270 4 3
+/public.rar
+0 1 0 0 0 0
+/exemplars/nomad-digital
+0 2 0 10380 0 0
+/ccm/assets/localization/jquery/ui/js
+0 6 0 342 0 0
+/login/forward/258
+0 9 0 57523 0 0
+/register/register_success_validate
+0 1 0 2597 0 0
+/exemplars/waze
+0 1 0 5462 0 0
+/exemplars/Airbnb
+0 11 0 55817 1 2
+/exemplars/Evernote
+0 14 0 63356 1 0
+/exemplars/multi-sided-model
+0 29 0 263908 3 1
+/businessmodelzoocom.rar
+0 1 0 0 0 0
+/exemplars/bla-bla-car
+0 2 0 13137 0 0
+/application/themes/zoo/img/triangle.png
+0 117 0 463086 0 0
+/ccm/assets/localization/core/js
+0 7 0 38138 1 1
+/login/forward/231
+0 11 0 64140 3 0
+/exemplars/aas-pay-how-you-drive-insurance
+0 1 0 2392 1 0
+/login/forward/211
+0 11 0 82692 1 2
+/login/forward/238
+0 12 0 67437 1 1
+/login/forward/335
+0 12 0 67447 2 1
+/wp-content/plugins/formidable/css/frm_fonts.css
+0 1 0 9349 0 0
+/exemplars/Salary-Finance
+0 15 0 65674 4 2
+/application/themes/zoo/fonts/texta-light-webfont.woff
+0 6 0 138096 0 0
+/exemplars/Scoota
+0 9 0 36414 1 0
+/business-models/product-model
+0 76 0 1117851 13 5
+/exemplars/Algomi
+0 12 0 43714 1 0
+/login/forward/334
+0 10 0 60830 1 0
+/login/forward/259
+0 9 0 57526 1 1
+/login/forward/329
+0 11 0 64128 0 0
+/login/forward/337
+0 6 0 47601 0 0
+/login/forward/229
+0 9 0 48175 3 1
+/application/themes/zoo/fonts/texta-black-webfont.eot
+0 4 0 85932 0 0
+/license.txt
+0 1 0 0 0 0
+/exemplars/kabbage
+0 1 0 5935 0 0
+/register/register_success_validate/
+0 1 0 216 0 0
+/login/forward/235
+0 14 0 83269 2 2
+/businessmodelzoo.com.tar.gz
+0 1 0 0 0 0
+/application/themes/zoo/js/less.min.js
+0 145 0 6729175 0 0
+/exemplars/Secretescapes
+0 15 0 65652 6 2
+/exemplars/Credit-Karma
+0 15 0 65643 5 3
+/login/callback
+0 1 0 3303 0 0
+/exemplars/NeoMobile
+0 15 0 65566 1 1
+/login/forward/320
+0 8 0 72774 3 1
+/exemplars/Achica
+0 16 0 68172 2 2
+/robots.txt
+0 255 0 89237 0 0
+/application/themes/zoo/addons/isotope/isotope.pkgd.min.js
+0 37 0 408369 0 0
+/login/forward/251
+0 9 0 57523 2 1
+/login/forward/270
+0 10 0 88718 2 3
+/exemplars/Masternaut
+0 12 0 51006 1 1
+/exemplars/Synthesio
+0 11 0 41303 1 0
+/application/themes/zoo/fonts/utopia_regular-webfont.woff2
+0 108 0 1791667 0 0
+/login/authenticate/concrete
+0 34 0 39354 1 0
+/apple-touch-icon-152x152.png
+0 1 0 2387 0 0
+/exemplars/spotify
+0 2 0 12745 0 0
+/exemplars/quikr
+0 1 0 7200 0 0
+/concrete/js/backbone.js
+0 4 0 26640 0 0
+/businessmodelzoo.rar
+0 1 0 0 0 0
+/login/concrete/forgot_password
+0 7 0 55744 0 1
+/exemplars/busuu
+0 1 0 5353 0 0
+/application/files/5014/5794/0812/favicon.ico
+0 110 0 52488 0 0
+/application/themes/zoo/fonts/utopia_regular-webfont.woff
+0 7 0 143451 0 0
+/login/forward/284
+0 7 0 50912 1 0
+/businessmodelzoocom.tar.gz
+0 1 0 0 0 0
+/concrete/js/account.js
+0 16 0 2704 0 0
+/wp-content/plugins/cherry-plugin/admin/js/cherry-admin-plugin.js
+0 1 0 9349 0 0
+/exemplars/product-model
+0 29 0 456838 4 0
+/application/themes/zoo/css/responsive.css
+0 151 0 124424 0 0
+/wp-admin/admin-ajax.php
+0 1 0 9349 0 0
+/login/forward/252
+0 6 0 47601 0 0
+/exemplars/hailo
+0 1 0 5425 0 0
+/public.tar.gz
+0 1 0 0 0 0
+/about/innovation
+0 1 0 2392 0 1
+/exemplars/Vice-Media
+0 17 0 85210 6 5
+/modules/homepageadvertise2/config.xml
+0 1 0 9349 0 0
+/login/forward/246
+0 13 0 89171 2 2
+/businessmodelzoo-com.tar.gz
+0 1 0 0 0 0
+/login/callback/concrete/email_validated
+0 9 0 34409 1 0
+/login/forward/220
+0 11 0 82553 2 1
+/login/forward/324
+0 14 0 74411 1 1
+/login/forward/248
+0 13 0 71139 1 2
+/login/callback/concrete/v/7t067W5xSnOa
+0 1 0 420 0 0
+# End Of Table - urls
+# -sites- (monthly)
+dyn3214-219.wlan.ic.ac.uk
+0 31 31 985889 1 1519924551
+/exemplars/product-model
+msnbot-199-30-25-201.search.msn.com
+0 1 1 34713 0 0
+-
+ip92.ip-54-36-148.eu
+0 1 1 2434 1 1520243386
+/exemplars/madecom
+ec2-54-173-35-129.compute-1.amazonaws.com
+0 100 100 1279133 4 1520216825
+/login
+baiduspider-220-181-108-176.crawl.baidu.com
+0 1 1 3309 1 1520304232
+/login
+ip37.ip-54-36-148.eu
+0 2 2 4880 2 1520282417
+/exemplars/Medicanimal
+141-8-142-83.spider.yandex.com
+0 1 1 12984 1 1520184205
+/business-models/multi-sided-model
+baiduspider-123-125-71-99.crawl.baidu.com
+0 1 1 2438 1 1519904845
+/exemplars/Secretescapes
+cpc99564-brnt1-2-0-cust1365.4-2.cable.virginm.net
+0 26 26 932405 1 1520277165
+/exemplars
+kamron.a2zsitesolutions.net
+0 1 1 9349 1 1520236616
+/wordpress/wp-admin/
+msnbot-207-46-13-183.search.msn.com
+0 22 22 872377 7 1520007803
+/register
+crawl-66-249-73-209.googlebot.com
+0 7 7 24168 2 1520074642
+/
+103.76.101.21
+0 2 2 91604 1 1520160308
+/
+aputeaux-554-1-37-72.w83-204.abo.wanadoo.fr
+0 24 24 932326 1 1520104793
+/
+67.230.54.179
+0 2 2 91604 1 1519949956
+/
+ec2-54-161-6-83.compute-1.amazonaws.com
+0 1 1 82255 1 1520232377
+/
+192.150.204.8
+0 1 1 112300 0 0
+-
+dyn904-129.eduroam.ic.ac.uk
+0 27 27 965047 1 1520252017
+/exemplars
+146-241-131-231.dyn.eolo.it
+0 2 2 91604 1 1520261699
+/
+host86-183-15-29.range86-183.btcentralplus.com
+0 16 16 845753 1 1520007973
+/
+187-101-203-17.dsl.telesp.net.br
+0 2 2 91604 1 1520081910
+/
+dyn3208-33.wlan.ic.ac.uk
+0 33 33 1020228 1 1520274432
+/login/forward/328
+customer-189-217-64-39.cablevision.net.mx
+0 2 2 91604 1 1519877405
+/
+agkm186.neoplus.adsl.tpnet.pl
+0 4 4 183448 1 1519906114
+/
+fulltextrobot-77-75-77-72.seznam.cz
+0 4 4 5191 2 1520084748
+/exemplars/Horizon-Discovery
+fulltextrobot-77-75-79-72.seznam.cz
+0 2 2 2590 1 1520172183
+/exemplars/Kabbage
+141-8-142-108.spider.yandex.com
+0 2 2 12967 2 1520184192
+/
+107.170.96.6
+0 1 1 16591 0 0
+-
+crawl-66-249-66-20.googlebot.com
+0 2 2 10275 1 1519872131
+/
+cpc121844-pert6-2-0-cust492.16-4.cable.virginm.net
+0 58 58 925388 2 1520088187
+/login/authenticate/concrete
+ip-31-205-241-18.ask4internet.com
+0 11 11 520225 1 1520008747
+/exemplars/achica
+103.83.128.118
+0 23 23 910172 1 1520249427
+/
+corp-190-110-210-242.gye.puntonet.ec
+0 23 23 910172 1 1520014634
+/
+165.225.80.91
+0 1 1 112300 0 0
+-
+cpc91750-watf12-2-0-cust7.15-2.cable.virginm.net
+0 2 2 5279 1 1520279749
+/about
+msnbot-207-46-13-6.search.msn.com
+0 2 2 42220 0 0
+-
+dyn3210-78.wlan.ic.ac.uk
+0 1 1 9655 1 1520268505
+/
+161-143-067-156.ip-addr.inexio.net
+0 27 27 929100 1 1519907962
+/
+static-145.132.121.84.ip.telfort.nl
+0 4 4 22694 2 1520092381
+/
+216.38.137.43
+0 1 1 112300 0 0
+-
+138.40.67.174
+0 56 56 1549900 2 1520256169
+/resources/business-model-innovation
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 1 6859 1 1519909397
+/exemplars/matchmaking-model
+msnbot-207-46-13-31.search.msn.com
+0 1 1 9655 1 1520259538
+/
+134-249-132-8.broadband.kyivstar.net
+0 22 22 575844 1 1520250439
+/business-models/solutions-model
+112.134.114.37
+0 2 2 91604 1 1519967988
+/
+27.34.91.5
+0 2 2 91604 1 1520277955
+/
+mail.ifgcapital.com.ua
+0 1 1 82255 1 1520258727
+/
+40.77.178.245
+0 3 3 58797 0 0
+-
+0543411f.skybroadband.com
+0 76 76 1181480 2 1520012280
+/resources
+google-proxy-66-249-88-89.google.com
+0 8 8 662672 0 0
+-
+12.121.83.170.nbtos.com.br
+0 2 2 91604 1 1519947778
+/
+173.205.33.26
+0 1 1 11121 1 1520008120
+/login/callback/concrete/email_validated
+fulltextrobot-77-75-77-17.seznam.cz
+0 2 2 2592 1 1520265257
+/exemplars/Medicanimal
+103.212.19.170
+0 1 1 112300 0 0
+-
+177-68-144-108.dsl.telesp.net.br
+0 2 2 91604 1 1520279663
+/
+213-180-203-1.spider.yandex.com
+0 1 1 3301 1 1520175459
+/contact
+crawltxt3.bl.semrush.com
+0 2 2 314 0 0
+-
+modemcable046.219-81-70.mc.videotron.ca
+0 1 1 112300 0 0
+-
+crawl1.bl.semrush.com
+0 6 6 28733 1 1519905203
+/exemplars/Airbnb
+dyn3135-213.wlan.ic.ac.uk
+0 51 51 1061410 1 1519925950
+/exemplars/spotify
+118.107.136.234
+0 2 2 91604 1 1519907011
+/
+google-proxy-66-249-88-63.google.com
+0 7 7 43999 0 0
+-
+ec2-54-234-114-91.compute-1.amazonaws.com
+0 13 13 135034 1 1519951403
+/
+crawl14.bl.semrush.com
+0 5 5 16422 1 1519905198
+/login/forward/260
+5ac2de1b.bb.sky.com
+0 2 2 91604 1 1519911937
+/
+msnbot-157-55-39-69.search.msn.com
+0 6 6 21274 1 1520293519
+/resources/business-model-innovation
+137.97.127.179
+0 2 2 91604 1 1520268156
+/
+google-proxy-66-249-93-61.google.com
+0 1 1 9653 1 1520246001
+/
+snode4.exensa.net
+0 137 137 456127 2 1520039965
+/login/forward/213
+fulltextrobot-77-75-76-168.seznam.cz
+0 2 2 2589 1 1520273302
+/exemplars/Etoro
+138-92-15-51.rev.cloud.scaleway.com
+0 2 2 21680 1 1520237976
+/exemplars/matchmaking-model
+ip19.ip-54-36-149.eu
+0 1 1 3304 1 1520269465
+/login/forward/229
+ip-95-220-196-45.bb.netbynet.ru
+0 1 1 4944 0 0
+-
+homegames.co.uk
+0 8 5 30096 1 1519989641
+/business-models/api/xmlrpc/
+204.79.180.10
+0 3 3 17195 1 1520066156
+/
+robot.deusu.de
+0 10 10 89101 7 1520172278
+/login
+crawl12.bl.semrush.com
+0 7 7 19638 1 1519905189
+/login/forward/272
+baiduspider-180-76-15-143.crawl.baidu.com
+0 2 2 10479 1 1520034680
+/
+c999957676-cloudpro-301222002.cloudatcost.com
+0 2 2 0 0 0
+-
+static-adsl201-184-147-122.une.net.co
+0 23 23 910172 1 1520267778
+/
+204.79.180.18
+0 1 1 7189 0 0
+-
+static.210.190.251.148.clients.your-server.de
+0 26 26 954094 1 1520242402
+/business-models/matchmaking-model
+msnbot-157-55-39-119.search.msn.com
+0 13 13 47946 4 1520269740
+/
+ec2-18-194-186-240.eu-central-1.compute.amazonaws.com
+0 10 8 9708 1 1520197958
+/
+37-9-113-106.spider.yandex.com
+0 1 1 494 0 0
+-
+ip170.ip-54-36-148.eu
+0 1 1 3310 1 1520253232
+/login/forward/318
+217.111.234.254
+0 1 1 112300 0 0
+-
+154.124.198.46
+0 8 8 45388 3 1520272037
+/
+crawl-66-249-64-91.googlebot.com
+0 34 33 145148 14 1520283575
+/login/forward/272
+msnbot-157-55-39-68.search.msn.com
+0 1 1 157 0 0
+-
+crawl-66-249-65-137.googlebot.com
+0 9 9 64121 6 1520095911
+/exemplars/video
+crawl9.bl.semrush.com
+0 1 1 3306 1 1519904477
+/login/forward/261
+msnbot-157-55-39-50.search.msn.com
+0 10 4 1876 0 0
+-
+123.125.67.163
+0 1 1 157 0 0
+-
+crawl-66-249-73-207.googlebot.com
+0 4 4 23627 0 0
+-
+106.11.158.219
+0 2 2 4818 2 1520211180
+/exemplars/graze
+crawl-66-249-65-144.googlebot.com
+0 2 0 413 0 0
+-
+c999953261-cloudpro-589533084.cloudatcost.com
+0 2 1 0 0 0
+-
+web.10ximpact.biz
+0 3 3 0 3 1520237336
+/
+37-115-112-228.broadband.kyivstar.net
+0 3 3 247137 1 1520301126
+/
+baiduspider-123-125-71-115.crawl.baidu.com
+0 1 1 5162 1 1520017161
+/exemplars/multi-sided-model
+ec2-52-13-112-201.us-west-2.compute.amazonaws.com
+0 1 1 2387 0 0
+-
+121.121.58.137
+0 2 2 91604 1 1520183716
+/
+160.179.196.84
+0 2 2 91604 1 1519961607
+/
+oscar.builtwith.xyz
+0 1 1 9653 1 1520022398
+/
+baiduspider-123-125-71-38.crawl.baidu.com
+0 1 1 2441 1 1519872270
+/exemplars/Salary-Finance
+fulltextrobot-77-75-78-162.seznam.cz
+0 2 2 2586 1 1520183651
+/exemplars/Moo
+51-209-15-51.rev.cloud.scaleway.com
+0 1 1 9653 1 1520279350
+/
+msnbot-207-46-13-90.search.msn.com
+0 4 4 45987 1 1520283181
+/login/forward/235
+ns366803.ip-94-23-20.eu
+0 2 2 18698 0 0
+-
+ec2-54-82-125-185.compute-1.amazonaws.com
+0 217 217 765206 1 1520055443
+/
+nugura.cs.usyd.edu.au
+0 1 1 9653 1 1520079071
+/
+138.40.67.227
+0 93 93 2193360 2 1520263567
+/exemplars/kabbage
+176.88.56.154
+0 2 2 91604 1 1520087873
+/
+69.171.225.138
+0 1 1 370651 0 0
+-
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 2443 1 1519886173
+/exemplars/amazon-instant-video
+175.158.226.38
+0 2 2 224600 0 0
+-
+ec2-52-48-230-149.eu-west-1.compute.amazonaws.com
+0 1 1 9655 1 1520080414
+/
+baiduspider-180-76-15-161.crawl.baidu.com
+0 2 2 44197 1 1519873729
+/exemplars/Etoro
+ec2-34-196-97-47.compute-1.amazonaws.com
+0 14 14 143639 6 1520233390
+/
+h215.natout.aau.dk
+0 25 25 925237 1 1520256503
+/business-models/matchmaking-model
+149.62.200.10
+0 1 1 486 0 0
+-
+host-62-24-252-133.as13285.net
+0 26 26 1131012 2 1520273376
+/
+ip174-67-204-21.oc.oc.cox.net
+0 22 22 573301 1 1520124722
+/resources/business-model-portfolio
+server.2share.tv
+0 2 2 82749 1 1519894972
+/
+ec2-107-21-1-8.compute-1.amazonaws.com
+0 4 4 20282 2 1520303666
+/
+baiduspider-123-125-71-25.crawl.baidu.com
+0 1 1 9031 1 1519926561
+/exemplars/product-model
+80.231.59.1
+0 31 31 1017783 1 1519905199
+/exemplars
+45.120.254.219
+0 2 2 91604 1 1519970826
+/
+fulltextrobot-77-75-79-62.seznam.cz
+0 2 2 2591 1 1519975542
+/exemplars/SwiftKey
+cpc73822-dals21-2-0-cust608.20-2.cable.virginm.net
+0 14 14 114634 2 1520252202
+/
+88.230.131.100.dynamic.ttnet.com.tr
+0 2 2 91604 1 1520195225
+/
+google-proxy-66-102-8-217.google.com
+0 7 7 52542 0 0
+-
+crawl-66-249-64-69.googlebot.com
+0 1 0 208 0 0
+-
+cpe-65-185-145-125.cinci.res.rr.com
+0 1 1 112300 0 0
+-
+msnbot-207-46-13-80.search.msn.com
+0 1 1 3310 1 1520221784
+/login/forward/213
+151.52.50.10
+0 1 1 112300 0 0
+-
+106.11.155.203
+0 1 1 2437 1 1520203939
+/exemplars/worldremit
+50.233.106.125
+0 1 1 112300 0 0
+-
+134-249-66-84.broadband.kyivstar.net
+0 12 12 988548 4 1520297588
+/
+google-proxy-66-249-81-125.google.com
+0 1 1 370651 0 0
+-
+ec2-54-208-102-37.compute-1.amazonaws.com
+0 6 6 30421 3 1520303668
+/
+skandij.avalon.hr
+0 1 1 9349 1 1520236071
+/test/wp-admin/
+pc-144-13-239-201.cm.vtr.net
+0 2 2 91604 1 1519978945
+/
+5e0c71f9.bb.sky.com
+0 1 1 112300 0 0
+-
+80-42-117-58.dynamic.dsl.as9105.com
+0 24 20 516905 1 1519891044
+/
+msws-lt1-lec.ms.ic.ac.uk
+0 29 29 990288 1 1520251880
+/exemplars
+crawl-66-249-66-194.googlebot.com
+0 1 0 205 0 0
+-
+host-92-11-197-249.as43234.net
+0 23 23 910174 1 1520003522
+/
+baiduspider-180-76-15-134.crawl.baidu.com
+0 1 1 2435 1 1519893223
+/exemplars/Myoptique
+47.8.136.106
+0 23 23 910172 1 1519934551
+/
+128.199.143.153
+0 4 4 0 0 0
+-
+5-45-207-84.spider.yandex.com
+0 1 1 9653 1 1519890752
+/
+static.151.80.76.144.clients.your-server.de
+0 1 1 494 0 0
+-
+17-142-157-132.applebot.apple.com
+0 62 62 182553 27 1520284509
+/login/forward/268
+117.253.49.88
+0 2 2 91604 1 1520002717
+/
+87-250-224-106.spider.yandex.com
+0 1 1 2472 1 1520184219
+/resources/business-model-video
+80-42-127-49.dynamic.dsl.as9105.com
+0 12 12 706245 1 1520273345
+/
+203.122.25.126.reverse.spectranet.in
+0 1 1 9349 0 0
+-
+82.223.253.136
+0 2 2 164510 2 1519911321
+/
+204.79.180.6
+0 2 2 34669 0 0
+-
+dyn904-240.eduroam.ic.ac.uk
+0 26 26 930426 1 1520252026
+/business-models/product-model
+giro.gla.ac.uk
+0 1 1 0 1 1520029100
+/contact
+159.203.42.143
+0 1 1 3128 0 0
+-
+216.244.66.247
+0 9 9 119632 2 1520304617
+/business-models/multi-sided-model
+crawl-66-249-65-135.googlebot.com
+0 15 15 71460 3 1520068345
+/
+189.221.45.151.cable.dyn.cableonline.com.mx
+0 57 57 1273713 2 1520265913
+/exemplars
+37-9-113-102.spider.yandex.com
+0 1 1 7512 1 1520184195
+/business-models/solutions-model
+baiduspider-123-125-71-12.crawl.baidu.com
+0 1 1 2444 1 1519915703
+/exemplars/Venntro-Media-Group
+216.244.66.200
+0 201 201 1442482 81 1520306703
+/register
+crawl-66-249-64-93.googlebot.com
+0 21 20 88329 9 1520284262
+/login/forward/280
+msnbot-157-55-39-94.search.msn.com
+0 7 7 94699 3 1520021954
+/login/forward/248
+ip156.ip-54-36-148.eu
+0 1 1 3310 1 1520210174
+/login/forward/194
+ip27.ip-54-36-148.eu
+0 1 1 3310 1 1520304893
+/login/forward/260
+204.79.180.4
+0 1 1 4944 0 0
+-
+baiduspider-123-125-71-114.crawl.baidu.com
+0 1 1 2665 1 1520083145
+/resources
+static.133.80.9.5.clients.your-server.de
+0 2 2 82873 1 1519884323
+/
+cablelink-187-161-113-9.pcs.intercable.net
+0 1 1 9349 0 0
+-
+host-2-96-163-195.as13285.net
+0 29 29 977750 1 1520208024
+/exemplars
+94-237-64-38.sg-sin1.host.upcloud.com
+0 4 2 0 0 0
+-
+baiduspider-180-76-15-158.crawl.baidu.com
+0 2 2 4868 2 1520196297
+/exemplars/Credit-Karma
+ip-31-205-12-210.ask4internet.com
+0 40 40 1055499 1 1520291822
+/login/forward/335
+94.196.105.235.threembb.co.uk
+0 27 27 980012 1 1520008401
+/exemplars
+nyc3.squid.digitalocean.18
+0 1 1 9653 1 1519933189
+/
+crawl-66-249-66-221.googlebot.com
+0 1 1 2387 0 0
+-
+ip87.ip-54-36-148.eu
+0 1 1 3311 1 1520216153
+/login/forward/332
+ip140.ip-54-36-148.eu
+0 1 1 2432 1 1520294233
+/exemplars/Scoota
+qualityassurance.siteimprove.com
+0 3 3 28963 3 1520237016
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 1 1 3728 1 1519885035
+/resources/business-model-portfolio
+customer-mor-220-81.megared.net.mx
+0 1 1 9349 0 0
+-
+dyn3217-96.wlan.ic.ac.uk
+0 23 23 910174 1 1520259478
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 2432 1 1520198297
+/exemplars/Etoro
+bgl17-dmz-wsa-2.cisco.com
+0 21 21 562616 1 1520246515
+/business-models/solutions-model
+177.129.160.67
+0 2 2 91604 1 1520189903
+/
+baiduspider-220-181-108-92.crawl.baidu.com
+0 1 1 2432 1 1520261144
+/exemplars/Moo
+cpc104584-craw8-2-0-cust159.16-3.cable.virginm.net
+0 20 20 568175 1 1519985769
+/business-models/matchmaking-model
+94.46.164.140
+0 6 6 0 0 0
+-
+42.115.139.37
+0 20 20 1036333 1 1520175554
+/contact
+23.103.64.39
+0 1 1 3307 1 1520261106
+/login/forward/317
+123.125.67.160
+0 1 1 157 0 0
+-
+85.255.233.210
+0 1 1 2947 1 1519887359
+/login/callback/concrete/invalid_token
+dyn3215-209.wlan.ic.ac.uk
+0 133 133 2827957 2 1519930069
+/exemplars/lumi
+hosted-by.leaseweb.com
+0 8 8 331368 4 1520239110
+/
+92.40.249.199.threembb.co.uk
+0 45 45 1089164 1 1519908334
+/exemplars/netflix
+31.10.146.126
+0 1 1 6996 0 0
+-
+ip-213-127-157-90.ip.prioritytelecom.net
+0 1 1 112300 0 0
+-
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 1 2434 1 1520053138
+/exemplars/Ratesetter
+h-l07mb102693.it.manchester.ac.uk
+0 29 29 995878 1 1520264878
+/exemplars
+8afbc83e.st-andrews.ac.uk
+0 39 39 1416101 2 1520080938
+/business-models/solutions-model
+msnbot-40-77-167-115.search.msn.com
+0 3 3 43883 0 0
+-
+m014008006128.v4.enabler.ne.jp
+0 2 2 91604 1 1520010363
+/
+79-112-138-182.rdsnet.ro
+0 2 2 91604 1 1520079257
+/
+77.126.255.132.in-addr.arpa
+0 2 2 91604 1 1520210097
+/
+106.213.158.67
+0 2 2 91604 1 1519911250
+/
+n1plcpnl0012.prod.ams1.secureserver.net
+0 1 1 9349 1 1520235490
+/wp-admin/
+baiduspider-123-125-71-42.crawl.baidu.com
+0 1 1 2435 1 1520012231
+/exemplars/Masternaut
+google-proxy-66-102-6-29.google.com
+0 9 9 456346 0 0
+-
+ue120.214.digi.net.my
+0 1 1 9349 0 0
+-
+212.200.125.16
+0 2 2 91604 1 1519928478
+/
+ip61.ip-54-36-148.eu
+0 1 1 2392 0 0
+-
+ec2-54-83-118-187.compute-1.amazonaws.com
+0 1 1 82255 1 1520105367
+/
+cpc73674-dals20-2-0-cust510.20-2.cable.virginm.net
+0 29 29 513863 3 1519956124
+/exemplars
+46.233.77.64
+0 25 25 579841 1 1520246605
+/login/callback/concrete/email_validated
+baiduspider-180-76-15-151.crawl.baidu.com
+0 2 2 2593 1 1520043953
+/exemplars/Unruly
+ip101.ip-54-36-148.eu
+0 1 1 3310 1 1520231617
+/login/forward/230
+ec2-52-14-111-50.us-east-2.compute.amazonaws.com
+0 7 7 41456 1 1519906102
+/
+crawl-66-249-65-142.googlebot.com
+0 1 0 205 0 0
+-
+123.125.67.218
+0 1 1 157 0 0
+-
+48.ip-51-254-208.eu
+0 1 1 14540 1 1520149257
+/about
+wwwcache.gla.ac.uk
+0 4 4 0 2 1520289256
+/contact
+google-proxy-66-249-88-62.google.com
+0 7 7 411694 0 0
+-
+fulltextrobot-77-75-79-119.seznam.cz
+0 2 2 2592 1 1520088947
+/exemplars/Medicanimal
+msnbot-207-46-13-201.search.msn.com
+0 3 1 573 0 0
+-
+softbank060114061051.bbtec.net
+0 2 2 91604 1 1520267215
+/
+crawl11.bl.semrush.com
+0 4 4 11935 1 1519905160
+/login/forward/263
+159.89.114.190
+0 4 4 0 1 1520123265
+/
+baiduspider-180-76-15-31.crawl.baidu.com
+0 4 4 12252 3 1520188297
+/exemplars/Huddle
+182.190.54.74
+0 2 2 91604 1 1520172284
+/
+138.40.67.233
+0 46 46 1088780 1 1520274895
+/business-models/solutions-model
+112.133.229.101
+0 2 2 91604 1 1520233329
+/
+177-95-88-15.dsl.telesp.net.br
+0 2 2 91604 1 1520291658
+/
+web-gateway-b.deloitte.de
+0 1 1 112300 0 0
+-
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com
+0 2 2 19310 2 1520163854
+/
+dup-201-111-172-183.prod-dial.com.mx
+0 1 1 9349 0 0
+-
+baiduspider-180-76-15-140.crawl.baidu.com
+0 3 3 14528 3 1520134503
+/exemplars/Justgiving
+204.79.180.9
+0 2 2 27306 0 0
+-
+crawl-66-249-64-77.googlebot.com
+0 1 1 620 0 0
+-
+163-172-229-86.rev.poneytelecom.eu
+0 1 1 9655 1 1520175058
+/
+197-88-158-27.dsl.mweb.co.za
+0 2 2 91604 1 1520256205
+/
+170.83.51.228
+0 2 2 91604 1 1520244840
+/
+vline-50-243.godo.co.kr
+0 5 5 29419 1 1519989400
+/business-models/matchmaking-model/api/xmlrpc
+ec2-107-22-89-77.compute-1.amazonaws.com
+0 1 1 82255 1 1520235016
+/
+141-8-142-105.spider.yandex.com
+0 1 1 3577 1 1520184211
+/business-models
+fm-dyn-139-193-242-36.fast.net.id
+0 2 2 91604 1 1519880741
+/
+204.79.180.16
+0 3 3 56852 1 1520069523
+/business-models/product-model
+v133-130-112-147.a03b.g.tyo1.static.cnode.io
+0 100 100 348978 2 1520031980
+/login/forward/236
+msnbot-157-55-39-110.search.msn.com
+0 3 3 24252 2 1519932288
+/
+cellgate.btcellnet.net
+0 47 47 1102408 1 1520246679
+/exemplars/datasift
+vps1102.hidehost.net
+0 21 18 1483428 7 1520284043
+/
+anon-35-50.vpn.ipredator.se
+0 2 2 91844 1 1520019832
+/
+crawl3.bl.semrush.com
+0 6 6 23420 1 1519905160
+/resources
+fulltextrobot-77-75-78-170.seznam.cz
+0 2 2 2593 1 1520077969
+/exemplars/Oscar-Health
+074-140-067-156.ip-addr.inexio.net
+0 2 2 19306 1 1519922009
+/
+ec2-54-183-165-74.us-west-1.compute.amazonaws.com
+0 2 2 110 2 1520300527
+/
+106.11.153.207
+0 1 1 2431 1 1520238625
+/exemplars/huddle
+crawl10.bl.semrush.com
+0 4 4 22027 1 1519905125
+/login/forward/324
+94.119.96.6
+0 1 1 2433 1 1519925572
+/exemplars/Qubit
+static.116.92.201.195.clients.your-server.de
+0 8 8 389622 1 1520279415
+/
+dyn3218-248.wlan.ic.ac.uk
+0 5 5 35605 1 1520255281
+/login/forward/230
+host120-139-211-80.serverdedicati.aruba.it
+0 2 1 9561 0 0
+-
+fulltextrobot-77-75-78-165.seznam.cz
+0 2 2 2588 1 1520070876
+/exemplars/Achica
+static.230.6.76.144.clients.your-server.de
+0 4 4 165622 1 1520058211
+/
+ip80.ip-54-36-148.eu
+0 1 1 2458 1 1520217594
+/exemplars/hulus-free-demand-videos
+37-9-113-85.spider.yandex.com
+0 65 64 198068 10 1520131808
+/resources
+220.227.232.77
+0 2 2 91604 1 1520238344
+/
+msnbot-40-77-167-4.search.msn.com
+0 1 1 157 0 0
+-
+39.186.57.37.triolan.net
+0 2 2 91844 1 1520252677
+/
+baiduspider-220-181-108-159.crawl.baidu.com
+0 1 1 3305 1 1520049736
+/contact
+crawl-66-249-65-140.googlebot.com
+0 1 0 208 0 0
+-
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 1 6859 1 1520140511
+/exemplars/matchmaking-model
+204.79.180.7
+0 2 2 43690 0 0
+-
+google-proxy-66-102-6-27.google.com
+0 9 9 63252 2 1520253634
+/register
+cpc124304-ayle4-2-0-cust180.15-2.cable.virginm.net
+0 1 1 112300 0 0
+-
+msnbot-157-55-39-210.search.msn.com
+0 3 3 4361 0 0
+-
+46-119-114-157.broadband.kyivstar.net
+0 25 25 2059475 9 1520285679
+/
+msnbot-199-30-24-0.search.msn.com
+0 1 1 52553 1 1519953142
+/business-models/product-model
+baiduspider-180-76-15-24.crawl.baidu.com
+0 1 1 2436 1 1520130503
+/exemplars/Chemist-Direct
+baiduspider-123-125-71-31.crawl.baidu.com
+0 1 1 3319 1 1519893986
+/resources/business-model-innovation
+154.100.89.137
+0 2 2 91604 1 1520025766
+/
+146.185.223.252
+0 1 1 82379 1 1520262385
+/
+baiduspider-180-76-15-27.crawl.baidu.com
+0 1 1 2436 1 1520200297
+/exemplars/Chemist-Direct
+128.199.76.10
+0 4 4 0 0 0
+-
+crawl-66-249-66-217.googlebot.com
+0 1 0 0 0 0
+-
+baiduspider-180-76-15-150.crawl.baidu.com
+0 3 3 5908 2 1520305315
+/login
+82.108.6.219
+0 26 26 938223 1 1520115990
+/business-models/matchmaking-model
+194-14-39-104.kund.ipswe.com
+0 27 27 932174 1 1520251785
+/business-models/solutions-model
+212.3.195.38
+0 2 2 91604 1 1520191099
+/
+ip213.ip-54-36-148.eu
+0 1 1 2392 1 1520214630
+/exemplars/aas-pay-how-you-drive-insurance
+ec2-54-198-195-74.compute-1.amazonaws.com
+0 3 3 14937 0 0
+-
+107.150.59.98
+0 2 2 82749 1 1519968615
+/
+115.132.163.119
+0 2 2 91604 1 1519950084
+/
+ns543174.ip-144-217-252.net
+0 2 2 314 0 0
+-
+baiduspider-180-76-15-12.crawl.baidu.com
+0 1 1 2437 1 1520205868
+/exemplars/Skyscanner
+msnbot-40-77-167-62.search.msn.com
+0 2 2 2490 2 1520020631
+/
+94.59.31.161
+0 1 1 370651 0 0
+-
+87-250-224-98.spider.yandex.com
+0 28 28 67109 1 1519903177
+/exemplars/Kabbage
+baiduspider-123-125-71-13.crawl.baidu.com
+0 1 1 2452 1 1519948277
+/exemplars/Small-World-Financial-Services
+fulltextrobot-77-75-78-164.seznam.cz
+0 4 4 5180 2 1519971605
+/exemplars/Worldremit
+46.161.9.56
+0 16 16 742645 2 1520181603
+/contact
+106.11.157.203
+0 2 2 314 0 0
+-
+200.87.64.202
+0 2 2 91604 1 1520290503
+/
+39.33.175.15
+0 2 2 91604 1 1520146394
+/
+msnbot-207-46-13-91.search.msn.com
+0 11 11 77093 4 1520121750
+/
+62.82.197.202.static.user.ono.com
+0 49 49 1901186 2 1519993137
+/
+google-proxy-66-102-6-25.google.com
+0 5 5 67754 0 0
+-
+176.233.136.144
+0 2 2 91604 1 1520166941
+/
+crawl-122-170-187-194.qwant.com
+0 2 2 9810 1 1520257957
+/
+cpc76738-dals23-2-0-cust768.20-2.cable.virginm.net
+0 51 51 1854818 2 1520270012
+/business-models/matchmaking-model
+snode7.exensa.net
+0 235 235 781124 3 1520292884
+/login/forward/266
+ip-31-205-230-25.ask4internet.com
+0 36 36 1024230 1 1520278282
+/business-models/matchmaking-model
+144.173.23.71
+0 29 29 980080 1 1520268205
+/exemplars
+msnbot-40-77-167-35.search.msn.com
+0 3 3 8170 0 0
+-
+baiduspider-220-181-108-169.crawl.baidu.com
+0 1 1 9655 1 1520038877
+/
+baiduspider-220-181-108-76.crawl.baidu.com
+0 1 1 12278 1 1520252634
+/exemplars
+111.92.86.35
+0 2 2 91604 1 1519892235
+/
+baiduspider-180-76-15-32.crawl.baidu.com
+0 3 3 8176 3 1520247284
+/exemplars/Naked-wines
+crawl-66-249-66-21.googlebot.com
+0 4 4 23694 0 0
+-
+80.40.134.104
+0 2 2 12994 1 1520199435
+/ccm/assets/localization/core/js
+msnbot-157-55-39-32.search.msn.com
+0 2 0 416 0 0
+-
+ec2-54-205-114-100.compute-1.amazonaws.com
+0 1 1 82255 1 1519864765
+/
+static.88-198-43-207.clients.your-server.de
+0 1 1 82255 1 1520141145
+/
+msnbot-40-77-167-141.search.msn.com
+0 2 2 231203 1 1520067077
+/
+5.75.251.95
+0 41 41 1049784 1 1520284187
+/exemplars/nomad-digital
+dyn3209-198.wlan.ic.ac.uk
+0 57 57 1636455 1 1520264142
+/exemplars
+166.67.66.246
+0 1 1 112300 0 0
+-
+69.58.178.57
+0 11 11 431344 1 1520077462
+/exemplars
+138.40.67.229
+0 9 9 104293 2 1520118824
+/
+a94-133-40-182.cpe.netcabo.pt
+0 2 2 91604 1 1519908647
+/
+204.79.180.13
+0 3 3 44147 0 0
+-
+ip7.ip-54-36-149.eu
+0 1 1 2429 1 1520196209
+/exemplars/Moo
+139.59.240.30
+0 56 56 1013523 1 1520227775
+/login/concrete/forgot_password
+hn.kd.ny.adsl
+0 4 4 29122 3 1520292814
+/
+dyn3181-206.wlan.ic.ac.uk
+0 50 50 1100092 1 1520253028
+/exemplars
+broadband.actcorp.in
+0 25 25 1001776 2 1520267678
+/
+162-224-96-241.lightspeed.nworla.sbcglobal.net
+0 2 2 91604 1 1519892894
+/
+msnbot-40-77-167-52.search.msn.com
+0 1 1 55 1 1520057974
+/
+36.255.84.194
+0 2 2 91604 1 1520009591
+/
+libws-sk448.lib.ic.ac.uk
+0 24 24 919829 1 1520185084
+/
+host-92-27-63-7.static.as13285.net
+0 30 30 1525641 2 1520181225
+/
+123.125.67.157
+0 1 1 157 0 0
+-
+broadband-109-173-119-152.moscow.rt.ru
+0 2 2 22713 0 0
+-
+112.5.248.152
+0 1 1 9655 1 1519924471
+/
+msnbot-40-77-167-116.search.msn.com
+0 1 1 9653 1 1520175202
+/
+baiduspider-220-181-108-91.crawl.baidu.com
+0 1 1 2434 1 1519917580
+/exemplars/Naked-wines
+host109-157-3-79.range109-157.btcentralplus.com
+0 8 8 77957 1 1519951798
+/
+dinamic-tigo-177-252-245-216.tigo.com.co
+0 24 24 911866 1 1520035791
+/
+5.151.0.103
+0 1 1 9653 1 1520024305
+/
+msnbot-199-30-24-223.search.msn.com
+0 1 1 370651 0 0
+-
+ec2-54-91-183-167.compute-1.amazonaws.com
+0 1 1 2387 0 0
+-
+fulltextrobot-77-75-79-36.seznam.cz
+0 2 2 2593 1 1520189726
+/exemplars/funding-circle
+crawl4.bl.semrush.com
+0 2 2 5732 1 1519904968
+/login/forward/220
+researchscan19.netintum.umbrellastudy.com
+0 1 1 0 1 1519994168
+/
+msnbot-207-46-13-21.search.msn.com
+0 4 4 292658 1 1519901077
+/exemplars/Oscar-Health
+coccoc.com
+0 4 2 314 0 0
+-
+ns3081811.ip-91-121-116.eu
+0 2 2 9959 0 0
+-
+138.40.209.21
+0 1 1 13410 0 0
+-
+213-180-203-42.spider.yandex.com
+0 1 1 494 0 0
+-
+172.58.14.199
+0 1 1 112300 0 0
+-
+crawltxt2.bl.semrush.com
+0 1 1 157 0 0
+-
+ip214.ip-54-36-148.eu
+0 1 1 3312 1 1520290593
+/login/forward/242
+175.143.112.66
+0 23 23 910172 1 1520302460
+/
+li684-20.members.linode.com
+0 17 17 158933 1 1519983483
+/components/com_sexycontactform/assets/js/
+baiduspider-180-76-15-138.crawl.baidu.com
+0 2 2 9857 2 1520305314
+/exemplars/video
+msnbot-199-30-24-115.search.msn.com
+0 1 1 37107 0 0
+-
+116-206-137-42.frontiir.com
+0 2 2 91604 1 1519916978
+/
+222.236.220.132
+0 16 10 60192 2 1519989931
+/business-models/api/xmlrpc/
+110.44.126.235
+0 2 2 91604 1 1519989401
+/
+198.96.87.2
+0 24 24 611002 1 1520200805
+/business-models/solutions-model
+ip-176-193-126-136.bb.netbynet.ru
+0 10 10 110392 1 1520209156
+/business-models/matchmaking-model
+crawl6.bl.semrush.com
+0 5 5 28375 1 1519904995
+/login/forward/238
+10.red-83-56-38.staticip.rima-tde.net
+0 2 2 91604 1 1520021674
+/
+ip-31-205-241-36.ask4internet.com
+0 1 1 9655 1 1519982610
+/
+ip4da11fe4.direct-adsl.nl
+0 2 2 91604 1 1520038981
+/
+204.79.180.11
+0 3 3 28094 0 0
+-
+crawl-66-249-64-89.googlebot.com
+0 33 31 124382 13 1520275439
+/
+baiduspider-180-76-15-141.crawl.baidu.com
+0 1 1 2435 1 1520074709
+/exemplars/DataSift
+hosted.by.liquidnetlimited.com
+0 1 1 9349 1 1520238263
+/old/wp-admin/
+rca106.gri.gtitelecom.net.br
+0 2 2 91604 1 1520120850
+/
+204.79.180.21
+0 1 1 3033 0 0
+-
+106.11.159.216
+0 1 1 2437 1 1519932255
+/exemplars/credit-karma
+host-139-net-97-160-119.mobilinkinfinity.net.pk
+0 32 32 684024 1 1520120360
+/business-models/multi-sided-model
+x1-6-a4-2b-8c-a9-f7-82.cpe.webspeed.dk
+0 2 2 91604 1 1520075682
+/
+207.148.93.41.vultr.com
+0 1 1 9653 1 1519985866
+/
+cpc89006-gill18-2-0-cust3055.20-1.cable.virginm.net
+0 20 20 565849 1 1520172397
+/business-models/product-model
+ec2-54-91-47-254.compute-1.amazonaws.com
+0 14 14 144687 1 1519904304
+/
+40.77.169.22
+0 1 1 3732 1 1520078549
+/resources/business-model-portfolio
+baiduspider-180-76-15-23.crawl.baidu.com
+0 1 1 9653 1 1520192297
+/
+190.123.205.67
+0 1 1 9349 0 0
+-
+crawl5.bl.semrush.com
+0 6 6 17250 1 1519904881
+/resources/business-model-video
+87-250-224-124.spider.yandex.com
+0 3 3 9885 3 1520204418
+/register
+google-proxy-66-102-8-221.google.com
+0 5 5 61525 0 0
+-
+154.124.207.117
+0 10 10 56735 4 1520003130
+/
+cpe-181-44-137-110.telecentro-reversos.com.ar
+0 2 2 91604 1 1519894126
+/
+151.88.22.12
+0 42 42 1066263 1 1520260267
+/login/forward/263
+188.165.2.183
+0 1 1 9653 1 1519939179
+/
+msnbot-199-30-24-217.search.msn.com
+0 1 1 122267 0 0
+-
+msnbot-65-55-210-220.search.msn.com
+0 1 1 370651 0 0
+-
+msnbot-157-55-39-152.search.msn.com
+0 5 5 27905 2 1519887372
+/
+dyn3198-62.wlan.ic.ac.uk
+0 31 31 994138 1 1520260457
+/
+boron037.a.ahrefs.com
+0 4 4 628 0 0
+-
+94.119.96.0
+0 20 20 666772 0 0
+-
+40.77.179.114
+0 1 1 137983 0 0
+-
+123.125.67.225
+0 1 1 157 0 0
+-
+msnbot-40-77-167-66.search.msn.com
+0 1 1 2450 1 1520196052
+/exemplars/Small-World-Financial-Services
+162.243.69.215
+0 1 1 15720 0 0
+-
+baiduspider-220-181-108-104.crawl.baidu.com
+0 1 1 2439 1 1520006303
+/exemplars/Credit-Karma
+173.205.33.27
+0 1 1 1149 1 1520008119
+/login/callback/concrete/v/rN6ZOlQvIuje
+crawl-66-249-64-87.googlebot.com
+0 3 3 9912 2 1520172106
+/login/forward/210
+msnbot-157-55-39-146.search.msn.com
+0 13 13 65275 2 1520101275
+/exemplars/product-model
+msnbot-131-253-27-146.search.msn.com
+0 1 1 7189 0 0
+-
+dyn3212-62.wlan.ic.ac.uk
+0 38 38 1382138 1 1520253003
+/exemplars
+216.244.66.237
+0 22 22 155408 10 1520028803
+/login/forward/215
+2.50.46.51
+0 2 2 91604 1 1519884426
+/
+93-34-53-7.ip48.fastwebnet.it
+0 22 22 909686 1 1520207705
+/
+82.131.235.181.pool.invitel.hu
+0 2 2 91604 1 1520109713
+/
+crawl15.bl.semrush.com
+0 4 4 11219 1 1519905096
+/exemplars/Etoro
+c-73-60-48-135.hsd1.nh.comcast.net
+0 1 1 112300 0 0
+-
+177.64.159.135
+0 2 2 91604 1 1520108037
+/
+46-118-125-21.broadband.kyivstar.net
+0 26 26 2141854 10 1520280284
+/
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 1 2434 1 1519898752
+/exemplars/Stripe
+crawl16.bl.semrush.com
+0 6 6 17234 1 1519905039
+/exemplars/Evernote
+msnbot-131-253-27-63.search.msn.com
+0 2 2 14378 0 0
+-
+empty.stranzit.ru
+0 23 23 923095 1 1520221443
+/
+103.47.64.22
+0 2 2 91604 1 1520247518
+/
+cpc99624-brnt2-2-0-cust1251.4-2.cable.virginm.net
+0 33 33 959869 2 1520294617
+/exemplars/transferwise
+105.98.216.171
+0 2 2 91604 1 1520251534
+/
+dsl.49.146.135.140.pldt.net
+0 2 2 91844 1 1519998985
+/
+40.77.177.38
+0 1 1 2116 0 0
+-
+baiduspider-220-181-108-113.crawl.baidu.com
+0 2 2 4874 2 1519973729
+/exemplars/Worldstores
+her75-2-78-193-36-180.fbxo.proxad.net
+0 23 23 910172 1 1520208117
+/
+05476ffb.skybroadband.com
+0 1 1 9655 1 1519948269
+/
+146.185.159.72
+0 1 0 0 0 0
+-
+fulltextrobot-77-75-76-170.seznam.cz
+0 2 2 2588 1 1519899878
+/exemplars/Acturis
+gw-bln.aperto.de
+0 9 9 426958 1 1519989498
+/exemplars
+crawl-66-249-64-66.googlebot.com
+0 1 0 208 0 0
+-
+162.254.201.254
+0 4 2 0 0 0
+-
+enterprisesearch.siteimprove.com
+0 1 1 82379 1 1520017358
+/
+ip15.ip-54-36-149.eu
+0 1 1 3304 1 1520281723
+/login/forward/334
+msnbot-40-77-167-168.search.msn.com
+0 1 1 41763 0 0
+-
+cpc117352-walt26-2-0-cust7.13-2.cable.virginm.net
+0 1 1 112300 0 0
+-
+5e0f632f.bb.sky.com
+0 23 23 585306 1 1520197700
+/business-models/multi-sided-model
+ec2-34-210-115-85.us-west-2.compute.amazonaws.com
+0 1 1 9653 1 1520091031
+/
+baiduspider-180-76-15-139.crawl.baidu.com
+0 1 1 2432 1 1520093844
+/exemplars/Qubit
+46-118-116-121.broadband.kyivstar.net
+0 16 16 1318064 9 1520284738
+/
+extern-bic-ita-ipv4-0046.ita-kl.de
+0 34 34 1407945 1 1519986158
+/business-models/product-model
+ec2-54-82-27-144.compute-1.amazonaws.com
+0 14 14 109340 1 1520307342
+/resources
+host86-183-11-42.range86-183.btcentralplus.com
+0 1 1 9655 1 1520274511
+/
+163.ip-137-74-114.eu
+0 4 4 190552 2 1520149562
+/
+ip179.ip-54-36-148.eu
+0 1 1 2436 1 1519875113
+/exemplars/funding-circle
+libra.thewebhostserver.com
+0 1 1 9349 1 1520237164
+/blog/wp-admin/
+212.177.137.226
+0 1 1 112300 0 0
+-
+ppp-171-96-222-237.revip8.asianet.co.th
+0 1 1 112300 0 0
+-
+37-9-113-160.spider.yandex.com
+0 1 1 9655 1 1519890752
+/
+astdenis-653-1-4-86.w90-10.abo.wanadoo.fr
+0 2 2 91604 1 1520054389
+/
+c09-10.sysnet.ucsd.edu
+0 5 5 11935 0 0
+-
+baiduspider-180-76-15-152.crawl.baidu.com
+0 1 1 2432 1 1520039302
+/exemplars/Moo
+msnbot-207-46-13-189.search.msn.com
+0 1 1 55 1 1520195897
+/
+138.40.67.231
+0 9 9 80168 1 1520277274
+/exemplars/snapchat
+google-proxy-66-249-88-91.google.com
+0 7 7 65390 1 1520031149
+/
+baiduspider-220-181-108-167.crawl.baidu.com
+0 1 1 2439 1 1519937419
+/exemplars/Matchesfashion
+fulltextrobot-77-75-78-172.seznam.cz
+0 2 2 3008 1 1520150676
+/register
+34-145-4-80.static.virginm.net
+0 47 47 1823925 2 1520261746
+/
+baiduspider-220-181-108-77.crawl.baidu.com
+0 1 1 2435 1 1520237016
+/exemplars/Vice-Media
+ec2-54-175-56-157.compute-1.amazonaws.com
+0 61 61 314118 2 1520303004
+/exemplars/Algomi
+105.100.70.102
+0 2 2 91604 1 1519900461
+/
+78.96.218.191
+0 2 2 91844 1 1520086259
+/
+baiduspider-220-181-108-185.crawl.baidu.com
+0 1 1 2439 1 1520094003
+/exemplars/lending-club
+39.53.79.141
+0 2 2 91604 1 1520074980
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 2 2 46097 1 1520141392
+/exemplars
+static.120.90.46.78.clients.your-server.de
+0 1 1 82379 1 1520141147
+/
+host86-151-191-165.range86-151.btcentralplus.com
+0 16 16 845753 1 1520009686
+/
+crawl8.bl.semrush.com
+0 6 6 19815 1 1519904998
+/contact
+fulltextrobot-77-75-76-169.seznam.cz
+0 2 2 2589 1 1520294186
+/exemplars/Zoopla
+191.101.81.36
+0 1 1 9653 1 1519938883
+/
+104.78.6.51.dyn.plus.net
+0 1 1 9653 1 1520123439
+/
+204.79.180.0
+0 1 1 7189 0 0
+-
+185.189.92.56
+0 2 2 18814 0 0
+-
+204.79.180.1
+0 3 3 14226 1 1520084520
+/business-models/multi-sided-model
+197.164.87.80
+0 2 2 91844 1 1520186079
+/
+crawl13.bl.semrush.com
+0 3 3 9053 1 1519904799
+/exemplars/Venntro-Media-Group
+78.10.208.113
+0 2 2 91604 1 1520198637
+/
+39.43.116.142
+0 2 2 91604 1 1520084354
+/
+crawl-66-249-66-219.googlebot.com
+0 4 3 22794 2 1519945844
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 2435 1 1520288720
+/exemplars/Nomad-digital
+dyn3138-183.wlan.ic.ac.uk
+0 35 35 238982 2 1519934253
+/login/forward/248
+host86-159-70-242.range86-159.btcentralplus.com
+0 23 23 910174 1 1520255631
+/
+ec2-35-153-226-254.compute-1.amazonaws.com
+0 46 46 269472 2 1520302440
+/exemplars/MODE
+175.139.27.45
+0 20 20 568175 1 1520245686
+/business-models/matchmaking-model
+238.251.71.37.rev.sfr.net
+0 41 41 1043058 2 1520028518
+/business-models/product-model
+41.203.233.251
+0 28 28 653157 1 1519907121
+/login/forward/277
+ip94-142-59-234.zaindata.jo
+0 23 23 910172 1 1519994101
+/
+79-118-97-207.rdsnet.ro
+0 2 2 91604 1 1520280298
+/
+msnbot-40-77-167-80.search.msn.com
+0 3 3 36427 1 1520204663
+/exemplars/Worldstores
+host-78-146-229-20.as13285.net
+0 46 46 1168192 1 1520194791
+/contact
+crawl7.bl.semrush.com
+0 3 3 9050 1 1519905210
+/resources/business-model-innovation
+google-proxy-66-249-93-59.google.com
+0 5 5 20764 2 1520025797
+/
+msnbot-157-55-39-65.search.msn.com
+0 5 5 23255 1 1519937292
+/business-models/product-model
+google-proxy-66-249-93-57.google.com
+0 3 3 380790 1 1520173153
+/
+fulltextrobot-77-75-78-171.seznam.cz
+0 5 5 8497 2 1520148995
+/exemplars/Onefinestay
+141-8-132-10.spider.yandex.com
+0 2 2 12983 1 1520184214
+/business-models/product-model
+dyn3202-232.wlan.ic.ac.uk
+0 24 24 913753 1 1520259481
+/business-models
+ip51.ip-54-36-149.eu
+0 1 1 2435 1 1520283331
+/exemplars/Vice-Media
+137.186.225.35.bc.googleusercontent.com
+0 5 5 3929 1 1519872019
+/contact
+180.191.131.108
+0 2 2 91604 1 1520180975
+/
+213-180-203-23.spider.yandex.com
+0 1 1 12489 1 1520184217
+/business-models/product-model
+ip97.ip-54-36-148.eu
+0 1 1 2392 1 1520270742
+/latest-news/lorem-ipsum-dolor
+0278497c.bb.sky.com
+0 69 69 1615401 1 1520252104
+/exemplars/graze
+lk.iomworld.com
+0 23 23 578124 1 1520156360
+/login
+204.79.180.17
+0 3 3 44944 0 0
+-
+cpc73670-dals20-2-0-cust682.20-2.cable.virginm.net
+0 37 37 1013977 1 1520103467
+/business-models/matchmaking-model
+138.40.67.207
+0 105 105 3733869 2 1520262142
+/business-models/product-model
+106.11.154.120
+0 1 1 157 0 0
+-
+95-108-181-120.spider.yandex.com
+0 1 1 2660 1 1520223210
+/resources
+62.113.196.43
+0 5 5 0 0 0
+-
+217-210-72-103-no162.tbcn.telia.com
+0 2 2 91604 1 1519942435
+/
+msnbot-157-55-39-35.search.msn.com
+0 4 4 63862 1 1519911745
+/
+95-108-181-99.spider.yandex.com
+0 1 1 1694 0 0
+-
+baiduspider-180-76-15-13.crawl.baidu.com
+0 1 1 2436 1 1520067092
+/exemplars/Evernote
+google-proxy-66-249-88-93.google.com
+0 9 9 183804 0 0
+-
+027e3ca0.bb.sky.com
+0 53 53 1112709 1 1520211759
+/exemplars/farfetch
+199.16.157.181
+0 2 2 10149 1 1519982762
+/
+rtr1-lo0.prg.opendns.com
+0 1 1 82379 1 1520016036
+/
+141-8-183-28.spider.yandex.com
+0 1 1 14819 1 1520184208
+/business-models/matchmaking-model
+crawl-66-249-65-133.googlebot.com
+0 17 17 74565 7 1520095922
+/login
+213.149.51.131
+0 62 62 1195066 1 1520158995
+/exemplars/tesla-motors
+195.57.26.5
+0 21 21 582994 1 1519909836
+/business-models/matchmaking-model
+msnbot-207-46-13-160.search.msn.com
+0 4 4 10766 0 0
+-
+msnbot-207-46-13-12.search.msn.com
+0 2 2 24486 0 0
+-
+atoulouse-258-1-6-60.w92-134.abo.wanadoo.fr
+0 23 23 910172 1 1519948169
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 2434 1 1519875525
+/exemplars/Calastone
+106.203.17.194
+0 2 2 91604 1 1520044007
+/
+msnbot-157-55-39-31.search.msn.com
+0 1 1 55 1 1520249425
+/
+crawl-66-249-66-18.googlebot.com
+0 4 4 11352 1 1519937155
+/
+host86-140-152-168.range86-140.btcentralplus.com
+0 48 48 1174156 1 1520000051
+/resources
+msnbot-40-77-167-112.search.msn.com
+0 2 2 5740 2 1520176688
+/exemplars/Lumi
+fulltextrobot-77-75-76-163.seznam.cz
+0 2 2 2592 1 1519976888
+/exemplars/Transferwise
+195.176.31.254
+0 24 24 919825 1 1519921201
+/
+176.14.9.250
+0 10 10 129013 1 1520108063
+/
+vig38-1-82-67-76-194.fbx.proxad.net
+0 23 23 910172 1 1519945364
+/
+122.15.152.185
+0 1 1 112300 0 0
+-
+host211-220-dynamic.56-82-r.retail.telecomitalia.it
+0 2 2 91604 1 1519914477
+/
+public-docking-pat-als-mapped-0013.ethz.ch
+0 23 23 910172 1 1520256597
+/
+n3plcpnl0091.prod.ams3.secureserver.net
+0 1 1 0 1 1520091074
+/business-models
+ip20.ip-54-36-149.eu
+0 2 2 5743 2 1520284699
+/exemplars/madecom
+204.79.180.2
+0 2 2 1281 0 0
+-
+ec2-34-229-72-28.compute-1.amazonaws.com
+0 6 6 40577 1 1520307360
+/business-models/solutions-model
+fetcher-img3-3.p.mail.ru
+0 1 1 9655 1 1520258258
+/
+103-21-187-102.static.tripleplay.in
+0 1 1 82255 1 1520063903
+/
+2.27.157.140
+0 23 23 919343 1 1520244067
+/
+eduroam-ipv4-0647.triple-a.uni-kl.de
+0 17 17 1216404 1 1520249916
+/
+crawl-66-249-66-197.googlebot.com
+0 1 0 208 0 0
+-
+dynw481.eduroam.gu.se
+0 2 2 19310 1 1520245458
+/
+msnbot-199-30-24-152.search.msn.com
+0 1 1 370651 0 0
+-
+188.28.142.6.threembb.co.uk
+0 35 35 993032 2 1520294556
+/resources/business-model-innovation
+pool-108-17-70-230.pitbpa.fios.verizon.net
+0 1 1 112300 0 0
+-
+184-22-6-0.24.public.mscs-mser.myaisfibre.com
+0 2 2 91604 1 1520069166
+/
+201-19-217-113.user.veloxzone.com.br
+0 2 2 91604 1 1520256402
+/
+static.213-239-205-118.clients.your-server.de
+0 1 1 494 0 0
+-
+host-92-11-207-45.as43234.net
+0 21 21 604928 1 1520262918
+/exemplars
+dyn3155-213.wlan.ic.ac.uk
+0 25 25 927641 1 1520260164
+/business-models
+static-ip-18156122124.cable.net.co
+0 2 2 91604 1 1520149965
+/
+94.120.45.224
+0 2 2 91604 1 1520226765
+/
+95.218.77.138
+0 1 1 112300 0 0
+-
+fulltextrobot-77-75-78-168.seznam.cz
+0 5 5 7652 2 1520269524
+/exemplars/Madecom
+m4.builtwith.xyz
+0 2 2 164510 1 1519960594
+/
+56.77.26.211.sta.commander.net.au
+0 1 1 112300 0 0
+-
+baiduspider-180-76-15-25.crawl.baidu.com
+0 2 2 2586 1 1520106502
+/exemplars/Salary-Finance
+msnbot-157-55-39-248.search.msn.com
+0 8 8 56866 4 1520027932
+/
+196-210-64-171.dynamic.isadsl.co.za
+0 2 2 91604 1 1520023670
+/
+fulltextrobot-77-75-76-164.seznam.cz
+0 2 2 2588 1 1520290181
+/exemplars/Algomi
+ip158.ip-54-36-148.eu
+0 1 1 2438 1 1520306706
+/exemplars/Secretescapes
+176.111.183.139
+0 1 1 14821 1 1520091649
+/business-models/matchmaking-model
+fulltextrobot-77-75-76-162.seznam.cz
+0 2 2 2591 1 1520178669
+/exemplars/Synthesio
+46.99.32.187
+0 2 2 91844 1 1519910623
+/
+ec2-54-198-172-122.compute-1.amazonaws.com
+0 2 2 164510 1 1520235575
+/
+204.79.180.8
+0 2 2 3216 0 0
+-
+sdbron9872w-lp140-01-64-229-154-68.dsl.bell.ca
+0 2 2 91604 1 1519946535
+/
+128.199.193.158
+0 1 1 0 0 0
+-
+47.247.72.67
+0 2 2 91604 1 1519904687
+/
+adsl.viettel.vn
+0 2 2 224600 0 0
+-
+152.201.126.91
+0 2 2 11347 1 1520031163
+/
+204.79.180.5
+0 3 3 52432 0 0
+-
+138.68.184.234
+0 23 23 910174 1 1520248005
+/
+fetcher-img3-5.p.mail.ru
+0 1 1 494 0 0
+-
+cable-188-2-146-167.dynamic.sbb.rs
+0 2 2 91604 1 1519937740
+/
+hfc-181-142-13-79.une.net.co
+0 22 22 909686 1 1520289292
+/
+msnbot-40-77-167-5.search.msn.com
+0 4 4 38194 1 1520184143
+/login/forward/318
+msnbot-207-46-13-60.search.msn.com
+0 12 12 442591 8 1520168246
+/
+5.151.171.136
+0 18 18 553395 1 1520295791
+/resources/business-model-innovation
+ip125.ip-54-36-148.eu
+0 1 1 3305 1 1520162858
+/login/forward/227
+msnbot-65-55-210-36.search.msn.com
+0 1 1 137983 0 0
+-
+google-proxy-66-249-88-33.google.com
+0 7 7 121525 1 1520254093
+/register
+baiduspider-220-181-108-105.crawl.baidu.com
+0 1 1 2435 1 1520105332
+/exemplars/Vice-Media
+23.237.4.26
+0 362 362 4977542 2 1520260643
+/login/concrete/forgot_password
+169.139.8.220
+0 1 1 112300 0 0
+-
+fulltextrobot-77-75-79-32.seznam.cz
+0 2 2 2593 1 1519964692
+/exemplars/Justgiving
+msnbot-157-55-39-185.search.msn.com
+0 3 3 37399 1 1520046912
+/login/forward/272
+msnbot-157-55-39-117.search.msn.com
+0 10 10 477756 3 1520294483
+/business-models/multi-sided-model
+ec2-52-37-211-217.us-west-2.compute.amazonaws.com
+0 1 1 9653 1 1520027620
+/
+ec2-54-198-58-19.compute-1.amazonaws.com
+0 214 214 756999 1 1520055460
+/
+static.19.65.9.5.clients.your-server.de
+0 87 87 287020 1 1520254115
+/exemplars/Small-World-Financial-Services
+msnbot-40-77-167-91.search.msn.com
+0 1 1 2441 1 1520303302
+/exemplars/Performance-Horizon
+173.205.33.25
+0 1 1 82379 1 1520204713
+/
+199.16.157.183
+0 2 2 10147 1 1520002514
+/
+82-132-231-247.dab.02.net
+0 22 22 677604 1 1520268319
+/exemplars
+180.211.179.174
+0 2 2 91604 1 1519935773
+/
+baiduspider-220-181-108-147.crawl.baidu.com
+0 1 1 2443 1 1519995446
+/exemplars/Performance-Horizon
+public-cgnat-pool-185-150-154-220.beirel.ru
+0 2 2 91604 1 1520188488
+/
+40.77.179.226
+0 3 3 8732 0 0
+-
+117.193.1.142
+0 2 2 91604 1 1520014793
+/
+msnbot-65-55-210-199.search.msn.com
+0 1 1 2116 0 0
+-
+fulltextrobot-77-75-78-166.seznam.cz
+0 4 4 5181 2 1520286814
+/exemplars/Orderdynamics
+dsl.49.150.195.4.pldt.net
+0 1 1 112300 0 0
+-
+msnbot-157-55-39-77.search.msn.com
+0 8 8 47923 4 1520227028
+/
+crawl-66-249-64-70.googlebot.com
+0 1 0 205 0 0
+-
+94.119.96.1
+0 27 27 1173686 2 1520093944
+/
+host81-155-236-93.range81-155.btcentralplus.com
+0 5 5 27898 1 1519925303
+/login/forward/266
+134-249-48-151.broadband.kyivstar.net
+0 23 23 1894717 8 1520202852
+/
+197.234.197.26
+0 2 2 91604 1 1520262838
+/
+bzq-131-253.red.bezeqint.net
+0 2 2 91844 1 1519953944
+/
+static.231.8.76.144.clients.your-server.de
+0 2 2 82749 1 1520137866
+/
+ip245.ip-54-36-148.eu
+0 1 1 3302 1 1520204614
+/login/forward/266
+google-proxy-66-102-8-219.google.com
+0 9 9 463149 1 1520085050
+/register
+106.11.157.201
+0 1 1 2434 1 1520189697
+/exemplars/ratesetter
+106.11.154.205
+0 1 1 9655 1 1520144000
+/
+cpc73668-dals20-2-0-cust352.20-2.cable.virginm.net
+0 25 25 922903 1 1520208173
+/business-models/product-model
+ip184.ip-54-36-148.eu
+0 2 2 5745 2 1520271250
+/exemplars/Boxcom
+crawl-66-249-73-205.googlebot.com
+0 7 7 63584 1 1520017016
+/
+37-173-83-65.coucou-networks.fr
+0 2 2 91604 1 1519910409
+/
+baiduspider-180-76-15-20.crawl.baidu.com
+0 1 1 2436 1 1520021590
+/exemplars/Shazam
+5.151.38.0
+0 50 50 1076030 1 1520084768
+/exemplars/spotify
+91.245.77.137
+0 39 39 1113535 4 1519933472
+/exemplars/matchmaking-model
+msnbot-207-46-13-61.search.msn.com
+0 1 1 9655 1 1520165049
+/
+204.79.180.14
+0 2 2 699 0 0
+-
+ec2-54-204-251-142.compute-1.amazonaws.com
+0 1 1 2387 0 0
+-
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 1 157 0 0
+-
+msnbot-40-77-167-184.search.msn.com
+0 8 8 445577 2 1519879882
+/
+adsl92-86-185-131.romtelecom.net
+0 2 2 91604 1 1519902459
+/
+185.200.212.100
+0 2 2 91604 1 1520211649
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+baiduspider-220-181-108-176.crawl.baidu.com
+0 1 1 3309 1 1520304232
+/login
+crawltxt3.bl.semrush.com
+0 1 1 157 0 0
+-
+msnbot-157-55-39-69.search.msn.com
+0 4 4 10766 0 0
+-
+msnbot-157-55-39-119.search.msn.com
+0 3 3 8597 0 0
+-
+37-115-112-228.broadband.kyivstar.net
+0 3 3 247137 1 1520301126
+/
+msnbot-207-46-13-90.search.msn.com
+0 2 2 42220 0 0
+-
+ec2-107-21-1-8.compute-1.amazonaws.com
+0 2 2 10141 1 1520303666
+/
+134-249-66-84.broadband.kyivstar.net
+0 3 3 247137 1 1520297588
+/
+ec2-54-208-102-37.compute-1.amazonaws.com
+0 2 2 10141 1 1520303668
+/
+216.244.66.247
+0 9 9 119632 2 1520304617
+/business-models/multi-sided-model
+216.244.66.200
+0 6 6 35037 2 1520306703
+/register
+ip27.ip-54-36-148.eu
+0 1 1 3310 1 1520304893
+/login/forward/260
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 157 0 0
+-
+ec2-54-183-165-74.us-west-1.compute.amazonaws.com
+0 1 1 55 1 1520300527
+/
+37-9-113-85.spider.yandex.com
+0 2 2 980 0 0
+-
+baiduspider-180-76-15-150.crawl.baidu.com
+0 1 1 3309 1 1520305315
+/login
+172.58.14.199
+0 1 1 112300 0 0
+-
+175.143.112.66
+0 23 23 910172 1 1520302460
+/
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 1 204 1 1520305314
+/exemplars/video
+cpc99624-brnt2-2-0-cust1251.4-2.cable.virginm.net
+0 1 1 2437 1 1520294617
+/exemplars/transferwise
+ec2-54-82-27-144.compute-1.amazonaws.com
+0 14 14 109340 1 1520307342
+/resources
+ec2-54-175-56-157.compute-1.amazonaws.com
+0 61 61 314118 2 1520303004
+/exemplars/Algomi
+ec2-35-153-226-254.compute-1.amazonaws.com
+0 46 46 269472 2 1520302440
+/exemplars/MODE
+ec2-34-229-72-28.compute-1.amazonaws.com
+0 6 6 40577 1 1520307360
+/business-models/solutions-model
+188.28.142.6.threembb.co.uk
+0 12 12 82858 2 1520294556
+/resources/business-model-innovation
+56.77.26.211.sta.commander.net.au
+0 1 1 112300 0 0
+-
+baiduspider-180-76-15-25.crawl.baidu.com
+0 1 1 148 0 0
+-
+ip158.ip-54-36-148.eu
+0 1 1 2438 1 1520306706
+/exemplars/Secretescapes
+5.151.171.136
+0 18 18 553395 1 1520295791
+/resources/business-model-innovation
+msnbot-157-55-39-117.search.msn.com
+0 6 6 447684 1 1520294483
+/business-models/multi-sided-model
+msnbot-40-77-167-91.search.msn.com
+0 1 1 2441 1 1520303302
+/exemplars/Performance-Horizon
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 1 157 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://businessmodelzoo.com/business-models/solutions-model
+0 79
+http://businessmodelzoo.com/application/themes/zoo/addons/matchHeight/jquery.matchHeight.js
+0 2
+https://www.google.com.ph/
+0 3
+http://businessmodelzoo.com/register/do_register
+0 2
+http://www.businessmodelzoo.com/index.php
+1 3
+http://businessmodelzoo.com/application/files/5014/5794/0812/favicon.ico
+0 1
+http://businessmodelzoo.com/login/forward/215
+0 5
+http://gazel-72.ru/
+0 6
+http://businessmodelzoo.com/exemplars/Huddle
+0 3
+https://www.google.fr/
+0 2
+http://www.businessmodelzoo.com/login/forward/244
+1 13
+http://www.businessmodelzoo.com/exemplars/NeoMobile
+1 1
+http://www.businessmodelzoo.com/about
+1 23
+http://stat.lviv.ua/
+0 3
+http://businessmodelzoo.com/business-models/multi-sided-model
+0 24
+http://www.businessmodelzoo.com/login/forward/232
+1 1
+https://www.timer4web.com/
+0 1
+https://buypuppies.ca/
+0 3
+http://www.businessmodelzoo.com/login/forward/230
+1 11
+http://businessmodelzoo.com/business-models/product-model
+0 30
+https://vzube.com/
+0 5
+http://www.businessmodelcommunity.com/
+0 5
+https://www.google.ch/
+0 3
+https://pills24h.com/buy-clonidine-online-without-prescription/
+0 4
+http://businessmodelzoo.com/exemplars/solutions-model
+0 6
+https://www.google.nl/
+0 1
+http://www.businessmodelzoo.com/exemplars/multi-sided-model
+1 4
+https://www.google.com.vn/
+0 5
+https://happysong.ru/
+0 3
+http://businessmodelzoo.com/index.php
+0 3
+http://www.businessmodelzoo.com/login/forward/226
+1 5
+http://www.businessmodelzoo.com/exemplars/algomi
+1 1
+http://businessmodelzoo.com/
+0 1220
+http://www.businessmodelzoo.com/exemplars/repknight
+1 1
+http://businessmodelzoo.com/concrete/blocks/image/js/hover.js
+0 4
+http://businessmodelzoo.com/application/themes/zoo/js/bootstrap.min.js
+0 4
+http://www.businessmodelzoo.com/register
+1 53
+http://www.businessmodelzoo.com/login/forward/328
+1 4
+http://businessmodelzoo.com/login/forward/263
+0 10
+http://businessmodelzoo.com/exemplars/matchmaking-model
+0 43
+http://businessmodelzoo.com/exemplars/multi-sided-model
+0 29
+http://www.businessmodelzoo.com/login/forward/278
+1 1
+https://www.google.it/
+0 1
+http://businessmodelzoo.com/robots.txt
+0 4
+http://www.businessmodelzoo.com/login/forward/252
+1 1
+http://www.businessmodelzoo.com/exemplars/solutions-model
+1 4
+http://businessmodelzoo.com
+0 1
+https://www.google.com.pk/
+0 1
+http://drugs-no-rx.info/
+0 6
+http://businessmodelzoo.com/login/forward/230
+0 6
+http://businessmodelzoo.com/login/account_deactivated
+0 3
+http://www.businessmodelzoo.com/login/forward/324
+1 2
+https://pfrf-kabinet.ru/
+0 3
+https://avtorskoe-vino.ru/
+0 3
+http://www.businessmodelzoo.com/exemplars/matchmaking-model
+1 4
+http://www.businessmodelzoo.com/login/forward/280
+1 4
+https://hentai-manga.porn/
+0 3
+http://businessmodelzoo.com/application/themes/zoo/js/modernizer.js
+0 4
+(null)
+0 3
+http://businessmodelzoo.com/login/forward/252
+0 5
+https://www.google.ae/
+0 1
+https://www.google.com/
+0 17
+- (Direct Request)
+0 3326
+http://businessmodelzoo.com/exemplars/product-model
+0 15
+http://businessmodelzoo.com/login/authenticate/concrete
+0 8
+http://www.businessmodelzoo.com/exemplars/achica
+1 15
+http://pornosmola.info/
+0 1
+http://businessaccelerator.10ximpact.biz
+0 3
+http://www.businessmodelzoo.com/resources/business-model-portfolio
+1 1
+http://www.businessmodelzoo.com/login/forward/217
+1 4
+http://transit.in.ua/
+0 1
+http://businessmodelzoo.com/login/forward/220
+0 5
+http://businessmodelzoo.com/exemplars/bla-bla-car
+0 5
+http://www.businessmodelzoo.com/login/authenticate/concrete
+1 27
+http://www.businessmodelzoo.com/login/forward/321
+1 9
+http://businessmodelzoo.com/exemplars/nomad-digital
+0 4
+http://www.businessmodelzoo.com/login/forward/248
+1 2
+http://businessmodelzoo.com/login/forward/214
+0 5
+http://suzuki-metropolis.kiev.ua/
+0 3
+http://www.businessmodelzoo.com/exemplars/graze
+1 4
+http://businessmodelzoo.com/exemplars/Achica
+0 3
+http://www.businessmodelzoo.com/ccm/assets/localization/core/js
+1 1
+http://komukc.com.ua/
+0 6
+http://www.businessmodelzoo.com/business-models/matchmaking-model
+1 13
+http://businessmodelzoo.com/business-models
+0 32
+http://businessmodelzoo.com/application/themes/zoo/js/less.min.js
+0 4
+http://www.businessmodelzoo.com/login/forward/266
+1 4
+http://www.businessmodelzoo.com/login/forward/227
+1 4
+http://www.businessmodelzoo.com/login
+1 12
+https://pills24h.com/buy-celebrex-online-without-prescription/
+0 3
+http://rql.kiev.ua/
+0 3
+http://www.columb.net.ua/
+0 1
+https://www.google.co.uk/
+0 24
+http://www.businessmodelzoo.com/business-models
+1 15
+http://www.businessmodelzoo.com/exemplars/lumi
+1 16
+http://metallo-konstruktsii.ru/
+0 3
+https://www.google.de/
+0 8
+http://businessmodelzoo.com/login/forward/277
+0 10
+https://professionalsolutions.eu/ru/
+0 2
+http://businessmodelzoo.com/login/forward/270
+0 1
+http://www.businessmodelzoo.com/exemplars/Orderdynamics
+1 5
+http://businessmodelzoo.com/login
+0 50
+http://www.google.hr/url
+0 1
+https://www.google.ca/
+0 3
+http://businessmodelzoo.com/exemplars/shazam
+0 5
+http://www.businessmodelzoo.com/contact
+1 4
+http://skinali.photo-clip.ru/
+0 6
+http://businessmodelzoo.com/register/register_success_validate/0
+0 3
+http://www.businessmodelzoo.com/exemplars/Unruly
+1 2
+http://www.businessmodelzoo.com/exemplars/funding-circle
+1 2
+http://www.businessmodelzoo.com/business-models/solutions-model
+1 19
+http://businessmodelzoo.com/login/forward/232
+0 5
+https://www.google.bf/
+0 1
+http://www.businessmodelzoo.com/application/files/5014/5794/0812/favicon.ico
+1 4
+http://www.businessmodelzoo.com/robots.txt
+1 2
+https://nakozhe.com/
+0 3
+http://all-news.kz/
+0 3
+https://www.google.com.ec/
+0 1
+http://www.create.ac.uk
+0 5
+http://makler.org.ua/
+0 1
+http://pornoelita.info/
+0 1
+http://aibolita.com/
+0 3
+https://t.co/Rm46a2hmz5
+0 1
+http://www.businessmodelzoo.com/login/forward/317
+1 4
+http://www.csswinner.com/category/Education/16/page/2
+0 1
+http://www.businessmodelzoo.com/login/callback/concrete/email_validated
+1 4
+http://www.businessmodelzoo.com/
+1 895
+http://gezlev.com.ua/
+0 2
+https://www.google.com
+0 14
+https://www.google.es/
+0 3
+https://pills24h.com/buy-doxycycline-online-without-prescription/
+0 2
+http://www.businessmodelzoo.com/exemplars/product-model
+1 6
+https://www.google.co.th/
+0 1
+http://businessmodelzoo.com/resources/business-model-portfolio
+0 21
+http://www.businessmodelzoo.com/login/account_deactivated
+1 2
+http://businessmodelzoo.com/login/callback/concrete/email_validated
+0 63
+http://www.businessmodelzoo.com/exemplars/Myoptique
+1 4
+https://www.google.co.in/
+0 4
+http://businessmodelzoo.com/resources/business-model-innovation
+0 18
+https://www.sundrugstore.com/
+0 2
+http://businessmodelzoo.com/login/forward/244
+0 5
+https://google.com/
+0 1
+http://truebeauty.cc/
+0 3
+https://zelena-mriya.com.ua/
+0 4
+http://www.businessmodelzoo.com/login/forward/251
+1 5
+https://james.blog1989.com
+0 1
+https://www.google.com.ua/
+0 2
+http://businessmodelzoo.com/resources
+0 4
+https://pills24h.com/buy-synthroid-levothyroxine-online-without-prescription/
+0 2
+https://petrushka-restoran.ru/
+0 7
+http://03e.info/
+0 3
+http://businessmodelzoo.com/business-models/matchmaking-model
+0 118
+http://www.businessmodelzoo.com/exemplars
+1 79
+http://www.businessmodelzoo.com/business-models/multi-sided-model
+1 19
+http://www.businessmodelzoo.com/exemplars/madecom
+1 1
+https://td-l-market.ru/
+0 3
+http://businessmodelzoo.com/login/callback/concrete/invalid_token
+0 1
+http://03p.info/
+0 3
+http://businessmodelzoo.com/exemplars
+0 118
+http://businessmodelzoo.com/contact
+0 47
+http://www.businessmodelzoo.com/login/forward/272
+1 4
+http://www.businessmodelzoo.com/login/forward/222
+1 4
+http://www.inet-shop.su/
+0 3
+http://businessmodelzoo.com/application/themes/zoo/js/jquery.min.js
+0 2
+http://businessmodelzoo.com/register
+0 34
+http://www.google.com/
+0 1
+http://businessmodelzoo.com/exemplars/graze
+0 1
+http://www.businessmodelzoo.com/login/forward/213
+1 27
+http://businessmodelzoo.com/login/forward/327
+0 5
+android-app://com.google.android.gm
+0 2
+https://www.google.com.sa/
+0 1
+http://deart-13.ru/
+0 3
+http://www.businessmodelzoo.com/exemplars/Oscar-Health
+1 1
+https://cryptoswap.biz/
+0 4
+http://businessmodelzoo.com/about
+0 63
+http://www.businessmodelzoo.com/resources
+1 2
+https://studentguide.ru/
+0 3
+http://doxyporno.com/
+0 1
+http://businessmodelzoo.com/login/forward/335
+0 4
+https://www.google.com.sg/
+0 1
+http://www.businessmodelzoo.com/business-models/product-model
+1 62
+http://whoiswho.crimea.ua/
+0 2
+http://yandex.ru/clck/jsredir
+0 2
+http://www.google.co.uk/url
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.3 (build 01218); .NET CLR 1.1.4322)
+0 2
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Robots/2.0; +http://go.mail.ru/help/robots)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 29
+Mozilla/5.0 (Macintosh; Intel Mac OS X 107) AppleWebKit/534.48.3 (KHTML like Gecko) Version/5.1 Safari/534.48.3
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1
+0 35
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; XMPP Tiscali Communicator v.10.0.2; .NET CLR 2.0.5
+0 3
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_7_8 rv:4.0; en-US) AppleWebKit/531.2.4 (KHTML, like Gecko) Version/5.1 Safari/531.
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 57
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.00
+0 3
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 62
+Twitterbot/1.0
+0 4
+Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.01
+0 3
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 43
+Microsoft Office PowerPoint 2014
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 232
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 23
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko)
+0 55
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 3.1)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 1
+Safari/13604.5.6 CFNetwork/893.13.1 Darwin/17.4.0 (x86_64)
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 15
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 2
+Mozilla/5.0 (Windows CE; en-US; rv:1.9.1.20) Gecko/20101125 Firefox/35.0
+0 1
+Opera/9.00 (Windows NT 5.1; U; en)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_2 like Mac OS X; sl-SI) AppleWebKit/531.19.2 (KHTML, like Gecko) Version/4.0.5 Mobile/
+0 1
+facebookexternalhit/1.1
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 67
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/7.0.125.1628 Safari/5
+0 1
+Barkrowler/0.7 (+http://www.exensa.com/crawl)
+0 372
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+0 2
+Mozilla/5.0 (Windows NT 6.0; rv:45.69.16) Gecko/20157626 Firefox/45.69.16
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3350.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 51
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) LinkCheck by Siteimprove.com
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 1
+Avant Browser (http://www.avantbrowser.com)
+0 5
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.01  [en]
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.5.6 (KHTML, like Gecko)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Avant Browser [avantbrowser.com]; Hotbar 4.4.5.0)
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 75
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.106 Safari/537.36
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; KTXN)
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 75
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 45
+ia_archiver
+0 100
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; WOW64; SV1; .NET CLR 2.0.50727)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 87
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 70
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 166
+Mozilla/4.76 [en] (Windows NT 5.0; U)
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:55.0) Gecko/20100101 Firefox/55.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 4
+Microsoft Office Word/16.10.210 (Mac OS/10.13.3; Desktop; en-US; NonAppStore; Apple/MacBookAir7,2)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 24
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 1
+Opera/9.72 (X11; Linux i686; sl-SI) Presto/2.8.200 Version/10.00
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 S
+0 24
+Opera/7.11 (Windows NT 5.1; U) [en]
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 348
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B202 S
+0 57
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.0) Match by Siteimprove.com
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 53
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.
+0 1
+Mozilla/4.0 (compatible; MSIE 4.01; Digital AlphaServer 1000A 4/233; Windows NT; Powered By 64-Bit Alpha Processor)
+0 3
+Go-http-client/1.1
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 4.6 (build 01425); MRSPUTNIK 1, 5, 0, 19 SW)
+0 1
+WordPress/4.9.4; https://darrenmundayassociates.com
+0 1
+Opera/8.89 (Windows NT 5.01; en-US) Presto/2.8.194 Version/10.00
+0 1
+Mozilla/5.0 (Microsoft Windows NT 6.2.9200.0); rv:22.0) Gecko/20130405 Firefox/22.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; sl-SI) AppleWebKit/531.17.4 (KHTML, like Gecko) Version/3.0.5 Mobile/
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 100
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.168 Safari/537.36
+0 34
+Mozilla/5.0 (iPad; CPU OS 8_2_2 like Mac OS X; sl-SI) AppleWebKit/533.31.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Saf
+0 1
+Googlebot-Image/1.0
+0 7
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1
+Screaming Frog SEO Spider/9.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 24
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/3.0)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+0 48
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 71
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 106
+Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.8) Gecko/20050609 Firefox/1.0.4
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 75
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 78
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KKman2.0)
+0 5
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/5312 (KHTML, like Gecko) Chrome/40.0.835.0 Mobile Safari/5312
+0 1
+Mozilla/5.0 (X11; CrOS x86_64 10032.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.140 Safari/537.36
+0 31
+BUbiNG (+http://law.di.unimi.it/BUbiNG.html#wc)
+0 558
+Safari/11604.5.6.1.1 CFNetwork/760.8 Darwin/15.6.0 (x86_64)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.
+0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 62
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 367
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)
+0 26
+Mozilla/5.0 (Windows NT 8.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 2.0.0 Beta 1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+0 3
+Mozilla/55 (Windows NT 10.0; WOW64; rv:55.0) Gecko/20100101 Firefox/55
+0 26
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.5 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5330 (KHTML, like Gecko) Chrome/38.0.879.0 Mobile Safari/5330
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 169
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_4 rv:4.0; sl-SI) AppleWebKit/533.26.2 (KHTML, like Gecko) Version/4.0 Safari/533.26
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/5311 (KHTML, like Gecko) Chrome/37.0.845.0 Mobile Safari/5311
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media Center PC
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; Deepnet Explorer)
+0 4
+Mozilla/5.0 (compatible; ExtLinksBot/1.5; +https://extlinks.com/Bot.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38
+0 86
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 9
+Magic Browser
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 180
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 30
+Mozilla/5.0 (compatible; coccocbot-image/1.0; +http://help.coccoc.com/searchengine)
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 1
+YisouSpider
+0 10
+Opera/9.41 (X11; Linux x86_64; sl-SI) Presto/2.9.174 Version/10.00
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/63.0.3239.73 Mobile/1
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.0.12335 Safari/537.36
+0 32
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)
+0 3
+Mozilla/5.0 (Linux; Android 7.1.1; XT1650 Build/NPLS26.118-20-5-11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.1
+0 25
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 2
+MobileSafari/604.1 CFNetwork/894 Darwin/17.4.0
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 49
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 9
+GuzzleHttp/6.2.1 curl/7.29.0 PHP/7.0.27
+0 56
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7.6) Gecko/20050512 Firefox
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+0 2
+Mechanize/2.7.5 Ruby/2.4.1p111 (http://github.com/sparklemotion/mechanize/)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko
+0 34
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 157
+Opera/9.0 (Windows NT 5.1; U; en)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 24
+WhatsApp/2.18.65 A
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI GRA-UL00 Build/HUAWEIGRA-UL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.328
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Jooblebot/2.0; Windows NT 6.1; WOW64; +http://jooble.org/jooble-bot) AppleWebKit/537.36 (KHTML, like
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0.2 Safari/604.4.7
+0 147
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 22
+Mozilla/4.0 (compatible- MSIE 6.0- Windows NT 5.1- SV1- .NET CLR 1.1.4322
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 82
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 23
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 112
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 54
+Mozilla/5.0 (compatible; DeuSu/5.0.2; +https://deusu.de/robot.html)
+0 10
+python-requests/1.2.3 CPython/2.7.12 Linux/4.9.76-3.78.amzn1.x86_64
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 16
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 5
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (compatible; ips-agent)
+0 11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 2
+ltx71 - (http://ltx71.com/)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.0
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 10
+Java/1.8.0_121
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_2 rv:4.0; en-US) AppleWebKit/531.24.5 (KHTML, like Gecko) Version/5.0 Safari/531.24
+0 1
+Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604
+0 77
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36
+0 26
+Screaming Frog SEO Spider/8.3
+0 2
+Mozilla/5.0 (Linux; Android 7.0; VTR-L09 Build/HUAWEIVTR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mob
+0 46
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Sa
+0 44
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; MRA 4.6 (build 01425); .NET CLR 1.1.4322; .NET CLR 2.
+0 3
+Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w
+0 2
+MobileSafari/601.1 CFNetwork/758.5.3 Darwin/15.6.0
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 28
+Mozilla/5.0 (compatible; AlphaBot/3.2; +http://alphaseobot.com/bot.html)
+0 362
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 69
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.2.10 (KHTML, like Gecko) Version/11.0 Mobile/15A8391
+0 25
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0 rv:5.0; sl-SI) AppleWebKit/534.26.6 (KHTML, like Gecko) Version/5.0.2 Safari/53
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:58.0) Gecko/20100101 Firefox/58.0
+0 41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; .NET CLR 1.0.2914)
+0 4
+BacklinkCrawler (http://www.backlinktest.com/crawler.html)
+0 87
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 21
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 95
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 12
+curb
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Sa
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Creative)
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) NS8/0.9.6
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 134
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 298
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.6 (build 01425))
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.168 Safari/537.36 OPR/51.0.
+0 39
+Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20130421 Firefox/35.0
+0 1
+python-requests/2.18.4
+0 5
+Mozilla/5.0 (Linux; Android 7.0; PRA-LX1 Build/HUAWEIPRA-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/6
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 33
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 44
+Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 14
+Mozilla/5.0 (Windows 98; Win 9x 4.90) AppleWebKit/5331 (KHTML, like Gecko) Chrome/39.0.823.0 Mobile Safari/5331
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20130406 Firefox/23.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
